@@ -1,0 +1,42 @@
+---
+title: "Data Cleaning"
+author: "Tom Gibbens-Matsuyama"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+### Load libraries
+```{r}
+library(tidyverse)
+library(here)
+library(janitor)
+```
+
+### Load data
+```{r}
+
+# Product data
+crop_yield <- read_csv(here("data", "FAOSTAT_data_en_4-1-2025.csv")) %>% 
+  clean_names()
+
+# Calendar data
+crop_calendar <- read_csv(here("data", "crop_yields.csv")) %>% 
+  clean_names()
+```
+
+### Start the cleaning process
+```{r}
+
+# Product data cleaning
+crop_products_cleaned <- crop_products %>% 
+  rename(country = area) %>% 
+  select(-year_code)
+
+
+# Calendar data cleaning
+crop_calendar_cleaned <- crop_calendar %>% 
+  rename(country = location)
+```
+
