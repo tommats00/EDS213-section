@@ -8,6 +8,7 @@ editor_options:
 ---
 
 ### Load libraries
+
 ```{r}
 library(tidyverse)
 library(here)
@@ -15,6 +16,7 @@ library(janitor)
 ```
 
 ### Load data
+
 ```{r}
 
 # Product data
@@ -27,10 +29,11 @@ crop_calendar <- read_csv(here("data", "crop_yields.csv")) %>%
 ```
 
 ### Start the cleaning process
+
 ```{r}
 
 # Product data cleaning
-crop_products_cleaned <- crop_products %>% 
+crop_yield_cleaned <- crop_yield %>% 
   rename(country = area) %>% 
   select(-year_code)
 
@@ -39,4 +42,3 @@ crop_products_cleaned <- crop_products %>%
 crop_calendar_cleaned <- crop_calendar %>% 
   rename(country = location)
 ```
-
