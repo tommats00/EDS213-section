@@ -8,6 +8,7 @@ editor_options:
 ---
 
 ### Load libraries
+
 ```{r}
 library(tidyverse)
 library(here)
@@ -15,6 +16,7 @@ library(janitor)
 ```
 
 ### Load data
+
 ```{r}
 
 # Product data
@@ -27,16 +29,60 @@ crop_calendar <- read_csv(here("data", "crop_yields.csv")) %>%
 ```
 
 ### Start the cleaning process
+
 ```{r}
 
 # Product data cleaning
-crop_products_cleaned <- crop_products %>% 
-  rename(country = area) %>% 
-  select(-year_code)
+crop_yield_cleaned <- crop_yield %>% 
+  rename(country = area,
+         crop = item) %>% 
+  select(c(country, crop, item_code_cpc, element, element_code,
+           year, unit, value, flag_description, flag, domain, domain_code)) %>% 
+  filter(crop %in% c("Wheat", "Rye", "Rice", "Oats", "Barley"),
+         year == 2023)
+
+# Create unique ID
+crop_yield_cleaned$unique_id <- as.integer(factor(paste(crop_yield_cleaned$country,
+                                               crop_yield_cleaned$item,
+                                               crop_yield_cleaned$element,
+                                               crop_yield_cleaned$year)))
+
 
 
 # Calendar data cleaning
 crop_calendar_cleaned <- crop_calendar %>% 
-  rename(country = location)
+  rename(country = location) %>% 
+  select(c(data_id, country, crop, plant_start, plant_end, plant_range,
+           harvest_start, harvest_end, harvest_range, temp_average, precip_average)) %>% 
+  filter(crop %in% c("Wheat", "Rye", "Rice", "Oats", "Barley"))
+```
+
+```{r}
+# Check NA values for Crop Yield
+for (col in names(crop_yield_cleaned)) {
+  num_na <- sum(is.na(crop_yield_cleaned[[col]]))
+  if (num_na > 0) {
+    cat(col, "has", num_na, "NA values\n")
+  } else {
+    cat(col, "has no NA values\n")
+  }
+}
+
+# Check NA values for crop calendar
+for (col in names(crop_calendar_cleaned)) {
+  num_na <- sum(is.na(crop_calendar_cleaned[[col]]))
+  if (num_na > 0) {
+    cat(col, "has", num_na, "NA values\n")
+  } else {
+    cat(col, "has no NA values\n")
+  }
+}
+```
+
+
+```{r}
+write_csv(crop_yield_cleaned, "crop_yield_cleaned.csv")
+
+write_csv(crop_calendar_cleaned, "crop_cal_cleaned.csv")
 ```
 
