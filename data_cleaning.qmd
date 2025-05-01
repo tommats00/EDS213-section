@@ -45,7 +45,10 @@ crop_yield_cleaned <- crop_yield %>%
 crop_yield_cleaned$unique_id <- as.integer(factor(paste(crop_yield_cleaned$country,
                                                crop_yield_cleaned$item,
                                                crop_yield_cleaned$element,
-                                               crop_yield_cleaned$year)))
+                                               crop_yield_cleaned$year))) 
+
+crop_yield_cleaned <- crop_yield_cleaned %>% 
+  drop_na()
 
 
 
@@ -55,6 +58,9 @@ crop_calendar_cleaned <- crop_calendar %>%
   select(c(data_id, country, crop, plant_start, plant_end, plant_range,
            harvest_start, harvest_end, harvest_range, temp_average, precip_average)) %>% 
   filter(crop %in% c("Wheat", "Rye", "Rice", "Oats", "Barley"))
+
+crop_calendar_cleaned <- crop_calendar_cleaned %>% 
+  drop_na()
 ```
 
 ```{r}
