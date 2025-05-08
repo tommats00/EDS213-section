@@ -1,0 +1,1500 @@
+country,crop,item_code_cpc,element,element_code,year,unit,value,flag_description,flag,domain,domain_code,unique_id
+Afghanistan,Barley,0115,Area harvested,5312,2023,ha,80000,Figure from international organizations,X,Crops and livestock products,QCL,1
+Afghanistan,Barley,0115,Yield,5412,2023,kg/ha,1375,Figure from international organizations,X,Crops and livestock products,QCL,3
+Afghanistan,Barley,0115,Production,5510,2023,t,110000,Figure from international organizations,X,Crops and livestock products,QCL,2
+Afghanistan,Rice,0113,Area harvested,5312,2023,ha,129000,Official figure,A,Crops and livestock products,QCL,1
+Afghanistan,Rice,0113,Yield,5412,2023,kg/ha,4627.9,Official figure,A,Crops and livestock products,QCL,3
+Afghanistan,Rice,0113,Production,5510,2023,t,597000,Official figure,A,Crops and livestock products,QCL,2
+Afghanistan,Wheat,0111,Area harvested,5312,2023,ha,2003070,Imputed value,I,Crops and livestock products,QCL,1
+Afghanistan,Wheat,0111,Yield,5412,2023,kg/ha,2146.7,Estimated value,E,Crops and livestock products,QCL,3
+Afghanistan,Wheat,0111,Production,5510,2023,t,4300000,Figure from international organizations,X,Crops and livestock products,QCL,2
+Albania,Barley,0115,Area harvested,5312,2023,ha,6260,Official figure,A,Crops and livestock products,QCL,4
+Albania,Barley,0115,Yield,5412,2023,kg/ha,3383.2,Official figure,A,Crops and livestock products,QCL,6
+Albania,Barley,0115,Production,5510,2023,t,21178.8,Official figure,A,Crops and livestock products,QCL,5
+Albania,Oats,0117,Area harvested,5312,2023,ha,14927,Official figure,A,Crops and livestock products,QCL,4
+Albania,Oats,0117,Yield,5412,2023,kg/ha,2306.1,Official figure,A,Crops and livestock products,QCL,6
+Albania,Oats,0117,Production,5510,2023,t,34422.5,Official figure,A,Crops and livestock products,QCL,5
+Albania,Rye,0116,Area harvested,5312,2023,ha,1277,Official figure,A,Crops and livestock products,QCL,4
+Albania,Rye,0116,Yield,5412,2023,kg/ha,2359,Official figure,A,Crops and livestock products,QCL,6
+Albania,Rye,0116,Production,5510,2023,t,3012.5,Official figure,A,Crops and livestock products,QCL,5
+Albania,Wheat,0111,Area harvested,5312,2023,ha,57620,Official figure,A,Crops and livestock products,QCL,4
+Albania,Wheat,0111,Yield,5412,2023,kg/ha,4053.9,Official figure,A,Crops and livestock products,QCL,6
+Albania,Wheat,0111,Production,5510,2023,t,233584.68,Official figure,A,Crops and livestock products,QCL,5
+Algeria,Barley,0115,Area harvested,5312,2023,ha,1025000,Figure from international organizations,X,Crops and livestock products,QCL,7
+Algeria,Barley,0115,Yield,5412,2023,kg/ha,975.6,Figure from international organizations,X,Crops and livestock products,QCL,9
+Algeria,Barley,0115,Production,5510,2023,t,1000000,Figure from international organizations,X,Crops and livestock products,QCL,8
+Algeria,Oats,0117,Area harvested,5312,2023,ha,80000,Figure from international organizations,X,Crops and livestock products,QCL,7
+Algeria,Oats,0117,Yield,5412,2023,kg/ha,950,Figure from international organizations,X,Crops and livestock products,QCL,9
+Algeria,Oats,0117,Production,5510,2023,t,76000,Figure from international organizations,X,Crops and livestock products,QCL,8
+Algeria,Rice,0113,Area harvested,5312,2023,ha,172,Estimated value,E,Crops and livestock products,QCL,7
+Algeria,Rice,0113,Yield,5412,2023,kg/ha,1790.3,Estimated value,E,Crops and livestock products,QCL,9
+Algeria,Rice,0113,Production,5510,2023,t,307.29,Estimated value,E,Crops and livestock products,QCL,8
+Algeria,Wheat,0111,Area harvested,5312,2023,ha,1800000,Figure from international organizations,X,Crops and livestock products,QCL,7
+Algeria,Wheat,0111,Yield,5412,2023,kg/ha,1388.9,Figure from international organizations,X,Crops and livestock products,QCL,9
+Algeria,Wheat,0111,Production,5510,2023,t,2500000,Figure from international organizations,X,Crops and livestock products,QCL,8
+Angola,Rice,0113,Area harvested,5312,2023,ha,33983,Imputed value,I,Crops and livestock products,QCL,10
+Angola,Rice,0113,Yield,5412,2023,kg/ha,1172.1,Estimated value,E,Crops and livestock products,QCL,12
+Angola,Rice,0113,Production,5510,2023,t,39830,Official figure,A,Crops and livestock products,QCL,11
+Angola,Wheat,0111,Area harvested,5312,2023,ha,22472,Estimated value,E,Crops and livestock products,QCL,10
+Angola,Wheat,0111,Yield,5412,2023,kg/ha,931,Estimated value,E,Crops and livestock products,QCL,12
+Angola,Wheat,0111,Production,5510,2023,t,20921,Official figure,A,Crops and livestock products,QCL,11
+Argentina,Barley,0115,Area harvested,5312,2023,ha,1589966,Official figure,A,Crops and livestock products,QCL,13
+Argentina,Barley,0115,Yield,5412,2023,kg/ha,2953.5,Official figure,A,Crops and livestock products,QCL,15
+Argentina,Barley,0115,Production,5510,2023,t,4695914,Official figure,A,Crops and livestock products,QCL,14
+Argentina,Oats,0117,Area harvested,5312,2023,ha,257361,Official figure,A,Crops and livestock products,QCL,13
+Argentina,Oats,0117,Yield,5412,2023,kg/ha,1666.5,Official figure,A,Crops and livestock products,QCL,15
+Argentina,Oats,0117,Production,5510,2023,t,428884,Official figure,A,Crops and livestock products,QCL,14
+Argentina,Rice,0113,Area harvested,5312,2023,ha,173002,Official figure,A,Crops and livestock products,QCL,13
+Argentina,Rice,0113,Yield,5412,2023,kg/ha,6723.7,Official figure,A,Crops and livestock products,QCL,15
+Argentina,Rice,0113,Production,5510,2023,t,1163209,Official figure,A,Crops and livestock products,QCL,14
+Argentina,Rye,0116,Area harvested,5312,2023,ha,107792,Official figure,A,Crops and livestock products,QCL,13
+Argentina,Rye,0116,Yield,5412,2023,kg/ha,1664.6,Official figure,A,Crops and livestock products,QCL,15
+Argentina,Rye,0116,Production,5510,2023,t,179428,Official figure,A,Crops and livestock products,QCL,14
+Argentina,Wheat,0111,Area harvested,5312,2023,ha,5488728,Official figure,A,Crops and livestock products,QCL,13
+Argentina,Wheat,0111,Yield,5412,2023,kg/ha,2287.6,Official figure,A,Crops and livestock products,QCL,15
+Argentina,Wheat,0111,Production,5510,2023,t,12555860,Official figure,A,Crops and livestock products,QCL,14
+Armenia,Barley,0115,Area harvested,5312,2023,ha,39848,Official figure,A,Crops and livestock products,QCL,16
+Armenia,Barley,0115,Yield,5412,2023,kg/ha,2099.2,Official figure,A,Crops and livestock products,QCL,18
+Armenia,Barley,0115,Production,5510,2023,t,83648.5,Official figure,A,Crops and livestock products,QCL,17
+Armenia,Oats,0117,Area harvested,5312,2023,ha,5509,Official figure,A,Crops and livestock products,QCL,16
+Armenia,Oats,0117,Yield,5412,2023,kg/ha,1977.3,Official figure,A,Crops and livestock products,QCL,18
+Armenia,Oats,0117,Production,5510,2023,t,10893.2,Official figure,A,Crops and livestock products,QCL,17
+Armenia,Rye,0116,Area harvested,5312,2023,ha,323,Official figure,A,Crops and livestock products,QCL,16
+Armenia,Rye,0116,Yield,5412,2023,kg/ha,1559.4,Official figure,A,Crops and livestock products,QCL,18
+Armenia,Rye,0116,Production,5510,2023,t,503.7,Official figure,A,Crops and livestock products,QCL,17
+Armenia,Wheat,0111,Area harvested,5312,2023,ha,70398,Official figure,A,Crops and livestock products,QCL,16
+Armenia,Wheat,0111,Yield,5412,2023,kg/ha,2526.5,Official figure,A,Crops and livestock products,QCL,18
+Armenia,Wheat,0111,Production,5510,2023,t,177859.6,Official figure,A,Crops and livestock products,QCL,17
+Australia,Barley,0115,Area harvested,5312,2023,ha,3807695,Official figure,A,Crops and livestock products,QCL,19
+Australia,Barley,0115,Yield,5412,2023,kg/ha,3543.2,Official figure,A,Crops and livestock products,QCL,21
+Australia,Barley,0115,Production,5510,2023,t,13491375,Official figure,A,Crops and livestock products,QCL,20
+Australia,Oats,0117,Area harvested,5312,2023,ha,569082,Official figure,A,Crops and livestock products,QCL,19
+Australia,Oats,0117,Yield,5412,2023,kg/ha,1686.6,Official figure,A,Crops and livestock products,QCL,21
+Australia,Oats,0117,Production,5510,2023,t,959829,Official figure,A,Crops and livestock products,QCL,20
+Australia,Rice,0113,Area harvested,5312,2023,ha,52188,Official figure,A,Crops and livestock products,QCL,19
+Australia,Rice,0113,Yield,5412,2023,kg/ha,9516.2,Official figure,A,Crops and livestock products,QCL,21
+Australia,Rice,0113,Production,5510,2023,t,496633,Official figure,A,Crops and livestock products,QCL,20
+Australia,Rye,0116,Area harvested,5312,2023,ha,40471,Estimated value,E,Crops and livestock products,QCL,19
+Australia,Rye,0116,Yield,5412,2023,kg/ha,707.8,Estimated value,E,Crops and livestock products,QCL,21
+Australia,Rye,0116,Production,5510,2023,t,28643.7,Imputed value,I,Crops and livestock products,QCL,20
+Australia,Wheat,0111,Area harvested,5312,2023,ha,12925286,Official figure,A,Crops and livestock products,QCL,19
+Australia,Wheat,0111,Yield,5412,2023,kg/ha,3187.5,Official figure,A,Crops and livestock products,QCL,21
+Australia,Wheat,0111,Production,5510,2023,t,41199486,Official figure,A,Crops and livestock products,QCL,20
+Austria,Barley,0115,Area harvested,5312,2023,ha,122710,Official figure,A,Crops and livestock products,QCL,22
+Austria,Barley,0115,Yield,5412,2023,kg/ha,6292.2,Official figure,A,Crops and livestock products,QCL,24
+Austria,Barley,0115,Production,5510,2023,t,772120,Official figure,A,Crops and livestock products,QCL,23
+Austria,Oats,0117,Area harvested,5312,2023,ha,17620,Official figure,A,Crops and livestock products,QCL,22
+Austria,Oats,0117,Yield,5412,2023,kg/ha,3426.8,Official figure,A,Crops and livestock products,QCL,24
+Austria,Oats,0117,Production,5510,2023,t,60380,Official figure,A,Crops and livestock products,QCL,23
+Austria,Rye,0116,Area harvested,5312,2023,ha,38470,Official figure,A,Crops and livestock products,QCL,22
+Austria,Rye,0116,Yield,5412,2023,kg/ha,4593.7,Official figure,A,Crops and livestock products,QCL,24
+Austria,Rye,0116,Production,5510,2023,t,176720,Official figure,A,Crops and livestock products,QCL,23
+Austria,Wheat,0111,Area harvested,5312,2023,ha,281980,Official figure,A,Crops and livestock products,QCL,22
+Austria,Wheat,0111,Yield,5412,2023,kg/ha,6187.7,Official figure,A,Crops and livestock products,QCL,24
+Austria,Wheat,0111,Production,5510,2023,t,1744820,Official figure,A,Crops and livestock products,QCL,23
+Azerbaijan,Barley,0115,Area harvested,5312,2023,ha,356540,Official figure,A,Crops and livestock products,QCL,25
+Azerbaijan,Barley,0115,Yield,5412,2023,kg/ha,2914.2,Official figure,A,Crops and livestock products,QCL,27
+Azerbaijan,Barley,0115,Production,5510,2023,t,1039018.6,Official figure,A,Crops and livestock products,QCL,26
+Azerbaijan,Oats,0117,Area harvested,5312,2023,ha,4984,Official figure,A,Crops and livestock products,QCL,25
+Azerbaijan,Oats,0117,Yield,5412,2023,kg/ha,2042.2,Official figure,A,Crops and livestock products,QCL,27
+Azerbaijan,Oats,0117,Production,5510,2023,t,10179.1,Official figure,A,Crops and livestock products,QCL,26
+Azerbaijan,Rice,0113,Area harvested,5312,2023,ha,3004,Official figure,A,Crops and livestock products,QCL,25
+Azerbaijan,Rice,0113,Yield,5412,2023,kg/ha,4651.5,Official figure,A,Crops and livestock products,QCL,27
+Azerbaijan,Rice,0113,Production,5510,2023,t,13972.5,Official figure,A,Crops and livestock products,QCL,26
+Azerbaijan,Rye,0116,Area harvested,5312,2023,ha,160,Official figure,A,Crops and livestock products,QCL,25
+Azerbaijan,Rye,0116,Yield,5412,2023,kg/ha,1890.6,Official figure,A,Crops and livestock products,QCL,27
+Azerbaijan,Rye,0116,Production,5510,2023,t,302.5,Official figure,A,Crops and livestock products,QCL,26
+Azerbaijan,Wheat,0111,Area harvested,5312,2023,ha,542820,Official figure,A,Crops and livestock products,QCL,25
+Azerbaijan,Wheat,0111,Yield,5412,2023,kg/ha,3302,Official figure,A,Crops and livestock products,QCL,27
+Azerbaijan,Wheat,0111,Production,5510,2023,t,1792419.1,Official figure,A,Crops and livestock products,QCL,26
+Bangladesh,Barley,0115,Area harvested,5312,2023,ha,169,Official figure,A,Crops and livestock products,QCL,28
+Bangladesh,Barley,0115,Yield,5412,2023,kg/ha,940.8,Official figure,A,Crops and livestock products,QCL,30
+Bangladesh,Barley,0115,Production,5510,2023,t,159,Official figure,A,Crops and livestock products,QCL,29
+Bangladesh,Rice,0113,Area harvested,5312,2023,ha,11641645,Official figure,A,Crops and livestock products,QCL,28
+Bangladesh,Rice,0113,Yield,5412,2023,kg/ha,5034.8,Official figure,A,Crops and livestock products,QCL,30
+Bangladesh,Rice,0113,Production,5510,2023,t,58613458,Official figure,A,Crops and livestock products,QCL,29
+Bangladesh,Wheat,0111,Area harvested,5312,2023,ha,316832,Official figure,A,Crops and livestock products,QCL,28
+Bangladesh,Wheat,0111,Yield,5412,2023,kg/ha,3494.6,Official figure,A,Crops and livestock products,QCL,30
+Bangladesh,Wheat,0111,Production,5510,2023,t,1107195,Official figure,A,Crops and livestock products,QCL,29
+Belarus,Barley,0115,Area harvested,5312,2023,ha,280951,Imputed value,I,Crops and livestock products,QCL,31
+Belarus,Barley,0115,Yield,5412,2023,kg/ha,4093.2,Estimated value,E,Crops and livestock products,QCL,33
+Belarus,Barley,0115,Production,5510,2023,t,1150000,Figure from international organizations,X,Crops and livestock products,QCL,32
+Belarus,Oats,0117,Area harvested,5312,2023,ha,155000,Figure from international organizations,X,Crops and livestock products,QCL,31
+Belarus,Oats,0117,Yield,5412,2023,kg/ha,2258.1,Figure from international organizations,X,Crops and livestock products,QCL,33
+Belarus,Oats,0117,Production,5510,2023,t,350000,Figure from international organizations,X,Crops and livestock products,QCL,32
+Belarus,Rye,0116,Area harvested,5312,2023,ha,310000,Figure from international organizations,X,Crops and livestock products,QCL,31
+Belarus,Rye,0116,Yield,5412,2023,kg/ha,2516.1,Figure from international organizations,X,Crops and livestock products,QCL,33
+Belarus,Rye,0116,Production,5510,2023,t,780000,Figure from international organizations,X,Crops and livestock products,QCL,32
+Belarus,Wheat,0111,Area harvested,5312,2023,ha,664117,Imputed value,I,Crops and livestock products,QCL,31
+Belarus,Wheat,0111,Yield,5412,2023,kg/ha,3613.8,Estimated value,E,Crops and livestock products,QCL,33
+Belarus,Wheat,0111,Production,5510,2023,t,2400000,Figure from international organizations,X,Crops and livestock products,QCL,32
+Belgium,Barley,0115,Area harvested,5312,2023,ha,48860,Official figure,A,Crops and livestock products,QCL,34
+Belgium,Barley,0115,Yield,5412,2023,kg/ha,8059.4,Official figure,A,Crops and livestock products,QCL,36
+Belgium,Barley,0115,Production,5510,2023,t,393780,Official figure,A,Crops and livestock products,QCL,35
+Belgium,Oats,0117,Area harvested,5312,2023,ha,2930,Official figure,A,Crops and livestock products,QCL,34
+Belgium,Oats,0117,Yield,5412,2023,kg/ha,3904.4,Official figure,A,Crops and livestock products,QCL,36
+Belgium,Oats,0117,Production,5510,2023,t,11440,Official figure,A,Crops and livestock products,QCL,35
+Belgium,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,34
+Belgium,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,35
+Belgium,Rye,0116,Area harvested,5312,2023,ha,1070,Official figure,A,Crops and livestock products,QCL,34
+Belgium,Rye,0116,Yield,5412,2023,kg/ha,3766.4,Official figure,A,Crops and livestock products,QCL,36
+Belgium,Rye,0116,Production,5510,2023,t,4030,Official figure,A,Crops and livestock products,QCL,35
+Belgium,Wheat,0111,Area harvested,5312,2023,ha,212610,Official figure,A,Crops and livestock products,QCL,34
+Belgium,Wheat,0111,Yield,5412,2023,kg/ha,8424.7,Official figure,A,Crops and livestock products,QCL,36
+Belgium,Wheat,0111,Production,5510,2023,t,1791170,Official figure,A,Crops and livestock products,QCL,35
+Belize,Rice,0113,Area harvested,5312,2023,ha,3159,Official figure,A,Crops and livestock products,QCL,37
+Belize,Rice,0113,Yield,5412,2023,kg/ha,5603.4,Official figure,A,Crops and livestock products,QCL,39
+Belize,Rice,0113,Production,5510,2023,t,17701,Official figure,A,Crops and livestock products,QCL,38
+Benin,Rice,0113,Area harvested,5312,2023,ha,132046,Official figure,A,Crops and livestock products,QCL,40
+Benin,Rice,0113,Yield,5412,2023,kg/ha,3730.7,Official figure,A,Crops and livestock products,QCL,42
+Benin,Rice,0113,Production,5510,2023,t,492626.2,Official figure,A,Crops and livestock products,QCL,41
+Bhutan,Barley,0115,Area harvested,5312,2023,ha,463,Official figure,A,Crops and livestock products,QCL,43
+Bhutan,Barley,0115,Yield,5412,2023,kg/ha,1119.8,Official figure,A,Crops and livestock products,QCL,45
+Bhutan,Barley,0115,Production,5510,2023,t,518.13,Official figure,A,Crops and livestock products,QCL,44
+Bhutan,Rice,0113,Area harvested,5312,2023,ha,9425,Official figure,A,Crops and livestock products,QCL,43
+Bhutan,Rice,0113,Yield,5412,2023,kg/ha,4329.3,Official figure,A,Crops and livestock products,QCL,45
+Bhutan,Rice,0113,Production,5510,2023,t,40804.01,Official figure,A,Crops and livestock products,QCL,44
+Bhutan,Wheat,0111,Area harvested,5312,2023,ha,731,Official figure,A,Crops and livestock products,QCL,43
+Bhutan,Wheat,0111,Yield,5412,2023,kg/ha,1145.6,Official figure,A,Crops and livestock products,QCL,45
+Bhutan,Wheat,0111,Production,5510,2023,t,837.01,Official figure,A,Crops and livestock products,QCL,44
+Bolivia (Plurinational State of),Barley,0115,Area harvested,5312,2023,ha,53738,Official figure,A,Crops and livestock products,QCL,46
+Bolivia (Plurinational State of),Barley,0115,Yield,5412,2023,kg/ha,883.6,Official figure,A,Crops and livestock products,QCL,48
+Bolivia (Plurinational State of),Barley,0115,Production,5510,2023,t,47484.65,Official figure,A,Crops and livestock products,QCL,47
+Bolivia (Plurinational State of),Oats,0117,Area harvested,5312,2023,ha,14869,Official figure,A,Crops and livestock products,QCL,46
+Bolivia (Plurinational State of),Oats,0117,Yield,5412,2023,kg/ha,1444.4,Official figure,A,Crops and livestock products,QCL,48
+Bolivia (Plurinational State of),Oats,0117,Production,5510,2023,t,21477.29,Official figure,A,Crops and livestock products,QCL,47
+Bolivia (Plurinational State of),Rice,0113,Area harvested,5312,2023,ha,208226,Official figure,A,Crops and livestock products,QCL,46
+Bolivia (Plurinational State of),Rice,0113,Yield,5412,2023,kg/ha,3354.7,Official figure,A,Crops and livestock products,QCL,48
+Bolivia (Plurinational State of),Rice,0113,Production,5510,2023,t,698543.58,Official figure,A,Crops and livestock products,QCL,47
+Bolivia (Plurinational State of),Rye,0116,Area harvested,5312,2023,ha,356,Official figure,A,Crops and livestock products,QCL,46
+Bolivia (Plurinational State of),Rye,0116,Yield,5412,2023,kg/ha,801.7,Official figure,A,Crops and livestock products,QCL,48
+Bolivia (Plurinational State of),Rye,0116,Production,5510,2023,t,285.25,Official figure,A,Crops and livestock products,QCL,47
+Bolivia (Plurinational State of),Wheat,0111,Area harvested,5312,2023,ha,215288,Official figure,A,Crops and livestock products,QCL,46
+Bolivia (Plurinational State of),Wheat,0111,Yield,5412,2023,kg/ha,1267.2,Official figure,A,Crops and livestock products,QCL,48
+Bolivia (Plurinational State of),Wheat,0111,Production,5510,2023,t,272806.32,Official figure,A,Crops and livestock products,QCL,47
+Bosnia and Herzegovina,Barley,0115,Area harvested,5312,2023,ha,20312,Official figure,A,Crops and livestock products,QCL,49
+Bosnia and Herzegovina,Barley,0115,Yield,5412,2023,kg/ha,3720,Official figure,A,Crops and livestock products,QCL,51
+Bosnia and Herzegovina,Barley,0115,Production,5510,2023,t,75561,Official figure,A,Crops and livestock products,QCL,50
+Bosnia and Herzegovina,Oats,0117,Area harvested,5312,2023,ha,11090,Official figure,A,Crops and livestock products,QCL,49
+Bosnia and Herzegovina,Oats,0117,Yield,5412,2023,kg/ha,3110,Official figure,A,Crops and livestock products,QCL,51
+Bosnia and Herzegovina,Oats,0117,Production,5510,2023,t,34490,Official figure,A,Crops and livestock products,QCL,50
+Bosnia and Herzegovina,Rye,0116,Area harvested,5312,2023,ha,1858,Official figure,A,Crops and livestock products,QCL,49
+Bosnia and Herzegovina,Rye,0116,Yield,5412,2023,kg/ha,3519.9,Official figure,A,Crops and livestock products,QCL,51
+Bosnia and Herzegovina,Rye,0116,Production,5510,2023,t,6540,Official figure,A,Crops and livestock products,QCL,50
+Bosnia and Herzegovina,Wheat,0111,Area harvested,5312,2023,ha,52903,Official figure,A,Crops and livestock products,QCL,49
+Bosnia and Herzegovina,Wheat,0111,Yield,5412,2023,kg/ha,4310,Official figure,A,Crops and livestock products,QCL,51
+Bosnia and Herzegovina,Wheat,0111,Production,5510,2023,t,228012,Official figure,A,Crops and livestock products,QCL,50
+Botswana,Wheat,0111,Area harvested,5312,2023,ha,804,Official figure,A,Crops and livestock products,QCL,52
+Botswana,Wheat,0111,Yield,5412,2023,kg/ha,1007.5,Official figure,A,Crops and livestock products,QCL,54
+Botswana,Wheat,0111,Production,5510,2023,t,810,Official figure,A,Crops and livestock products,QCL,53
+Brazil,Barley,0115,Area harvested,5312,2023,ha,131981,Official figure,A,Crops and livestock products,QCL,55
+Brazil,Barley,0115,Yield,5412,2023,kg/ha,2844.5,Official figure,A,Crops and livestock products,QCL,57
+Brazil,Barley,0115,Production,5510,2023,t,375423,Official figure,A,Crops and livestock products,QCL,56
+Brazil,Oats,0117,Area harvested,5312,2023,ha,528649,Official figure,A,Crops and livestock products,QCL,55
+Brazil,Oats,0117,Yield,5412,2023,kg/ha,1715.8,Official figure,A,Crops and livestock products,QCL,57
+Brazil,Oats,0117,Production,5510,2023,t,907046,Official figure,A,Crops and livestock products,QCL,56
+Brazil,Rice,0113,Area harvested,5312,2023,ha,1482748,Official figure,A,Crops and livestock products,QCL,55
+Brazil,Rice,0113,Yield,5412,2023,kg/ha,6936.9,Official figure,A,Crops and livestock products,QCL,57
+Brazil,Rice,0113,Production,5510,2023,t,10285663,Official figure,A,Crops and livestock products,QCL,56
+Brazil,Rye,0116,Area harvested,5312,2023,ha,4365,Official figure,A,Crops and livestock products,QCL,55
+Brazil,Rye,0116,Yield,5412,2023,kg/ha,1622.9,Official figure,A,Crops and livestock products,QCL,57
+Brazil,Rye,0116,Production,5510,2023,t,7084,Official figure,A,Crops and livestock products,QCL,56
+Brazil,Wheat,0111,Area harvested,5312,2023,ha,3330303,Official figure,A,Crops and livestock products,QCL,55
+Brazil,Wheat,0111,Yield,5412,2023,kg/ha,2321.2,Official figure,A,Crops and livestock products,QCL,57
+Brazil,Wheat,0111,Production,5510,2023,t,7730188,Official figure,A,Crops and livestock products,QCL,56
+Brunei Darussalam,Rice,0113,Area harvested,5312,2023,ha,1500,Official figure,A,Crops and livestock products,QCL,58
+Brunei Darussalam,Rice,0113,Yield,5412,2023,kg/ha,2466.7,Official figure,A,Crops and livestock products,QCL,60
+Brunei Darussalam,Rice,0113,Production,5510,2023,t,3700,Official figure,A,Crops and livestock products,QCL,59
+Bulgaria,Barley,0115,Area harvested,5312,2023,ha,149980,Official figure,A,Crops and livestock products,QCL,61
+Bulgaria,Barley,0115,Yield,5412,2023,kg/ha,5315.5,Official figure,A,Crops and livestock products,QCL,63
+Bulgaria,Barley,0115,Production,5510,2023,t,797220,Official figure,A,Crops and livestock products,QCL,62
+Bulgaria,Oats,0117,Area harvested,5312,2023,ha,13010,Official figure,A,Crops and livestock products,QCL,61
+Bulgaria,Oats,0117,Yield,5412,2023,kg/ha,2384.3,Official figure,A,Crops and livestock products,QCL,63
+Bulgaria,Oats,0117,Production,5510,2023,t,31020,Official figure,A,Crops and livestock products,QCL,62
+Bulgaria,Rice,0113,Area harvested,5312,2023,ha,11200,Official figure,A,Crops and livestock products,QCL,61
+Bulgaria,Rice,0113,Yield,5412,2023,kg/ha,5728.6,Official figure,A,Crops and livestock products,QCL,63
+Bulgaria,Rice,0113,Production,5510,2023,t,64160,Official figure,A,Crops and livestock products,QCL,62
+Bulgaria,Rye,0116,Area harvested,5312,2023,ha,7660,Official figure,A,Crops and livestock products,QCL,61
+Bulgaria,Rye,0116,Yield,5412,2023,kg/ha,1913.8,Official figure,A,Crops and livestock products,QCL,63
+Bulgaria,Rye,0116,Production,5510,2023,t,14660,Official figure,A,Crops and livestock products,QCL,62
+Bulgaria,Wheat,0111,Area harvested,5312,2023,ha,1220910,Official figure,A,Crops and livestock products,QCL,61
+Bulgaria,Wheat,0111,Yield,5412,2023,kg/ha,5614.5,Official figure,A,Crops and livestock products,QCL,63
+Bulgaria,Wheat,0111,Production,5510,2023,t,6854760,Official figure,A,Crops and livestock products,QCL,62
+Burkina Faso,Rice,0113,Area harvested,5312,2023,ha,212294,Official figure,A,Crops and livestock products,QCL,64
+Burkina Faso,Rice,0113,Yield,5412,2023,kg/ha,2375.3,Official figure,A,Crops and livestock products,QCL,66
+Burkina Faso,Rice,0113,Production,5510,2023,t,504254,Official figure,A,Crops and livestock products,QCL,65
+Burundi,Rice,0113,Area harvested,5312,2023,ha,210518,Estimated value,E,Crops and livestock products,QCL,67
+Burundi,Rice,0113,Yield,5412,2023,kg/ha,1958.8,Estimated value,E,Crops and livestock products,QCL,69
+Burundi,Rice,0113,Production,5510,2023,t,412369.01,Imputed value,I,Crops and livestock products,QCL,68
+Burundi,Wheat,0111,Area harvested,5312,2023,ha,10873,Imputed value,I,Crops and livestock products,QCL,67
+Burundi,Wheat,0111,Yield,5412,2023,kg/ha,732.1,Estimated value,E,Crops and livestock products,QCL,69
+Burundi,Wheat,0111,Production,5510,2023,t,7959.93,Imputed value,I,Crops and livestock products,QCL,68
+Cambodia,Rice,0113,Area harvested,5312,2023,ha,3600387,Imputed value,I,Crops and livestock products,QCL,70
+Cambodia,Rice,0113,Yield,5412,2023,kg/ha,3582.9,Estimated value,E,Crops and livestock products,QCL,72
+Cambodia,Rice,0113,Production,5510,2023,t,12900000,Figure from international organizations,X,Crops and livestock products,QCL,71
+Cameroon,Rice,0113,Area harvested,5312,2023,ha,156555,Imputed value,I,Crops and livestock products,QCL,73
+Cameroon,Rice,0113,Yield,5412,2023,kg/ha,2289.5,Estimated value,E,Crops and livestock products,QCL,75
+Cameroon,Rice,0113,Production,5510,2023,t,358432.99,Imputed value,I,Crops and livestock products,QCL,74
+Cameroon,Wheat,0111,Area harvested,5312,2023,ha,448,Imputed value,I,Crops and livestock products,QCL,73
+Cameroon,Wheat,0111,Yield,5412,2023,kg/ha,1337.8,Estimated value,E,Crops and livestock products,QCL,75
+Cameroon,Wheat,0111,Production,5510,2023,t,599.67,Imputed value,I,Crops and livestock products,QCL,74
+Canada,Barley,0115,Area harvested,5312,2023,ha,2699000,Official figure,A,Crops and livestock products,QCL,76
+Canada,Barley,0115,Yield,5412,2023,kg/ha,3296.1,Official figure,A,Crops and livestock products,QCL,78
+Canada,Barley,0115,Production,5510,2023,t,8896244,Official figure,A,Crops and livestock products,QCL,77
+Canada,Oats,0117,Area harvested,5312,2023,ha,822500,Official figure,A,Crops and livestock products,QCL,76
+Canada,Oats,0117,Yield,5412,2023,kg/ha,3204.3,Official figure,A,Crops and livestock products,QCL,78
+Canada,Oats,0117,Production,5510,2023,t,2635574,Official figure,A,Crops and livestock products,QCL,77
+Canada,Rye,0116,Area harvested,5312,2023,ha,115800,Official figure,A,Crops and livestock products,QCL,76
+Canada,Rye,0116,Yield,5412,2023,kg/ha,3090.1,Official figure,A,Crops and livestock products,QCL,78
+Canada,Rye,0116,Production,5510,2023,t,357834,Official figure,A,Crops and livestock products,QCL,77
+Canada,Wheat,0111,Area harvested,5312,2023,ha,10682500,Official figure,A,Crops and livestock products,QCL,76
+Canada,Wheat,0111,Yield,5412,2023,kg/ha,2991.3,Official figure,A,Crops and livestock products,QCL,78
+Canada,Wheat,0111,Production,5510,2023,t,31954115,Official figure,A,Crops and livestock products,QCL,77
+Central African Republic,Rice,0113,Area harvested,5312,2023,ha,38090,Official figure,A,Crops and livestock products,QCL,79
+Central African Republic,Rice,0113,Yield,5412,2023,kg/ha,1400,Official figure,A,Crops and livestock products,QCL,81
+Central African Republic,Rice,0113,Production,5510,2023,t,53326,Official figure,A,Crops and livestock products,QCL,80
+Chad,Rice,0113,Area harvested,5312,2023,ha,175489,Official figure,A,Crops and livestock products,QCL,82
+Chad,Rice,0113,Yield,5412,2023,kg/ha,1276.2,Official figure,A,Crops and livestock products,QCL,84
+Chad,Rice,0113,Production,5510,2023,t,223952,Official figure,A,Crops and livestock products,QCL,83
+Chad,Wheat,0111,Area harvested,5312,2023,ha,725,Official figure,A,Crops and livestock products,QCL,82
+Chad,Wheat,0111,Yield,5412,2023,kg/ha,1929.7,Official figure,A,Crops and livestock products,QCL,84
+Chad,Wheat,0111,Production,5510,2023,t,1399,Official figure,A,Crops and livestock products,QCL,83
+Chile,Barley,0115,Area harvested,5312,2023,ha,21586,Official figure,A,Crops and livestock products,QCL,85
+Chile,Barley,0115,Yield,5412,2023,kg/ha,7016.4,Official figure,A,Crops and livestock products,QCL,87
+Chile,Barley,0115,Production,5510,2023,t,151455.69,Official figure,A,Crops and livestock products,QCL,86
+Chile,Oats,0117,Area harvested,5312,2023,ha,71685,Official figure,A,Crops and livestock products,QCL,85
+Chile,Oats,0117,Yield,5412,2023,kg/ha,4646.3,Official figure,A,Crops and livestock products,QCL,87
+Chile,Oats,0117,Production,5510,2023,t,333069.55,Official figure,A,Crops and livestock products,QCL,86
+Chile,Rice,0113,Area harvested,5312,2023,ha,17945,Official figure,A,Crops and livestock products,QCL,85
+Chile,Rice,0113,Yield,5412,2023,kg/ha,6087.1,Official figure,A,Crops and livestock products,QCL,87
+Chile,Rice,0113,Production,5510,2023,t,109232.5,Official figure,A,Crops and livestock products,QCL,86
+Chile,Rye,0116,Area harvested,5312,2023,ha,947,Estimated value,E,Crops and livestock products,QCL,85
+Chile,Rye,0116,Yield,5412,2023,kg/ha,4729.7,Estimated value,E,Crops and livestock products,QCL,87
+Chile,Rye,0116,Production,5510,2023,t,4478.87,Estimated value,E,Crops and livestock products,QCL,86
+Chile,Wheat,0111,Area harvested,5312,2023,ha,216733,Official figure,A,Crops and livestock products,QCL,85
+Chile,Wheat,0111,Yield,5412,2023,kg/ha,5951,Official figure,A,Crops and livestock products,QCL,87
+Chile,Wheat,0111,Production,5510,2023,t,1289773.79,Official figure,A,Crops and livestock products,QCL,86
+China,Barley,0115,Area harvested,5312,2023,ha,488000,Estimated value,E,Crops and livestock products,QCL,88
+China,Barley,0115,Yield,5412,2023,kg/ha,4077.9,Estimated value,E,Crops and livestock products,QCL,90
+China,Barley,0115,Production,5510,2023,t,1990000,Estimated value,E,Crops and livestock products,QCL,89
+China,Oats,0117,Area harvested,5312,2023,ha,160511,Estimated value,E,Crops and livestock products,QCL,88
+China,Oats,0117,Yield,5412,2023,kg/ha,3738.1,Estimated value,E,Crops and livestock products,QCL,90
+China,Oats,0117,Production,5510,2023,t,600000,Figure from international organizations,X,Crops and livestock products,QCL,89
+China,Rice,0113,Area harvested,5312,2023,ha,29171100,Estimated value,E,Crops and livestock products,QCL,88
+China,Rice,0113,Yield,5412,2023,kg/ha,7132.5,Estimated value,E,Crops and livestock products,QCL,90
+China,Rice,0113,Production,5510,2023,t,208064200.06,Estimated value,E,Crops and livestock products,QCL,89
+China,Rye,0116,Area harvested,5312,2023,ha,166680,Estimated value,E,Crops and livestock products,QCL,88
+China,Rye,0116,Yield,5412,2023,kg/ha,3111.6,Estimated value,E,Crops and livestock products,QCL,90
+China,Rye,0116,Production,5510,2023,t,518640.51,Estimated value,E,Crops and livestock products,QCL,89
+China,Wheat,0111,Area harvested,5312,2023,ha,23629200,Estimated value,E,Crops and livestock products,QCL,88
+China,Wheat,0111,Yield,5412,2023,kg/ha,5780.8,Estimated value,E,Crops and livestock products,QCL,90
+China,Wheat,0111,Production,5510,2023,t,136596100,Estimated value,E,Crops and livestock products,QCL,89
+"China, Hong Kong SAR",Rice,0113,Area harvested,5312,2023,ha,0,Imputed value,I,Crops and livestock products,QCL,91
+"China, Hong Kong SAR",Rice,0113,Yield,5412,2023,kg/ha,2059,Estimated value,E,Crops and livestock products,QCL,93
+"China, Hong Kong SAR",Rice,0113,Production,5510,2023,t,0.06,Imputed value,I,Crops and livestock products,QCL,92
+"China, mainland",Barley,0115,Area harvested,5312,2023,ha,488000,Figure from international organizations,X,Crops and livestock products,QCL,94
+"China, mainland",Barley,0115,Yield,5412,2023,kg/ha,4077.9,Figure from international organizations,X,Crops and livestock products,QCL,96
+"China, mainland",Barley,0115,Production,5510,2023,t,1990000,Figure from international organizations,X,Crops and livestock products,QCL,95
+"China, mainland",Oats,0117,Area harvested,5312,2023,ha,160511,Imputed value,I,Crops and livestock products,QCL,94
+"China, mainland",Oats,0117,Yield,5412,2023,kg/ha,3738.1,Estimated value,E,Crops and livestock products,QCL,96
+"China, mainland",Oats,0117,Production,5510,2023,t,600000,Figure from international organizations,X,Crops and livestock products,QCL,95
+"China, mainland",Rice,0113,Area harvested,5312,2023,ha,28949100,Official figure,A,Crops and livestock products,QCL,94
+"China, mainland",Rice,0113,Yield,5412,2023,kg/ha,7136.8,Official figure,A,Crops and livestock products,QCL,96
+"China, mainland",Rice,0113,Production,5510,2023,t,206603200,Official figure,A,Crops and livestock products,QCL,95
+"China, mainland",Rye,0116,Area harvested,5312,2023,ha,166680,Estimated value,E,Crops and livestock products,QCL,94
+"China, mainland",Rye,0116,Yield,5412,2023,kg/ha,3111.6,Estimated value,E,Crops and livestock products,QCL,96
+"China, mainland",Rye,0116,Production,5510,2023,t,518640.51,Estimated value,E,Crops and livestock products,QCL,95
+"China, mainland",Wheat,0111,Area harvested,5312,2023,ha,23627200,Official figure,A,Crops and livestock products,QCL,94
+"China, mainland",Wheat,0111,Yield,5412,2023,kg/ha,5781.1,Official figure,A,Crops and livestock products,QCL,96
+"China, mainland",Wheat,0111,Production,5510,2023,t,136590100,Official figure,A,Crops and livestock products,QCL,95
+"China, Taiwan Province of",Rice,0113,Area harvested,5312,2023,ha,222000,Figure from international organizations,X,Crops and livestock products,QCL,97
+"China, Taiwan Province of",Rice,0113,Yield,5412,2023,kg/ha,6581.1,Figure from international organizations,X,Crops and livestock products,QCL,99
+"China, Taiwan Province of",Rice,0113,Production,5510,2023,t,1461000,Figure from international organizations,X,Crops and livestock products,QCL,98
+"China, Taiwan Province of",Wheat,0111,Area harvested,5312,2023,ha,2000,Figure from international organizations,X,Crops and livestock products,QCL,97
+"China, Taiwan Province of",Wheat,0111,Yield,5412,2023,kg/ha,3000,Figure from international organizations,X,Crops and livestock products,QCL,99
+"China, Taiwan Province of",Wheat,0111,Production,5510,2023,t,6000,Figure from international organizations,X,Crops and livestock products,QCL,98
+Colombia,Barley,0115,Area harvested,5312,2023,ha,3420,Official figure,A,Crops and livestock products,QCL,100
+Colombia,Barley,0115,Yield,5412,2023,kg/ha,2987.7,Official figure,A,Crops and livestock products,QCL,102
+Colombia,Barley,0115,Production,5510,2023,t,10218,Official figure,A,Crops and livestock products,QCL,101
+Colombia,Rice,0113,Area harvested,5312,2023,ha,667500,Official figure,A,Crops and livestock products,QCL,100
+Colombia,Rice,0113,Yield,5412,2023,kg/ha,4503.5,Official figure,A,Crops and livestock products,QCL,102
+Colombia,Rice,0113,Production,5510,2023,t,3006100,Official figure,A,Crops and livestock products,QCL,101
+Colombia,Wheat,0111,Area harvested,5312,2023,ha,3000,Official figure,A,Crops and livestock products,QCL,100
+Colombia,Wheat,0111,Yield,5412,2023,kg/ha,3118,Official figure,A,Crops and livestock products,QCL,102
+Colombia,Wheat,0111,Production,5510,2023,t,9354,Official figure,A,Crops and livestock products,QCL,101
+Comoros,Rice,0113,Area harvested,5312,2023,ha,70,Imputed value,I,Crops and livestock products,QCL,103
+Comoros,Rice,0113,Yield,5412,2023,kg/ha,299.1,Estimated value,E,Crops and livestock products,QCL,105
+Comoros,Rice,0113,Production,5510,2023,t,21.02,Imputed value,I,Crops and livestock products,QCL,104
+Congo,Rice,0113,Area harvested,5312,2023,ha,1735,Imputed value,I,Crops and livestock products,QCL,106
+Congo,Rice,0113,Yield,5412,2023,kg/ha,576.5,Estimated value,E,Crops and livestock products,QCL,108
+Congo,Rice,0113,Production,5510,2023,t,1000,Figure from international organizations,X,Crops and livestock products,QCL,107
+Costa Rica,Rice,0113,Area harvested,5312,2023,ha,14835,Official figure,A,Crops and livestock products,QCL,109
+Costa Rica,Rice,0113,Yield,5412,2023,kg/ha,5131,Official figure,A,Crops and livestock products,QCL,111
+Costa Rica,Rice,0113,Production,5510,2023,t,76119,Official figure,A,Crops and livestock products,QCL,110
+Côte d'Ivoire,Rice,0113,Area harvested,5312,2023,ha,684861,Imputed value,I,Crops and livestock products,QCL,112
+Côte d'Ivoire,Rice,0113,Yield,5412,2023,kg/ha,2937.1,Estimated value,E,Crops and livestock products,QCL,114
+Côte d'Ivoire,Rice,0113,Production,5510,2023,t,2011500,Official figure,A,Crops and livestock products,QCL,113
+Croatia,Barley,0115,Area harvested,5312,2023,ha,72630,Official figure,A,Crops and livestock products,QCL,115
+Croatia,Barley,0115,Yield,5412,2023,kg/ha,4039.8,Official figure,A,Crops and livestock products,QCL,117
+Croatia,Barley,0115,Production,5510,2023,t,293410,Official figure,A,Crops and livestock products,QCL,116
+Croatia,Oats,0117,Area harvested,5312,2023,ha,13150,Official figure,A,Crops and livestock products,QCL,115
+Croatia,Oats,0117,Yield,5412,2023,kg/ha,2593.9,Official figure,A,Crops and livestock products,QCL,117
+Croatia,Oats,0117,Production,5510,2023,t,34110,Official figure,A,Crops and livestock products,QCL,116
+Croatia,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,115
+Croatia,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,116
+Croatia,Rye,0116,Area harvested,5312,2023,ha,1740,Official figure,A,Crops and livestock products,QCL,115
+Croatia,Rye,0116,Yield,5412,2023,kg/ha,2954,Official figure,A,Crops and livestock products,QCL,117
+Croatia,Rye,0116,Production,5510,2023,t,5140,Official figure,A,Crops and livestock products,QCL,116
+Croatia,Wheat,0111,Area harvested,5312,2023,ha,172850,Official figure,A,Crops and livestock products,QCL,115
+Croatia,Wheat,0111,Yield,5412,2023,kg/ha,4826.3,Official figure,A,Crops and livestock products,QCL,117
+Croatia,Wheat,0111,Production,5510,2023,t,834230,Official figure,A,Crops and livestock products,QCL,116
+Cuba,Rice,0113,Area harvested,5312,2023,ha,44420,Imputed value,I,Crops and livestock products,QCL,118
+Cuba,Rice,0113,Yield,5412,2023,kg/ha,2926.6,Estimated value,E,Crops and livestock products,QCL,120
+Cuba,Rice,0113,Production,5510,2023,t,130000,Figure from international organizations,X,Crops and livestock products,QCL,119
+Cyprus,Barley,0115,Area harvested,5312,2023,ha,10000,Official figure,A,Crops and livestock products,QCL,121
+Cyprus,Barley,0115,Yield,5412,2023,kg/ha,2149,Official figure,A,Crops and livestock products,QCL,123
+Cyprus,Barley,0115,Production,5510,2023,t,21490,Official figure,A,Crops and livestock products,QCL,122
+Cyprus,Oats,0117,Area harvested,5312,2023,ha,300,Official figure,A,Crops and livestock products,QCL,121
+Cyprus,Oats,0117,Yield,5412,2023,kg/ha,1366.7,Official figure,A,Crops and livestock products,QCL,123
+Cyprus,Oats,0117,Production,5510,2023,t,410,Official figure,A,Crops and livestock products,QCL,122
+Cyprus,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,121
+Cyprus,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,122
+Cyprus,Wheat,0111,Area harvested,5312,2023,ha,12700,Official figure,A,Crops and livestock products,QCL,121
+Cyprus,Wheat,0111,Yield,5412,2023,kg/ha,2192.9,Official figure,A,Crops and livestock products,QCL,123
+Cyprus,Wheat,0111,Production,5510,2023,t,27850,Official figure,A,Crops and livestock products,QCL,122
+Czechia,Barley,0115,Area harvested,5312,2023,ha,321130,Official figure,A,Crops and livestock products,QCL,124
+Czechia,Barley,0115,Yield,5412,2023,kg/ha,5493.8,Official figure,A,Crops and livestock products,QCL,126
+Czechia,Barley,0115,Production,5510,2023,t,1764210,Official figure,A,Crops and livestock products,QCL,125
+Czechia,Oats,0117,Area harvested,5312,2023,ha,43000,Official figure,A,Crops and livestock products,QCL,124
+Czechia,Oats,0117,Yield,5412,2023,kg/ha,2757.9,Official figure,A,Crops and livestock products,QCL,126
+Czechia,Oats,0117,Production,5510,2023,t,118590,Official figure,A,Crops and livestock products,QCL,125
+Czechia,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,124
+Czechia,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,125
+Czechia,Rye,0116,Area harvested,5312,2023,ha,24650,Official figure,A,Crops and livestock products,QCL,124
+Czechia,Rye,0116,Yield,5412,2023,kg/ha,5069,Official figure,A,Crops and livestock products,QCL,126
+Czechia,Rye,0116,Production,5510,2023,t,124950,Official figure,A,Crops and livestock products,QCL,125
+Czechia,Wheat,0111,Area harvested,5312,2023,ha,817760,Official figure,A,Crops and livestock products,QCL,124
+Czechia,Wheat,0111,Yield,5412,2023,kg/ha,6435.1,Official figure,A,Crops and livestock products,QCL,126
+Czechia,Wheat,0111,Production,5510,2023,t,5262360,Official figure,A,Crops and livestock products,QCL,125
+Democratic People's Republic of Korea,Barley,0115,Area harvested,5312,2023,ha,34117,Estimated value,E,Crops and livestock products,QCL,127
+Democratic People's Republic of Korea,Barley,0115,Yield,5412,2023,kg/ha,1217.9,Estimated value,E,Crops and livestock products,QCL,129
+Democratic People's Republic of Korea,Barley,0115,Production,5510,2023,t,41552.08,Imputed value,I,Crops and livestock products,QCL,128
+Democratic People's Republic of Korea,Oats,0117,Area harvested,5312,2023,ha,10908,Estimated value,E,Crops and livestock products,QCL,127
+Democratic People's Republic of Korea,Oats,0117,Yield,5412,2023,kg/ha,1305,Estimated value,E,Crops and livestock products,QCL,129
+Democratic People's Republic of Korea,Oats,0117,Production,5510,2023,t,14235.28,Estimated value,E,Crops and livestock products,QCL,128
+Democratic People's Republic of Korea,Rice,0113,Area harvested,5312,2023,ha,386291,Imputed value,I,Crops and livestock products,QCL,127
+Democratic People's Republic of Korea,Rice,0113,Yield,5412,2023,kg/ha,4597,Estimated value,E,Crops and livestock products,QCL,129
+Democratic People's Republic of Korea,Rice,0113,Production,5510,2023,t,1775787.84,Imputed value,I,Crops and livestock products,QCL,128
+Democratic People's Republic of Korea,Rye,0116,Area harvested,5312,2023,ha,52886,Imputed value,I,Crops and livestock products,QCL,127
+Democratic People's Republic of Korea,Rye,0116,Yield,5412,2023,kg/ha,1226.4,Estimated value,E,Crops and livestock products,QCL,129
+Democratic People's Republic of Korea,Rye,0116,Production,5510,2023,t,64861.4,Imputed value,I,Crops and livestock products,QCL,128
+Democratic People's Republic of Korea,Wheat,0111,Area harvested,5312,2023,ha,54733,Estimated value,E,Crops and livestock products,QCL,127
+Democratic People's Republic of Korea,Wheat,0111,Yield,5412,2023,kg/ha,1230.8,Estimated value,E,Crops and livestock products,QCL,129
+Democratic People's Republic of Korea,Wheat,0111,Production,5510,2023,t,67367.33,Imputed value,I,Crops and livestock products,QCL,128
+Democratic Republic of the Congo,Barley,0115,Area harvested,5312,2023,ha,1458,Estimated value,E,Crops and livestock products,QCL,130
+Democratic Republic of the Congo,Barley,0115,Yield,5412,2023,kg/ha,681.3,Estimated value,E,Crops and livestock products,QCL,132
+Democratic Republic of the Congo,Barley,0115,Production,5510,2023,t,993.57,Estimated value,E,Crops and livestock products,QCL,131
+Democratic Republic of the Congo,Oats,0117,Area harvested,5312,2023,ha,0,Imputed value,I,Crops and livestock products,QCL,130
+Democratic Republic of the Congo,Oats,0117,Production,5510,2023,t,0,Imputed value,I,Crops and livestock products,QCL,131
+Democratic Republic of the Congo,Rice,0113,Area harvested,5312,2023,ha,1906250,Imputed value,I,Crops and livestock products,QCL,130
+Democratic Republic of the Congo,Rice,0113,Yield,5412,2023,kg/ha,950.7,Estimated value,E,Crops and livestock products,QCL,132
+Democratic Republic of the Congo,Rice,0113,Production,5510,2023,t,1812345,Official figure,A,Crops and livestock products,QCL,131
+Democratic Republic of the Congo,Wheat,0111,Area harvested,5312,2023,ha,8000,Figure from international organizations,X,Crops and livestock products,QCL,130
+Democratic Republic of the Congo,Wheat,0111,Yield,5412,2023,kg/ha,1125,Figure from international organizations,X,Crops and livestock products,QCL,132
+Democratic Republic of the Congo,Wheat,0111,Production,5510,2023,t,9000,Figure from international organizations,X,Crops and livestock products,QCL,131
+Denmark,Barley,0115,Area harvested,5312,2023,ha,561000,Official figure,A,Crops and livestock products,QCL,133
+Denmark,Barley,0115,Yield,5412,2023,kg/ha,4530.5,Official figure,A,Crops and livestock products,QCL,135
+Denmark,Barley,0115,Production,5510,2023,t,2541600,Official figure,A,Crops and livestock products,QCL,134
+Denmark,Oats,0117,Area harvested,5312,2023,ha,55230,Official figure,A,Crops and livestock products,QCL,133
+Denmark,Oats,0117,Yield,5412,2023,kg/ha,3767.9,Official figure,A,Crops and livestock products,QCL,135
+Denmark,Oats,0117,Production,5510,2023,t,208100,Official figure,A,Crops and livestock products,QCL,134
+Denmark,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,133
+Denmark,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,134
+Denmark,Rye,0116,Area harvested,5312,2023,ha,108600,Official figure,A,Crops and livestock products,QCL,133
+Denmark,Rye,0116,Yield,5412,2023,kg/ha,5535.3,Official figure,A,Crops and livestock products,QCL,135
+Denmark,Rye,0116,Production,5510,2023,t,601130,Official figure,A,Crops and livestock products,QCL,134
+Denmark,Wheat,0111,Area harvested,5312,2023,ha,489000,Official figure,A,Crops and livestock products,QCL,133
+Denmark,Wheat,0111,Yield,5412,2023,kg/ha,7272.5,Official figure,A,Crops and livestock products,QCL,135
+Denmark,Wheat,0111,Production,5510,2023,t,3556260,Official figure,A,Crops and livestock products,QCL,134
+Dominican Republic,Rice,0113,Area harvested,5312,2023,ha,187527,Official figure,A,Crops and livestock products,QCL,136
+Dominican Republic,Rice,0113,Yield,5412,2023,kg/ha,5050,Official figure,A,Crops and livestock products,QCL,138
+Dominican Republic,Rice,0113,Production,5510,2023,t,947005,Official figure,A,Crops and livestock products,QCL,137
+Ecuador,Barley,0115,Area harvested,5312,2023,ha,5920,Official figure,A,Crops and livestock products,QCL,139
+Ecuador,Barley,0115,Yield,5412,2023,kg/ha,1439,Official figure,A,Crops and livestock products,QCL,141
+Ecuador,Barley,0115,Production,5510,2023,t,8518.83,Official figure,A,Crops and livestock products,QCL,140
+Ecuador,Oats,0117,Area harvested,5312,2023,ha,1163,Imputed value,I,Crops and livestock products,QCL,139
+Ecuador,Oats,0117,Yield,5412,2023,kg/ha,748.3,Estimated value,E,Crops and livestock products,QCL,141
+Ecuador,Oats,0117,Production,5510,2023,t,869.99,Imputed value,I,Crops and livestock products,QCL,140
+Ecuador,Rice,0113,Area harvested,5312,2023,ha,343050,Official figure,A,Crops and livestock products,QCL,139
+Ecuador,Rice,0113,Yield,5412,2023,kg/ha,3827.4,Official figure,A,Crops and livestock products,QCL,141
+Ecuador,Rice,0113,Production,5510,2023,t,1313000,Official figure,A,Crops and livestock products,QCL,140
+Ecuador,Rye,0116,Area harvested,5312,2023,ha,128,Estimated value,E,Crops and livestock products,QCL,139
+Ecuador,Rye,0116,Yield,5412,2023,kg/ha,631.5,Estimated value,E,Crops and livestock products,QCL,141
+Ecuador,Rye,0116,Production,5510,2023,t,81.12,Estimated value,E,Crops and livestock products,QCL,140
+Ecuador,Wheat,0111,Area harvested,5312,2023,ha,4035,Official figure,A,Crops and livestock products,QCL,139
+Ecuador,Wheat,0111,Yield,5412,2023,kg/ha,985.4,Official figure,A,Crops and livestock products,QCL,141
+Ecuador,Wheat,0111,Production,5510,2023,t,3976.02,Official figure,A,Crops and livestock products,QCL,140
+Egypt,Barley,0115,Area harvested,5312,2023,ha,22000,Figure from international organizations,X,Crops and livestock products,QCL,142
+Egypt,Barley,0115,Yield,5412,2023,kg/ha,4090.9,Figure from international organizations,X,Crops and livestock products,QCL,144
+Egypt,Barley,0115,Production,5510,2023,t,90000,Figure from international organizations,X,Crops and livestock products,QCL,143
+Egypt,Rice,0113,Area harvested,5312,2023,ha,642501,Imputed value,I,Crops and livestock products,QCL,142
+Egypt,Rice,0113,Yield,5412,2023,kg/ha,8715.9,Estimated value,E,Crops and livestock products,QCL,144
+Egypt,Rice,0113,Production,5510,2023,t,5600000,Figure from international organizations,X,Crops and livestock products,QCL,143
+Egypt,Rye,0116,Area harvested,5312,2023,ha,45526,Estimated value,E,Crops and livestock products,QCL,142
+Egypt,Rye,0116,Yield,5412,2023,kg/ha,1999.1,Estimated value,E,Crops and livestock products,QCL,144
+Egypt,Rye,0116,Production,5510,2023,t,91009.98,Estimated value,E,Crops and livestock products,QCL,143
+Egypt,Wheat,0111,Area harvested,5312,2023,ha,1350000,Figure from international organizations,X,Crops and livestock products,QCL,142
+Egypt,Wheat,0111,Yield,5412,2023,kg/ha,7185.2,Figure from international organizations,X,Crops and livestock products,QCL,144
+Egypt,Wheat,0111,Production,5510,2023,t,9700000,Figure from international organizations,X,Crops and livestock products,QCL,143
+El Salvador,Rice,0113,Area harvested,5312,2023,ha,1593,Imputed value,I,Crops and livestock products,QCL,145
+El Salvador,Rice,0113,Yield,5412,2023,kg/ha,6903.5,Estimated value,E,Crops and livestock products,QCL,147
+El Salvador,Rice,0113,Production,5510,2023,t,11000,Figure from international organizations,X,Crops and livestock products,QCL,146
+Eritrea,Barley,0115,Area harvested,5312,2023,ha,45000,Figure from international organizations,X,Crops and livestock products,QCL,148
+Eritrea,Barley,0115,Yield,5412,2023,kg/ha,1444.4,Figure from international organizations,X,Crops and livestock products,QCL,150
+Eritrea,Barley,0115,Production,5510,2023,t,65000,Figure from international organizations,X,Crops and livestock products,QCL,149
+Eritrea,Wheat,0111,Area harvested,5312,2023,ha,25000,Figure from international organizations,X,Crops and livestock products,QCL,148
+Eritrea,Wheat,0111,Yield,5412,2023,kg/ha,1000,Figure from international organizations,X,Crops and livestock products,QCL,150
+Eritrea,Wheat,0111,Production,5510,2023,t,25000,Figure from international organizations,X,Crops and livestock products,QCL,149
+Estonia,Barley,0115,Area harvested,5312,2023,ha,112330,Official figure,A,Crops and livestock products,QCL,151
+Estonia,Barley,0115,Yield,5412,2023,kg/ha,2952.8,Official figure,A,Crops and livestock products,QCL,153
+Estonia,Barley,0115,Production,5510,2023,t,331690,Official figure,A,Crops and livestock products,QCL,152
+Estonia,Oats,0117,Area harvested,5312,2023,ha,35720,Official figure,A,Crops and livestock products,QCL,151
+Estonia,Oats,0117,Yield,5412,2023,kg/ha,2259,Official figure,A,Crops and livestock products,QCL,153
+Estonia,Oats,0117,Production,5510,2023,t,80690,Official figure,A,Crops and livestock products,QCL,152
+Estonia,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,151
+Estonia,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,152
+Estonia,Rye,0116,Area harvested,5312,2023,ha,16900,Official figure,A,Crops and livestock products,QCL,151
+Estonia,Rye,0116,Yield,5412,2023,kg/ha,3657.4,Official figure,A,Crops and livestock products,QCL,153
+Estonia,Rye,0116,Production,5510,2023,t,61810,Official figure,A,Crops and livestock products,QCL,152
+Estonia,Wheat,0111,Area harvested,5312,2023,ha,173570,Official figure,A,Crops and livestock products,QCL,151
+Estonia,Wheat,0111,Yield,5412,2023,kg/ha,3999.1,Official figure,A,Crops and livestock products,QCL,153
+Estonia,Wheat,0111,Production,5510,2023,t,694120,Official figure,A,Crops and livestock products,QCL,152
+Eswatini,Rice,0113,Area harvested,5312,2023,ha,321,Imputed value,I,Crops and livestock products,QCL,154
+Eswatini,Rice,0113,Yield,5412,2023,kg/ha,3118.9,Estimated value,E,Crops and livestock products,QCL,156
+Eswatini,Rice,0113,Production,5510,2023,t,1000.63,Imputed value,I,Crops and livestock products,QCL,155
+Eswatini,Wheat,0111,Area harvested,5312,2023,ha,378,Estimated value,E,Crops and livestock products,QCL,154
+Eswatini,Wheat,0111,Yield,5412,2023,kg/ha,1863.1,Estimated value,E,Crops and livestock products,QCL,156
+Eswatini,Wheat,0111,Production,5510,2023,t,705.14,Estimated value,E,Crops and livestock products,QCL,155
+Ethiopia,Barley,0115,Area harvested,5312,2023,ha,980000,Figure from international organizations,X,Crops and livestock products,QCL,157
+Ethiopia,Barley,0115,Yield,5412,2023,kg/ha,2500,Figure from international organizations,X,Crops and livestock products,QCL,159
+Ethiopia,Barley,0115,Production,5510,2023,t,2450000,Figure from international organizations,X,Crops and livestock products,QCL,158
+Ethiopia,Oats,0117,Area harvested,5312,2023,ha,21760,Imputed value,I,Crops and livestock products,QCL,157
+Ethiopia,Oats,0117,Yield,5412,2023,kg/ha,2202.7,Estimated value,E,Crops and livestock products,QCL,159
+Ethiopia,Oats,0117,Production,5510,2023,t,47931.12,Imputed value,I,Crops and livestock products,QCL,158
+Ethiopia,Rice,0113,Area harvested,5312,2023,ha,60000,Figure from international organizations,X,Crops and livestock products,QCL,157
+Ethiopia,Rice,0113,Yield,5412,2023,kg/ha,3366.7,Figure from international organizations,X,Crops and livestock products,QCL,159
+Ethiopia,Rice,0113,Production,5510,2023,t,202000,Figure from international organizations,X,Crops and livestock products,QCL,158
+Ethiopia,Wheat,0111,Area harvested,5312,2023,ha,1860000,Figure from international organizations,X,Crops and livestock products,QCL,157
+Ethiopia,Wheat,0111,Yield,5412,2023,kg/ha,3118.3,Figure from international organizations,X,Crops and livestock products,QCL,159
+Ethiopia,Wheat,0111,Production,5510,2023,t,5800000,Figure from international organizations,X,Crops and livestock products,QCL,158
+Fiji,Rice,0113,Area harvested,5312,2023,ha,1894,Official figure,A,Crops and livestock products,QCL,160
+Fiji,Rice,0113,Yield,5412,2023,kg/ha,3784.2,Official figure,A,Crops and livestock products,QCL,162
+Fiji,Rice,0113,Production,5510,2023,t,7165.4,Official figure,A,Crops and livestock products,QCL,161
+Finland,Barley,0115,Area harvested,5312,2023,ha,340700,Official figure,A,Crops and livestock products,QCL,163
+Finland,Barley,0115,Yield,5412,2023,kg/ha,3166.1,Official figure,A,Crops and livestock products,QCL,165
+Finland,Barley,0115,Production,5510,2023,t,1078700,Official figure,A,Crops and livestock products,QCL,164
+Finland,Oats,0117,Area harvested,5312,2023,ha,291300,Official figure,A,Crops and livestock products,QCL,163
+Finland,Oats,0117,Yield,5412,2023,kg/ha,3500.6,Official figure,A,Crops and livestock products,QCL,165
+Finland,Oats,0117,Production,5510,2023,t,1019720,Official figure,A,Crops and livestock products,QCL,164
+Finland,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,163
+Finland,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,164
+Finland,Rye,0116,Area harvested,5312,2023,ha,25740,Official figure,A,Crops and livestock products,QCL,163
+Finland,Rye,0116,Yield,5412,2023,kg/ha,3573,Official figure,A,Crops and livestock products,QCL,165
+Finland,Rye,0116,Production,5510,2023,t,91970,Official figure,A,Crops and livestock products,QCL,164
+Finland,Wheat,0111,Area harvested,5312,2023,ha,229160,Official figure,A,Crops and livestock products,QCL,163
+Finland,Wheat,0111,Yield,5412,2023,kg/ha,3268.6,Official figure,A,Crops and livestock products,QCL,165
+Finland,Wheat,0111,Production,5510,2023,t,749030,Official figure,A,Crops and livestock products,QCL,164
+France,Barley,0115,Area harvested,5312,2023,ha,1815490,Official figure,A,Crops and livestock products,QCL,166
+France,Barley,0115,Yield,5412,2023,kg/ha,6688.8,Official figure,A,Crops and livestock products,QCL,168
+France,Barley,0115,Production,5510,2023,t,12143490,Official figure,A,Crops and livestock products,QCL,167
+France,Oats,0117,Area harvested,5312,2023,ha,78900,Official figure,A,Crops and livestock products,QCL,166
+France,Oats,0117,Yield,5412,2023,kg/ha,4275.5,Official figure,A,Crops and livestock products,QCL,168
+France,Oats,0117,Production,5510,2023,t,337340,Official figure,A,Crops and livestock products,QCL,167
+France,Rice,0113,Area harvested,5312,2023,ha,12120,Official figure,A,Crops and livestock products,QCL,166
+France,Rice,0113,Yield,5412,2023,kg/ha,5632.8,Official figure,A,Crops and livestock products,QCL,168
+France,Rice,0113,Production,5510,2023,t,68270,Official figure,A,Crops and livestock products,QCL,167
+France,Rye,0116,Area harvested,5312,2023,ha,38820,Official figure,A,Crops and livestock products,QCL,166
+France,Rye,0116,Yield,5412,2023,kg/ha,4335.7,Official figure,A,Crops and livestock products,QCL,168
+France,Rye,0116,Production,5510,2023,t,168310,Official figure,A,Crops and livestock products,QCL,167
+France,Wheat,0111,Area harvested,5312,2023,ha,4998280,Official figure,A,Crops and livestock products,QCL,166
+France,Wheat,0111,Yield,5412,2023,kg/ha,7201.6,Official figure,A,Crops and livestock products,QCL,168
+France,Wheat,0111,Production,5510,2023,t,35995570,Official figure,A,Crops and livestock products,QCL,167
+Gabon,Rice,0113,Area harvested,5312,2023,ha,640,Imputed value,I,Crops and livestock products,QCL,169
+Gabon,Rice,0113,Yield,5412,2023,kg/ha,2705.2,Estimated value,E,Crops and livestock products,QCL,171
+Gabon,Rice,0113,Production,5510,2023,t,1731.31,Estimated value,E,Crops and livestock products,QCL,170
+Gambia,Rice,0113,Area harvested,5312,2023,ha,65000,Figure from international organizations,X,Crops and livestock products,QCL,172
+Gambia,Rice,0113,Yield,5412,2023,kg/ha,847.7,Estimated value,E,Crops and livestock products,QCL,174
+Gambia,Rice,0113,Production,5510,2023,t,55100,Official figure,A,Crops and livestock products,QCL,173
+Georgia,Barley,0115,Area harvested,5312,2023,ha,24500,Official figure,A,Crops and livestock products,QCL,175
+Georgia,Barley,0115,Yield,5412,2023,kg/ha,2159.2,Official figure,A,Crops and livestock products,QCL,177
+Georgia,Barley,0115,Production,5510,2023,t,52900,Official figure,A,Crops and livestock products,QCL,176
+Georgia,Oats,0117,Area harvested,5312,2023,ha,800,Official figure,A,Crops and livestock products,QCL,175
+Georgia,Oats,0117,Yield,5412,2023,kg/ha,2125,Official figure,A,Crops and livestock products,QCL,177
+Georgia,Oats,0117,Production,5510,2023,t,1700,Official figure,A,Crops and livestock products,QCL,176
+Georgia,Rye,0116,Area harvested,5312,2023,ha,163,Estimated value,E,Crops and livestock products,QCL,175
+Georgia,Rye,0116,Yield,5412,2023,kg/ha,1203.4,Estimated value,E,Crops and livestock products,QCL,177
+Georgia,Rye,0116,Production,5510,2023,t,196.24,Estimated value,E,Crops and livestock products,QCL,176
+Georgia,Wheat,0111,Area harvested,5312,2023,ha,55700,Official figure,A,Crops and livestock products,QCL,175
+Georgia,Wheat,0111,Yield,5412,2023,kg/ha,2639.1,Official figure,A,Crops and livestock products,QCL,177
+Georgia,Wheat,0111,Production,5510,2023,t,147000,Official figure,A,Crops and livestock products,QCL,176
+Germany,Barley,0115,Area harvested,5312,2023,ha,1612200,Official figure,A,Crops and livestock products,QCL,178
+Germany,Barley,0115,Yield,5412,2023,kg/ha,6822.9,Official figure,A,Crops and livestock products,QCL,180
+Germany,Barley,0115,Production,5510,2023,t,10999900,Official figure,A,Crops and livestock products,QCL,179
+Germany,Oats,0117,Area harvested,5312,2023,ha,139500,Official figure,A,Crops and livestock products,QCL,178
+Germany,Oats,0117,Yield,5412,2023,kg/ha,3240.1,Official figure,A,Crops and livestock products,QCL,180
+Germany,Oats,0117,Production,5510,2023,t,452000,Official figure,A,Crops and livestock products,QCL,179
+Germany,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,178
+Germany,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,179
+Germany,Rye,0116,Area harvested,5312,2023,ha,625400,Official figure,A,Crops and livestock products,QCL,178
+Germany,Rye,0116,Yield,5412,2023,kg/ha,4995.5,Official figure,A,Crops and livestock products,QCL,180
+Germany,Rye,0116,Production,5510,2023,t,3124200,Official figure,A,Crops and livestock products,QCL,179
+Germany,Wheat,0111,Area harvested,5312,2023,ha,2897800,Official figure,A,Crops and livestock products,QCL,178
+Germany,Wheat,0111,Yield,5412,2023,kg/ha,7431.8,Official figure,A,Crops and livestock products,QCL,180
+Germany,Wheat,0111,Production,5510,2023,t,21535900,Official figure,A,Crops and livestock products,QCL,179
+Ghana,Oats,0117,Area harvested,5312,2023,ha,43,Imputed value,I,Crops and livestock products,QCL,181
+Ghana,Oats,0117,Yield,5412,2023,kg/ha,935.2,Estimated value,E,Crops and livestock products,QCL,183
+Ghana,Oats,0117,Production,5510,2023,t,40.5,Imputed value,I,Crops and livestock products,QCL,182
+Ghana,Rice,0113,Area harvested,5312,2023,ha,370000,Figure from international organizations,X,Crops and livestock products,QCL,181
+Ghana,Rice,0113,Yield,5412,2023,kg/ha,3954.1,Figure from international organizations,X,Crops and livestock products,QCL,183
+Ghana,Rice,0113,Production,5510,2023,t,1463000,Figure from international organizations,X,Crops and livestock products,QCL,182
+Greece,Barley,0115,Area harvested,5312,2023,ha,130780,Official figure,A,Crops and livestock products,QCL,184
+Greece,Barley,0115,Yield,5412,2023,kg/ha,2772,Official figure,A,Crops and livestock products,QCL,186
+Greece,Barley,0115,Production,5510,2023,t,362520,Official figure,A,Crops and livestock products,QCL,185
+Greece,Oats,0117,Area harvested,5312,2023,ha,61650,Official figure,A,Crops and livestock products,QCL,184
+Greece,Oats,0117,Yield,5412,2023,kg/ha,1122.3,Official figure,A,Crops and livestock products,QCL,186
+Greece,Oats,0117,Production,5510,2023,t,69190,Official figure,A,Crops and livestock products,QCL,185
+Greece,Rice,0113,Area harvested,5312,2023,ha,27600,Official figure,A,Crops and livestock products,QCL,184
+Greece,Rice,0113,Yield,5412,2023,kg/ha,6900,Official figure,A,Crops and livestock products,QCL,186
+Greece,Rice,0113,Production,5510,2023,t,190440,Official figure,A,Crops and livestock products,QCL,185
+Greece,Rye,0116,Area harvested,5312,2023,ha,8130,Official figure,A,Crops and livestock products,QCL,184
+Greece,Rye,0116,Yield,5412,2023,kg/ha,1921.3,Official figure,A,Crops and livestock products,QCL,186
+Greece,Rye,0116,Production,5510,2023,t,15620,Official figure,A,Crops and livestock products,QCL,185
+Greece,Wheat,0111,Area harvested,5312,2023,ha,448460,Official figure,A,Crops and livestock products,QCL,184
+Greece,Wheat,0111,Yield,5412,2023,kg/ha,2919.3,Official figure,A,Crops and livestock products,QCL,186
+Greece,Wheat,0111,Production,5510,2023,t,1309180,Official figure,A,Crops and livestock products,QCL,185
+Guatemala,Barley,0115,Area harvested,5312,2023,ha,8,Estimated value,E,Crops and livestock products,QCL,187
+Guatemala,Barley,0115,Yield,5412,2023,kg/ha,2163.4,Estimated value,E,Crops and livestock products,QCL,189
+Guatemala,Barley,0115,Production,5510,2023,t,18.14,Estimated value,E,Crops and livestock products,QCL,188
+Guatemala,Rice,0113,Area harvested,5312,2023,ha,14469,Official figure,A,Crops and livestock products,QCL,187
+Guatemala,Rice,0113,Yield,5412,2023,kg/ha,3538.1,Official figure,A,Crops and livestock products,QCL,189
+Guatemala,Rice,0113,Production,5510,2023,t,51193,Official figure,A,Crops and livestock products,QCL,188
+Guatemala,Wheat,0111,Area harvested,5312,2023,ha,0,Estimated value,E,Crops and livestock products,QCL,187
+Guatemala,Wheat,0111,Production,5510,2023,t,0,Estimated value,E,Crops and livestock products,QCL,188
+Guinea,Rice,0113,Area harvested,5312,2023,ha,2352000,Estimated value,E,Crops and livestock products,QCL,193
+Guinea,Rice,0113,Yield,5412,2023,kg/ha,1502.9,Estimated value,E,Crops and livestock products,QCL,195
+Guinea,Rice,0113,Production,5510,2023,t,3534800,Official figure,A,Crops and livestock products,QCL,194
+Guinea-Bissau,Rice,0113,Area harvested,5312,2023,ha,120000,Figure from international organizations,X,Crops and livestock products,QCL,190
+Guinea-Bissau,Rice,0113,Yield,5412,2023,kg/ha,1886.7,Estimated value,E,Crops and livestock products,QCL,192
+Guinea-Bissau,Rice,0113,Production,5510,2023,t,226400,Official figure,A,Crops and livestock products,QCL,191
+Guyana,Rice,0113,Area harvested,5312,2023,ha,162801,Imputed value,I,Crops and livestock products,QCL,196
+Guyana,Rice,0113,Yield,5412,2023,kg/ha,6111.8,Estimated value,E,Crops and livestock products,QCL,198
+Guyana,Rice,0113,Production,5510,2023,t,995000,Figure from international organizations,X,Crops and livestock products,QCL,197
+Haiti,Rice,0113,Area harvested,5312,2023,ha,52336,Imputed value,I,Crops and livestock products,QCL,199
+Haiti,Rice,0113,Yield,5412,2023,kg/ha,2598.6,Estimated value,E,Crops and livestock products,QCL,201
+Haiti,Rice,0113,Production,5510,2023,t,136000,Figure from international organizations,X,Crops and livestock products,QCL,200
+Honduras,Rice,0113,Area harvested,5312,2023,ha,11315,Imputed value,I,Crops and livestock products,QCL,202
+Honduras,Rice,0113,Yield,5412,2023,kg/ha,3081.7,Estimated value,E,Crops and livestock products,QCL,204
+Honduras,Rice,0113,Production,5510,2023,t,34869.78,Official figure,A,Crops and livestock products,QCL,203
+Honduras,Wheat,0111,Area harvested,5312,2023,ha,2385,Estimated value,E,Crops and livestock products,QCL,202
+Honduras,Wheat,0111,Yield,5412,2023,kg/ha,536.4,Estimated value,E,Crops and livestock products,QCL,204
+Honduras,Wheat,0111,Production,5510,2023,t,1279.48,Estimated value,E,Crops and livestock products,QCL,203
+Hungary,Barley,0115,Area harvested,5312,2023,ha,412920,Official figure,A,Crops and livestock products,QCL,205
+Hungary,Barley,0115,Yield,5412,2023,kg/ha,5375.7,Official figure,A,Crops and livestock products,QCL,207
+Hungary,Barley,0115,Production,5510,2023,t,2219720,Official figure,A,Crops and livestock products,QCL,206
+Hungary,Oats,0117,Area harvested,5312,2023,ha,22050,Official figure,A,Crops and livestock products,QCL,205
+Hungary,Oats,0117,Yield,5412,2023,kg/ha,2747.4,Official figure,A,Crops and livestock products,QCL,207
+Hungary,Oats,0117,Production,5510,2023,t,60580,Official figure,A,Crops and livestock products,QCL,206
+Hungary,Rice,0113,Area harvested,5312,2023,ha,2340,Official figure,A,Crops and livestock products,QCL,205
+Hungary,Rice,0113,Yield,5412,2023,kg/ha,3559.8,Official figure,A,Crops and livestock products,QCL,207
+Hungary,Rice,0113,Production,5510,2023,t,8330,Official figure,A,Crops and livestock products,QCL,206
+Hungary,Rye,0116,Area harvested,5312,2023,ha,29410,Official figure,A,Crops and livestock products,QCL,205
+Hungary,Rye,0116,Yield,5412,2023,kg/ha,3201,Official figure,A,Crops and livestock products,QCL,207
+Hungary,Rye,0116,Production,5510,2023,t,94140,Official figure,A,Crops and livestock products,QCL,206
+Hungary,Wheat,0111,Area harvested,5312,2023,ha,1053120,Official figure,A,Crops and livestock products,QCL,205
+Hungary,Wheat,0111,Yield,5412,2023,kg/ha,5642.3,Official figure,A,Crops and livestock products,QCL,207
+Hungary,Wheat,0111,Production,5510,2023,t,5941990,Official figure,A,Crops and livestock products,QCL,206
+Iceland,Barley,0115,Area harvested,5312,2023,ha,3160,Official figure,A,Crops and livestock products,QCL,208
+Iceland,Barley,0115,Yield,5412,2023,kg/ha,2430.1,Official figure,A,Crops and livestock products,QCL,210
+Iceland,Barley,0115,Production,5510,2023,t,7679,Official figure,A,Crops and livestock products,QCL,209
+India,Barley,0115,Area harvested,5312,2023,ha,628325,Official figure,A,Crops and livestock products,QCL,211
+India,Barley,0115,Yield,5412,2023,kg/ha,3044.5,Official figure,A,Crops and livestock products,QCL,213
+India,Barley,0115,Production,5510,2023,t,1912919.44,Official figure,A,Crops and livestock products,QCL,212
+India,Rice,0113,Area harvested,5312,2023,ha,47828000,Official figure,A,Crops and livestock products,QCL,211
+India,Rice,0113,Yield,5412,2023,kg/ha,4322.3,Official figure,A,Crops and livestock products,QCL,213
+India,Rice,0113,Production,5510,2023,t,206727000,Official figure,A,Crops and livestock products,QCL,212
+India,Wheat,0111,Area harvested,5312,2023,ha,31400716,Official figure,A,Crops and livestock products,QCL,211
+India,Wheat,0111,Yield,5412,2023,kg/ha,3520.7,Official figure,A,Crops and livestock products,QCL,213
+India,Wheat,0111,Production,5510,2023,t,110553675.31,Official figure,A,Crops and livestock products,QCL,212
+Indonesia,Rice,0113,Area harvested,5312,2023,ha,10213705,Official figure,A,Crops and livestock products,QCL,214
+Indonesia,Rice,0113,Yield,5412,2023,kg/ha,5285.2,Official figure,A,Crops and livestock products,QCL,216
+Indonesia,Rice,0113,Production,5510,2023,t,53980993,Official figure,A,Crops and livestock products,QCL,215
+Iran (Islamic Republic of),Barley,0115,Area harvested,5312,2023,ha,1650000,Figure from international organizations,X,Crops and livestock products,QCL,217
+Iran (Islamic Republic of),Barley,0115,Yield,5412,2023,kg/ha,1818.2,Figure from international organizations,X,Crops and livestock products,QCL,219
+Iran (Islamic Republic of),Barley,0115,Production,5510,2023,t,3000000,Figure from international organizations,X,Crops and livestock products,QCL,218
+Iran (Islamic Republic of),Rice,0113,Area harvested,5312,2023,ha,749746,Imputed value,I,Crops and livestock products,QCL,217
+Iran (Islamic Republic of),Rice,0113,Yield,5412,2023,kg/ha,4799.8,Estimated value,E,Crops and livestock products,QCL,219
+Iran (Islamic Republic of),Rice,0113,Production,5510,2023,t,3598594.46,Imputed value,I,Crops and livestock products,QCL,218
+Iran (Islamic Republic of),Rye,0116,Area harvested,5312,2023,ha,491,Estimated value,E,Crops and livestock products,QCL,217
+Iran (Islamic Republic of),Rye,0116,Yield,5412,2023,kg/ha,909,Estimated value,E,Crops and livestock products,QCL,219
+Iran (Islamic Republic of),Rye,0116,Production,5510,2023,t,446.48,Estimated value,E,Crops and livestock products,QCL,218
+Iran (Islamic Republic of),Wheat,0111,Area harvested,5312,2023,ha,6200000,Figure from international organizations,X,Crops and livestock products,QCL,217
+Iran (Islamic Republic of),Wheat,0111,Yield,5412,2023,kg/ha,2258.1,Figure from international organizations,X,Crops and livestock products,QCL,219
+Iran (Islamic Republic of),Wheat,0111,Production,5510,2023,t,14000000,Figure from international organizations,X,Crops and livestock products,QCL,218
+Iraq,Barley,0115,Area harvested,5312,2023,ha,63674,Imputed value,I,Crops and livestock products,QCL,220
+Iraq,Barley,0115,Yield,5412,2023,kg/ha,1663.2,Estimated value,E,Crops and livestock products,QCL,222
+Iraq,Barley,0115,Production,5510,2023,t,105903,Official figure,A,Crops and livestock products,QCL,221
+Iraq,Oats,0117,Area harvested,5312,2023,ha,0,Estimated value,E,Crops and livestock products,QCL,220
+Iraq,Oats,0117,Production,5510,2023,t,0,Estimated value,E,Crops and livestock products,QCL,221
+Iraq,Rice,0113,Area harvested,5312,2023,ha,3472,Official figure,A,Crops and livestock products,QCL,220
+Iraq,Rice,0113,Yield,5412,2023,kg/ha,3629.6,Official figure,A,Crops and livestock products,QCL,222
+Iraq,Rice,0113,Production,5510,2023,t,12602,Official figure,A,Crops and livestock products,QCL,221
+Iraq,Rye,0116,Area harvested,5312,2023,ha,73900,Imputed value,I,Crops and livestock products,QCL,220
+Iraq,Rye,0116,Yield,5412,2023,kg/ha,4264.4,Estimated value,E,Crops and livestock products,QCL,222
+Iraq,Rye,0116,Production,5510,2023,t,315144.42,Imputed value,I,Crops and livestock products,QCL,221
+Iraq,Wheat,0111,Area harvested,5312,2023,ha,1668077,Official figure,A,Crops and livestock products,QCL,220
+Iraq,Wheat,0111,Yield,5412,2023,kg/ha,2546.5,Official figure,A,Crops and livestock products,QCL,222
+Iraq,Wheat,0111,Production,5510,2023,t,4247726,Official figure,A,Crops and livestock products,QCL,221
+Ireland,Barley,0115,Area harvested,5312,2023,ha,186340,Official figure,A,Crops and livestock products,QCL,223
+Ireland,Barley,0115,Yield,5412,2023,kg/ha,6518.8,Official figure,A,Crops and livestock products,QCL,225
+Ireland,Barley,0115,Production,5510,2023,t,1214720,Official figure,A,Crops and livestock products,QCL,224
+Ireland,Oats,0117,Area harvested,5312,2023,ha,27230,Official figure,A,Crops and livestock products,QCL,223
+Ireland,Oats,0117,Yield,5412,2023,kg/ha,6643.8,Official figure,A,Crops and livestock products,QCL,225
+Ireland,Oats,0117,Production,5510,2023,t,180910,Official figure,A,Crops and livestock products,QCL,224
+Ireland,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,223
+Ireland,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,224
+Ireland,Rye,0116,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,223
+Ireland,Rye,0116,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,224
+Ireland,Wheat,0111,Area harvested,5312,2023,ha,55780,Official figure,A,Crops and livestock products,QCL,223
+Ireland,Wheat,0111,Yield,5412,2023,kg/ha,8675.3,Official figure,A,Crops and livestock products,QCL,225
+Ireland,Wheat,0111,Production,5510,2023,t,483910,Official figure,A,Crops and livestock products,QCL,224
+Israel,Barley,0115,Area harvested,5312,2023,ha,6000,Figure from international organizations,X,Crops and livestock products,QCL,226
+Israel,Barley,0115,Yield,5412,2023,kg/ha,1866.7,Estimated value,E,Crops and livestock products,QCL,228
+Israel,Barley,0115,Production,5510,2023,t,11200,Official figure,A,Crops and livestock products,QCL,227
+Israel,Oats,0117,Area harvested,5312,2023,ha,912,Estimated value,E,Crops and livestock products,QCL,226
+Israel,Oats,0117,Yield,5412,2023,kg/ha,285.6,Estimated value,E,Crops and livestock products,QCL,228
+Israel,Oats,0117,Production,5510,2023,t,260.36,Estimated value,E,Crops and livestock products,QCL,227
+Israel,Wheat,0111,Area harvested,5312,2023,ha,78784,Imputed value,I,Crops and livestock products,QCL,226
+Israel,Wheat,0111,Yield,5412,2023,kg/ha,1726.2,Estimated value,E,Crops and livestock products,QCL,228
+Israel,Wheat,0111,Production,5510,2023,t,136000,Official figure,A,Crops and livestock products,QCL,227
+Italy,Barley,0115,Area harvested,5312,2023,ha,290300,Official figure,A,Crops and livestock products,QCL,229
+Italy,Barley,0115,Yield,5412,2023,kg/ha,4112.7,Official figure,A,Crops and livestock products,QCL,231
+Italy,Barley,0115,Production,5510,2023,t,1193930,Official figure,A,Crops and livestock products,QCL,230
+Italy,Oats,0117,Area harvested,5312,2023,ha,102600,Official figure,A,Crops and livestock products,QCL,229
+Italy,Oats,0117,Yield,5412,2023,kg/ha,2255.7,Official figure,A,Crops and livestock products,QCL,231
+Italy,Oats,0117,Production,5510,2023,t,231430,Official figure,A,Crops and livestock products,QCL,230
+Italy,Rice,0113,Area harvested,5312,2023,ha,210240,Official figure,A,Crops and livestock products,QCL,229
+Italy,Rice,0113,Yield,5412,2023,kg/ha,6557.5,Official figure,A,Crops and livestock products,QCL,231
+Italy,Rice,0113,Production,5510,2023,t,1378640,Official figure,A,Crops and livestock products,QCL,230
+Italy,Rye,0116,Area harvested,5312,2023,ha,3590,Official figure,A,Crops and livestock products,QCL,229
+Italy,Rye,0116,Yield,5412,2023,kg/ha,3052.9,Official figure,A,Crops and livestock products,QCL,231
+Italy,Rye,0116,Production,5510,2023,t,10960,Official figure,A,Crops and livestock products,QCL,230
+Italy,Wheat,0111,Area harvested,5312,2023,ha,1867560,Official figure,A,Crops and livestock products,QCL,229
+Italy,Wheat,0111,Yield,5412,2023,kg/ha,3691.7,Official figure,A,Crops and livestock products,QCL,231
+Italy,Wheat,0111,Production,5510,2023,t,6894470,Official figure,A,Crops and livestock products,QCL,230
+Jamaica,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,232
+Jamaica,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,233
+Japan,Barley,0115,Area harvested,5312,2023,ha,64000,Official figure,A,Crops and livestock products,QCL,234
+Japan,Barley,0115,Yield,5412,2023,kg/ha,3629.7,Official figure,A,Crops and livestock products,QCL,236
+Japan,Barley,0115,Production,5510,2023,t,232300,Official figure,A,Crops and livestock products,QCL,235
+Japan,Oats,0117,Area harvested,5312,2023,ha,163,Estimated value,E,Crops and livestock products,QCL,234
+Japan,Oats,0117,Yield,5412,2023,kg/ha,1926.8,Estimated value,E,Crops and livestock products,QCL,236
+Japan,Oats,0117,Production,5510,2023,t,314.93,Estimated value,E,Crops and livestock products,QCL,235
+Japan,Rice,0113,Area harvested,5312,2023,ha,1478300,Estimated value,E,Crops and livestock products,QCL,234
+Japan,Rice,0113,Yield,5412,2023,kg/ha,6856.5,Estimated value,E,Crops and livestock products,QCL,236
+Japan,Rice,0113,Production,5510,2023,t,10136000,Official figure,A,Crops and livestock products,QCL,235
+Japan,Wheat,0111,Area harvested,5312,2023,ha,231700,Official figure,A,Crops and livestock products,QCL,234
+Japan,Wheat,0111,Yield,5412,2023,kg/ha,4721.6,Official figure,A,Crops and livestock products,QCL,236
+Japan,Wheat,0111,Production,5510,2023,t,1094000,Official figure,A,Crops and livestock products,QCL,235
+Jordan,Barley,0115,Area harvested,5312,2023,ha,33375,Official figure,A,Crops and livestock products,QCL,237
+Jordan,Barley,0115,Yield,5412,2023,kg/ha,1333.2,Official figure,A,Crops and livestock products,QCL,239
+Jordan,Barley,0115,Production,5510,2023,t,44497,Official figure,A,Crops and livestock products,QCL,238
+Jordan,Wheat,0111,Area harvested,5312,2023,ha,12110,Official figure,A,Crops and livestock products,QCL,237
+Jordan,Wheat,0111,Yield,5412,2023,kg/ha,2204.6,Official figure,A,Crops and livestock products,QCL,239
+Jordan,Wheat,0111,Production,5510,2023,t,26698,Official figure,A,Crops and livestock products,QCL,238
+Kazakhstan,Barley,0115,Area harvested,5312,2023,ha,2424652,Official figure,A,Crops and livestock products,QCL,240
+Kazakhstan,Barley,0115,Yield,5412,2023,kg/ha,1078,Official figure,A,Crops and livestock products,QCL,242
+Kazakhstan,Barley,0115,Production,5510,2023,t,2613882,Official figure,A,Crops and livestock products,QCL,241
+Kazakhstan,Oats,0117,Area harvested,5312,2023,ha,190673,Official figure,A,Crops and livestock products,QCL,240
+Kazakhstan,Oats,0117,Yield,5412,2023,kg/ha,785.1,Official figure,A,Crops and livestock products,QCL,242
+Kazakhstan,Oats,0117,Production,5510,2023,t,149705.6,Official figure,A,Crops and livestock products,QCL,241
+Kazakhstan,Rice,0113,Area harvested,5312,2023,ha,100008,Official figure,A,Crops and livestock products,QCL,240
+Kazakhstan,Rice,0113,Yield,5412,2023,kg/ha,4851.4,Official figure,A,Crops and livestock products,QCL,242
+Kazakhstan,Rice,0113,Production,5510,2023,t,485183,Official figure,A,Crops and livestock products,QCL,241
+Kazakhstan,Rye,0116,Area harvested,5312,2023,ha,21036,Official figure,A,Crops and livestock products,QCL,240
+Kazakhstan,Rye,0116,Yield,5412,2023,kg/ha,848.1,Official figure,A,Crops and livestock products,QCL,242
+Kazakhstan,Rye,0116,Production,5510,2023,t,17839.83,Official figure,A,Crops and livestock products,QCL,241
+Kazakhstan,Wheat,0111,Area harvested,5312,2023,ha,13129837,Official figure,A,Crops and livestock products,QCL,240
+Kazakhstan,Wheat,0111,Yield,5412,2023,kg/ha,922.4,Official figure,A,Crops and livestock products,QCL,242
+Kazakhstan,Wheat,0111,Production,5510,2023,t,12110913,Official figure,A,Crops and livestock products,QCL,241
+Kenya,Barley,0115,Area harvested,5312,2023,ha,13292,Official figure,A,Crops and livestock products,QCL,243
+Kenya,Barley,0115,Yield,5412,2023,kg/ha,2473.4,Official figure,A,Crops and livestock products,QCL,245
+Kenya,Barley,0115,Production,5510,2023,t,32876,Official figure,A,Crops and livestock products,QCL,244
+Kenya,Oats,0117,Area harvested,5312,2023,ha,3702,Imputed value,I,Crops and livestock products,QCL,243
+Kenya,Oats,0117,Yield,5412,2023,kg/ha,1012.7,Estimated value,E,Crops and livestock products,QCL,245
+Kenya,Oats,0117,Production,5510,2023,t,3748.64,Imputed value,I,Crops and livestock products,QCL,244
+Kenya,Rice,0113,Area harvested,5312,2023,ha,38939,Official figure,A,Crops and livestock products,QCL,243
+Kenya,Rice,0113,Yield,5412,2023,kg/ha,5882.6,Official figure,A,Crops and livestock products,QCL,245
+Kenya,Rice,0113,Production,5510,2023,t,229064,Official figure,A,Crops and livestock products,QCL,244
+Kenya,Wheat,0111,Area harvested,5312,2023,ha,104440,Official figure,A,Crops and livestock products,QCL,243
+Kenya,Wheat,0111,Yield,5412,2023,kg/ha,2963.3,Official figure,A,Crops and livestock products,QCL,245
+Kenya,Wheat,0111,Production,5510,2023,t,309492,Official figure,A,Crops and livestock products,QCL,244
+Kuwait,Barley,0115,Area harvested,5312,2023,ha,624,Imputed value,I,Crops and livestock products,QCL,246
+Kuwait,Barley,0115,Yield,5412,2023,kg/ha,7544.2,Estimated value,E,Crops and livestock products,QCL,248
+Kuwait,Barley,0115,Production,5510,2023,t,4709.27,Imputed value,I,Crops and livestock products,QCL,247
+Kuwait,Wheat,0111,Area harvested,5312,2023,ha,5,Imputed value,I,Crops and livestock products,QCL,246
+Kuwait,Wheat,0111,Yield,5412,2023,kg/ha,5201.7,Estimated value,E,Crops and livestock products,QCL,248
+Kuwait,Wheat,0111,Production,5510,2023,t,25.29,Imputed value,I,Crops and livestock products,QCL,247
+Kyrgyzstan,Barley,0115,Area harvested,5312,2023,ha,241213,Official figure,A,Crops and livestock products,QCL,249
+Kyrgyzstan,Barley,0115,Yield,5412,2023,kg/ha,1584,Official figure,A,Crops and livestock products,QCL,251
+Kyrgyzstan,Barley,0115,Production,5510,2023,t,382085,Official figure,A,Crops and livestock products,QCL,250
+Kyrgyzstan,Oats,0117,Area harvested,5312,2023,ha,753,Official figure,A,Crops and livestock products,QCL,249
+Kyrgyzstan,Oats,0117,Yield,5412,2023,kg/ha,1723.8,Official figure,A,Crops and livestock products,QCL,251
+Kyrgyzstan,Oats,0117,Production,5510,2023,t,1298,Official figure,A,Crops and livestock products,QCL,250
+Kyrgyzstan,Rice,0113,Area harvested,5312,2023,ha,11787,Official figure,A,Crops and livestock products,QCL,249
+Kyrgyzstan,Rice,0113,Yield,5412,2023,kg/ha,3967.5,Official figure,A,Crops and livestock products,QCL,251
+Kyrgyzstan,Rice,0113,Production,5510,2023,t,46765,Official figure,A,Crops and livestock products,QCL,250
+Kyrgyzstan,Rye,0116,Area harvested,5312,2023,ha,376,Estimated value,E,Crops and livestock products,QCL,249
+Kyrgyzstan,Rye,0116,Yield,5412,2023,kg/ha,2487.4,Estimated value,E,Crops and livestock products,QCL,251
+Kyrgyzstan,Rye,0116,Production,5510,2023,t,935.41,Estimated value,E,Crops and livestock products,QCL,250
+Kyrgyzstan,Wheat,0111,Area harvested,5312,2023,ha,230497,Official figure,A,Crops and livestock products,QCL,249
+Kyrgyzstan,Wheat,0111,Yield,5412,2023,kg/ha,1910.7,Official figure,A,Crops and livestock products,QCL,251
+Kyrgyzstan,Wheat,0111,Production,5510,2023,t,440415,Official figure,A,Crops and livestock products,QCL,250
+Lao People's Democratic Republic,Rice,0113,Area harvested,5312,2023,ha,876190,Imputed value,I,Crops and livestock products,QCL,252
+Lao People's Democratic Republic,Rice,0113,Yield,5412,2023,kg/ha,4376.9,Estimated value,E,Crops and livestock products,QCL,254
+Lao People's Democratic Republic,Rice,0113,Production,5510,2023,t,3835000,Figure from international organizations,X,Crops and livestock products,QCL,253
+Latvia,Barley,0115,Area harvested,5312,2023,ha,83600,Official figure,A,Crops and livestock products,QCL,255
+Latvia,Barley,0115,Yield,5412,2023,kg/ha,2785.9,Official figure,A,Crops and livestock products,QCL,257
+Latvia,Barley,0115,Production,5510,2023,t,232900,Official figure,A,Crops and livestock products,QCL,256
+Latvia,Oats,0117,Area harvested,5312,2023,ha,94700,Official figure,A,Crops and livestock products,QCL,255
+Latvia,Oats,0117,Yield,5412,2023,kg/ha,2115.1,Official figure,A,Crops and livestock products,QCL,257
+Latvia,Oats,0117,Production,5510,2023,t,200300,Official figure,A,Crops and livestock products,QCL,256
+Latvia,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,255
+Latvia,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,256
+Latvia,Rye,0116,Area harvested,5312,2023,ha,32600,Official figure,A,Crops and livestock products,QCL,255
+Latvia,Rye,0116,Yield,5412,2023,kg/ha,3202.5,Official figure,A,Crops and livestock products,QCL,257
+Latvia,Rye,0116,Production,5510,2023,t,104400,Official figure,A,Crops and livestock products,QCL,256
+Latvia,Wheat,0111,Area harvested,5312,2023,ha,525000,Official figure,A,Crops and livestock products,QCL,255
+Latvia,Wheat,0111,Yield,5412,2023,kg/ha,4070.1,Official figure,A,Crops and livestock products,QCL,257
+Latvia,Wheat,0111,Production,5510,2023,t,2136800,Official figure,A,Crops and livestock products,QCL,256
+Lebanon,Barley,0115,Area harvested,5312,2023,ha,14000,Figure from international organizations,X,Crops and livestock products,QCL,258
+Lebanon,Barley,0115,Yield,5412,2023,kg/ha,2142.9,Figure from international organizations,X,Crops and livestock products,QCL,260
+Lebanon,Barley,0115,Production,5510,2023,t,30000,Figure from international organizations,X,Crops and livestock products,QCL,259
+Lebanon,Oats,0117,Area harvested,5312,2023,ha,110,Imputed value,I,Crops and livestock products,QCL,258
+Lebanon,Oats,0117,Yield,5412,2023,kg/ha,1053.9,Estimated value,E,Crops and livestock products,QCL,260
+Lebanon,Oats,0117,Production,5510,2023,t,115.51,Imputed value,I,Crops and livestock products,QCL,259
+Lebanon,Wheat,0111,Area harvested,5312,2023,ha,40000,Figure from international organizations,X,Crops and livestock products,QCL,258
+Lebanon,Wheat,0111,Yield,5412,2023,kg/ha,2500,Figure from international organizations,X,Crops and livestock products,QCL,260
+Lebanon,Wheat,0111,Production,5510,2023,t,100000,Figure from international organizations,X,Crops and livestock products,QCL,259
+Lesotho,Barley,0115,Area harvested,5312,2023,ha,841,Estimated value,E,Crops and livestock products,QCL,261
+Lesotho,Barley,0115,Yield,5412,2023,kg/ha,355.2,Estimated value,E,Crops and livestock products,QCL,263
+Lesotho,Barley,0115,Production,5510,2023,t,298.86,Estimated value,E,Crops and livestock products,QCL,262
+Lesotho,Oats,0117,Area harvested,5312,2023,ha,217,Estimated value,E,Crops and livestock products,QCL,261
+Lesotho,Oats,0117,Yield,5412,2023,kg/ha,1534.6,Estimated value,E,Crops and livestock products,QCL,263
+Lesotho,Oats,0117,Production,5510,2023,t,333.04,Estimated value,E,Crops and livestock products,QCL,262
+Lesotho,Wheat,0111,Area harvested,5312,2023,ha,10639,Official figure,A,Crops and livestock products,QCL,261
+Lesotho,Wheat,0111,Yield,5412,2023,kg/ha,598.4,Official figure,A,Crops and livestock products,QCL,263
+Lesotho,Wheat,0111,Production,5510,2023,t,6366,Official figure,A,Crops and livestock products,QCL,262
+Liberia,Rice,0113,Area harvested,5312,2023,ha,240000,Figure from international organizations,X,Crops and livestock products,QCL,264
+Liberia,Rice,0113,Yield,5412,2023,kg/ha,1067.5,Estimated value,E,Crops and livestock products,QCL,266
+Liberia,Rice,0113,Production,5510,2023,t,256200,Official figure,A,Crops and livestock products,QCL,265
+Libya,Barley,0115,Area harvested,5312,2023,ha,132446,Imputed value,I,Crops and livestock products,QCL,267
+Libya,Barley,0115,Yield,5412,2023,kg/ha,513.4,Estimated value,E,Crops and livestock products,QCL,269
+Libya,Barley,0115,Production,5510,2023,t,68000,Figure from international organizations,X,Crops and livestock products,QCL,268
+Libya,Wheat,0111,Area harvested,5312,2023,ha,171395,Imputed value,I,Crops and livestock products,QCL,267
+Libya,Wheat,0111,Yield,5412,2023,kg/ha,758.5,Estimated value,E,Crops and livestock products,QCL,269
+Libya,Wheat,0111,Production,5510,2023,t,130000,Figure from international organizations,X,Crops and livestock products,QCL,268
+Lithuania,Barley,0115,Area harvested,5312,2023,ha,159430,Official figure,A,Crops and livestock products,QCL,270
+Lithuania,Barley,0115,Yield,5412,2023,kg/ha,3555.7,Official figure,A,Crops and livestock products,QCL,272
+Lithuania,Barley,0115,Production,5510,2023,t,566880,Official figure,A,Crops and livestock products,QCL,271
+Lithuania,Oats,0117,Area harvested,5312,2023,ha,91750,Official figure,A,Crops and livestock products,QCL,270
+Lithuania,Oats,0117,Yield,5412,2023,kg/ha,2121.7,Official figure,A,Crops and livestock products,QCL,272
+Lithuania,Oats,0117,Production,5510,2023,t,194670,Official figure,A,Crops and livestock products,QCL,271
+Lithuania,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,270
+Lithuania,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,271
+Lithuania,Rye,0116,Area harvested,5312,2023,ha,28090,Official figure,A,Crops and livestock products,QCL,270
+Lithuania,Rye,0116,Yield,5412,2023,kg/ha,2359.6,Official figure,A,Crops and livestock products,QCL,272
+Lithuania,Rye,0116,Production,5510,2023,t,66280,Official figure,A,Crops and livestock products,QCL,271
+Lithuania,Wheat,0111,Area harvested,5312,2023,ha,940290,Official figure,A,Crops and livestock products,QCL,270
+Lithuania,Wheat,0111,Yield,5412,2023,kg/ha,4738.3,Official figure,A,Crops and livestock products,QCL,272
+Lithuania,Wheat,0111,Production,5510,2023,t,4455390,Official figure,A,Crops and livestock products,QCL,271
+Luxembourg,Barley,0115,Area harvested,5312,2023,ha,5760,Official figure,A,Crops and livestock products,QCL,273
+Luxembourg,Barley,0115,Yield,5412,2023,kg/ha,5378.5,Official figure,A,Crops and livestock products,QCL,275
+Luxembourg,Barley,0115,Production,5510,2023,t,30980,Official figure,A,Crops and livestock products,QCL,274
+Luxembourg,Oats,0117,Area harvested,5312,2023,ha,1340,Official figure,A,Crops and livestock products,QCL,273
+Luxembourg,Oats,0117,Yield,5412,2023,kg/ha,3574.6,Official figure,A,Crops and livestock products,QCL,275
+Luxembourg,Oats,0117,Production,5510,2023,t,4790,Official figure,A,Crops and livestock products,QCL,274
+Luxembourg,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,273
+Luxembourg,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,274
+Luxembourg,Rye,0116,Area harvested,5312,2023,ha,1520,Official figure,A,Crops and livestock products,QCL,273
+Luxembourg,Rye,0116,Yield,5412,2023,kg/ha,5802.6,Official figure,A,Crops and livestock products,QCL,275
+Luxembourg,Rye,0116,Production,5510,2023,t,8820,Official figure,A,Crops and livestock products,QCL,274
+Luxembourg,Wheat,0111,Area harvested,5312,2023,ha,12470,Official figure,A,Crops and livestock products,QCL,273
+Luxembourg,Wheat,0111,Yield,5412,2023,kg/ha,5802.7,Official figure,A,Crops and livestock products,QCL,275
+Luxembourg,Wheat,0111,Production,5510,2023,t,72360,Official figure,A,Crops and livestock products,QCL,274
+Madagascar,Rice,0113,Area harvested,5312,2023,ha,2070335,Imputed value,I,Crops and livestock products,QCL,276
+Madagascar,Rice,0113,Yield,5412,2023,kg/ha,2471.9,Estimated value,E,Crops and livestock products,QCL,278
+Madagascar,Rice,0113,Production,5510,2023,t,5117636,Official figure,A,Crops and livestock products,QCL,277
+Madagascar,Wheat,0111,Area harvested,5312,2023,ha,1183,Imputed value,I,Crops and livestock products,QCL,276
+Madagascar,Wheat,0111,Yield,5412,2023,kg/ha,2405.7,Estimated value,E,Crops and livestock products,QCL,278
+Madagascar,Wheat,0111,Production,5510,2023,t,2845.51,Imputed value,I,Crops and livestock products,QCL,277
+Malawi,Rice,0113,Area harvested,5312,2023,ha,79100,Official figure,A,Crops and livestock products,QCL,279
+Malawi,Rice,0113,Yield,5412,2023,kg/ha,1571.4,Official figure,A,Crops and livestock products,QCL,281
+Malawi,Rice,0113,Production,5510,2023,t,124300,Official figure,A,Crops and livestock products,QCL,280
+Malawi,Wheat,0111,Area harvested,5312,2023,ha,1000,Figure from international organizations,X,Crops and livestock products,QCL,279
+Malawi,Wheat,0111,Yield,5412,2023,kg/ha,1000,Figure from international organizations,X,Crops and livestock products,QCL,281
+Malawi,Wheat,0111,Production,5510,2023,t,1000,Figure from international organizations,X,Crops and livestock products,QCL,280
+Malaysia,Rice,0113,Area harvested,5312,2023,ha,614839,Official figure,A,Crops and livestock products,QCL,282
+Malaysia,Rice,0113,Yield,5412,2023,kg/ha,3524.1,Official figure,A,Crops and livestock products,QCL,284
+Malaysia,Rice,0113,Production,5510,2023,t,2166738,Official figure,A,Crops and livestock products,QCL,283
+Mali,Rice,0113,Area harvested,5312,2023,ha,906982,Official figure,A,Crops and livestock products,QCL,285
+Mali,Rice,0113,Yield,5412,2023,kg/ha,3334,Official figure,A,Crops and livestock products,QCL,287
+Mali,Rice,0113,Production,5510,2023,t,3023891,Official figure,A,Crops and livestock products,QCL,286
+Mali,Wheat,0111,Area harvested,5312,2023,ha,6833,Official figure,A,Crops and livestock products,QCL,285
+Mali,Wheat,0111,Yield,5412,2023,kg/ha,5634.4,Official figure,A,Crops and livestock products,QCL,287
+Mali,Wheat,0111,Production,5510,2023,t,38500,Official figure,A,Crops and livestock products,QCL,286
+Malta,Barley,0115,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,288
+Malta,Barley,0115,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,289
+Malta,Oats,0117,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,288
+Malta,Oats,0117,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,289
+Malta,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,288
+Malta,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,289
+Malta,Rye,0116,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,288
+Malta,Rye,0116,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,289
+Malta,Wheat,0111,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,288
+Malta,Wheat,0111,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,289
+Mauritania,Barley,0115,Area harvested,5312,2023,ha,483,Imputed value,I,Crops and livestock products,QCL,290
+Mauritania,Barley,0115,Yield,5412,2023,kg/ha,3039,Estimated value,E,Crops and livestock products,QCL,292
+Mauritania,Barley,0115,Production,5510,2023,t,1467.04,Estimated value,E,Crops and livestock products,QCL,291
+Mauritania,Rice,0113,Area harvested,5312,2023,ha,86000,Figure from international organizations,X,Crops and livestock products,QCL,290
+Mauritania,Rice,0113,Yield,5412,2023,kg/ha,5327.9,Estimated value,E,Crops and livestock products,QCL,292
+Mauritania,Rice,0113,Production,5510,2023,t,458200,Official figure,A,Crops and livestock products,QCL,291
+Mauritania,Wheat,0111,Area harvested,5312,2023,ha,915,Imputed value,I,Crops and livestock products,QCL,290
+Mauritania,Wheat,0111,Yield,5412,2023,kg/ha,2186,Estimated value,E,Crops and livestock products,QCL,292
+Mauritania,Wheat,0111,Production,5510,2023,t,2000,Figure from international organizations,X,Crops and livestock products,QCL,291
+Mauritius,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,293
+Mauritius,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,294
+Mexico,Barley,0115,Area harvested,5312,2023,ha,297445,Official figure,A,Crops and livestock products,QCL,295
+Mexico,Barley,0115,Yield,5412,2023,kg/ha,2797.3,Official figure,A,Crops and livestock products,QCL,297
+Mexico,Barley,0115,Production,5510,2023,t,832037.28,Official figure,A,Crops and livestock products,QCL,296
+Mexico,Oats,0117,Area harvested,5312,2023,ha,25465,Official figure,A,Crops and livestock products,QCL,295
+Mexico,Oats,0117,Yield,5412,2023,kg/ha,2426.3,Official figure,A,Crops and livestock products,QCL,297
+Mexico,Oats,0117,Production,5510,2023,t,61785.28,Official figure,A,Crops and livestock products,QCL,296
+Mexico,Rice,0113,Area harvested,5312,2023,ha,36693,Official figure,A,Crops and livestock products,QCL,295
+Mexico,Rice,0113,Yield,5412,2023,kg/ha,6870.5,Official figure,A,Crops and livestock products,QCL,297
+Mexico,Rice,0113,Production,5510,2023,t,252099.88,Official figure,A,Crops and livestock products,QCL,296
+Mexico,Rye,0116,Area harvested,5312,2023,ha,5,Official figure,A,Crops and livestock products,QCL,295
+Mexico,Rye,0116,Yield,5412,2023,kg/ha,1790,Official figure,A,Crops and livestock products,QCL,297
+Mexico,Rye,0116,Production,5510,2023,t,8.95,Official figure,A,Crops and livestock products,QCL,296
+Mexico,Wheat,0111,Area harvested,5312,2023,ha,560369,Official figure,A,Crops and livestock products,QCL,295
+Mexico,Wheat,0111,Yield,5412,2023,kg/ha,6203.1,Official figure,A,Crops and livestock products,QCL,297
+Mexico,Wheat,0111,Production,5510,2023,t,3476026.8,Official figure,A,Crops and livestock products,QCL,296
+Micronesia (Federated States of),Rice,0113,Area harvested,5312,2023,ha,99,Imputed value,I,Crops and livestock products,QCL,298
+Micronesia (Federated States of),Rice,0113,Yield,5412,2023,kg/ha,1827.6,Estimated value,E,Crops and livestock products,QCL,300
+Micronesia (Federated States of),Rice,0113,Production,5510,2023,t,181.54,Estimated value,E,Crops and livestock products,QCL,299
+Mongolia,Barley,0115,Area harvested,5312,2023,ha,4982,Official figure,A,Crops and livestock products,QCL,301
+Mongolia,Barley,0115,Yield,5412,2023,kg/ha,1308.1,Official figure,A,Crops and livestock products,QCL,303
+Mongolia,Barley,0115,Production,5510,2023,t,6517.67,Official figure,A,Crops and livestock products,QCL,302
+Mongolia,Oats,0117,Area harvested,5312,2023,ha,18855,Official figure,A,Crops and livestock products,QCL,301
+Mongolia,Oats,0117,Yield,5412,2023,kg/ha,997.2,Official figure,A,Crops and livestock products,QCL,303
+Mongolia,Oats,0117,Production,5510,2023,t,18801.43,Official figure,A,Crops and livestock products,QCL,302
+Mongolia,Wheat,0111,Area harvested,5312,2023,ha,335807,Official figure,A,Crops and livestock products,QCL,301
+Mongolia,Wheat,0111,Yield,5412,2023,kg/ha,1320.4,Official figure,A,Crops and livestock products,QCL,303
+Mongolia,Wheat,0111,Production,5510,2023,t,443415.59,Official figure,A,Crops and livestock products,QCL,302
+Montenegro,Barley,0115,Area harvested,5312,2023,ha,343,Imputed value,I,Crops and livestock products,QCL,304
+Montenegro,Barley,0115,Yield,5412,2023,kg/ha,2739.4,Estimated value,E,Crops and livestock products,QCL,306
+Montenegro,Barley,0115,Production,5510,2023,t,940.18,Imputed value,I,Crops and livestock products,QCL,305
+Montenegro,Oats,0117,Area harvested,5312,2023,ha,226,Imputed value,I,Crops and livestock products,QCL,304
+Montenegro,Oats,0117,Yield,5412,2023,kg/ha,2731.5,Estimated value,E,Crops and livestock products,QCL,306
+Montenegro,Oats,0117,Production,5510,2023,t,617.31,Imputed value,I,Crops and livestock products,QCL,305
+Montenegro,Rye,0116,Area harvested,5312,2023,ha,155,Imputed value,I,Crops and livestock products,QCL,304
+Montenegro,Rye,0116,Yield,5412,2023,kg/ha,2485.5,Estimated value,E,Crops and livestock products,QCL,306
+Montenegro,Rye,0116,Production,5510,2023,t,384.43,Imputed value,I,Crops and livestock products,QCL,305
+Montenegro,Wheat,0111,Area harvested,5312,2023,ha,754,Imputed value,I,Crops and livestock products,QCL,304
+Montenegro,Wheat,0111,Yield,5412,2023,kg/ha,2947.3,Estimated value,E,Crops and livestock products,QCL,306
+Montenegro,Wheat,0111,Production,5510,2023,t,2221.84,Imputed value,I,Crops and livestock products,QCL,305
+Morocco,Barley,0115,Area harvested,5312,2023,ha,1239809,Official figure,A,Crops and livestock products,QCL,307
+Morocco,Barley,0115,Yield,5412,2023,kg/ha,1087.4,Official figure,A,Crops and livestock products,QCL,309
+Morocco,Barley,0115,Production,5510,2023,t,1348114.49,Official figure,A,Crops and livestock products,QCL,308
+Morocco,Oats,0117,Area harvested,5312,2023,ha,16720,Official figure,A,Crops and livestock products,QCL,307
+Morocco,Oats,0117,Yield,5412,2023,kg/ha,2170.5,Official figure,A,Crops and livestock products,QCL,309
+Morocco,Oats,0117,Production,5510,2023,t,36290,Official figure,A,Crops and livestock products,QCL,308
+Morocco,Rice,0113,Area harvested,5312,2023,ha,7027,Official figure,A,Crops and livestock products,QCL,307
+Morocco,Rice,0113,Yield,5412,2023,kg/ha,8000.9,Official figure,A,Crops and livestock products,QCL,309
+Morocco,Rice,0113,Production,5510,2023,t,56222,Official figure,A,Crops and livestock products,QCL,308
+Morocco,Rye,0116,Area harvested,5312,2023,ha,3705,Estimated value,E,Crops and livestock products,QCL,307
+Morocco,Rye,0116,Yield,5412,2023,kg/ha,635.1,Estimated value,E,Crops and livestock products,QCL,309
+Morocco,Rye,0116,Production,5510,2023,t,2353.21,Imputed value,I,Crops and livestock products,QCL,308
+Morocco,Wheat,0111,Area harvested,5312,2023,ha,2434223,Official figure,A,Crops and livestock products,QCL,307
+Morocco,Wheat,0111,Yield,5412,2023,kg/ha,1708.3,Official figure,A,Crops and livestock products,QCL,309
+Morocco,Wheat,0111,Production,5510,2023,t,4158471.49,Official figure,A,Crops and livestock products,QCL,308
+Mozambique,Rice,0113,Area harvested,5312,2023,ha,365796,Official figure,A,Crops and livestock products,QCL,310
+Mozambique,Rice,0113,Yield,5412,2023,kg/ha,442.7,Official figure,A,Crops and livestock products,QCL,312
+Mozambique,Rice,0113,Production,5510,2023,t,161920,Official figure,A,Crops and livestock products,QCL,311
+Mozambique,Wheat,0111,Area harvested,5312,2023,ha,16000,Figure from international organizations,X,Crops and livestock products,QCL,310
+Mozambique,Wheat,0111,Yield,5412,2023,kg/ha,1000,Figure from international organizations,X,Crops and livestock products,QCL,312
+Mozambique,Wheat,0111,Production,5510,2023,t,16000,Figure from international organizations,X,Crops and livestock products,QCL,311
+Myanmar,Rice,0113,Area harvested,5312,2023,ha,6463645,Imputed value,I,Crops and livestock products,QCL,313
+Myanmar,Rice,0113,Yield,5412,2023,kg/ha,3968.3,Estimated value,E,Crops and livestock products,QCL,315
+Myanmar,Rice,0113,Production,5510,2023,t,25650000,Figure from international organizations,X,Crops and livestock products,QCL,314
+Myanmar,Wheat,0111,Area harvested,5312,2023,ha,58000,Figure from international organizations,X,Crops and livestock products,QCL,313
+Myanmar,Wheat,0111,Yield,5412,2023,kg/ha,1379.3,Figure from international organizations,X,Crops and livestock products,QCL,315
+Myanmar,Wheat,0111,Production,5510,2023,t,80000,Figure from international organizations,X,Crops and livestock products,QCL,314
+Namibia,Wheat,0111,Area harvested,5312,2023,ha,4254,Official figure,A,Crops and livestock products,QCL,316
+Namibia,Wheat,0111,Yield,5412,2023,kg/ha,5805.4,Official figure,A,Crops and livestock products,QCL,318
+Namibia,Wheat,0111,Production,5510,2023,t,24696,Official figure,A,Crops and livestock products,QCL,317
+Nepal,Barley,0115,Area harvested,5312,2023,ha,17536,Official figure,A,Crops and livestock products,QCL,319
+Nepal,Barley,0115,Yield,5412,2023,kg/ha,1477.6,Official figure,A,Crops and livestock products,QCL,321
+Nepal,Barley,0115,Production,5510,2023,t,25911.81,Official figure,A,Crops and livestock products,QCL,320
+Nepal,Rice,0113,Area harvested,5312,2023,ha,1439000,Estimated value,E,Crops and livestock products,QCL,319
+Nepal,Rice,0113,Yield,5412,2023,kg/ha,3977.9,Estimated value,E,Crops and livestock products,QCL,321
+Nepal,Rice,0113,Production,5510,2023,t,5724200,Official figure,A,Crops and livestock products,QCL,320
+Nepal,Wheat,0111,Area harvested,5312,2023,ha,697762,Official figure,A,Crops and livestock products,QCL,319
+Nepal,Wheat,0111,Yield,5412,2023,kg/ha,3007.4,Official figure,A,Crops and livestock products,QCL,321
+Nepal,Wheat,0111,Production,5510,2023,t,2098462.16,Official figure,A,Crops and livestock products,QCL,320
+Netherlands (Kingdom of the),Barley,0115,Area harvested,5312,2023,ha,35340,Official figure,A,Crops and livestock products,QCL,322
+Netherlands (Kingdom of the),Barley,0115,Yield,5412,2023,kg/ha,6522.6,Official figure,A,Crops and livestock products,QCL,324
+Netherlands (Kingdom of the),Barley,0115,Production,5510,2023,t,230510,Official figure,A,Crops and livestock products,QCL,323
+Netherlands (Kingdom of the),Oats,0117,Area harvested,5312,2023,ha,1660,Official figure,A,Crops and livestock products,QCL,322
+Netherlands (Kingdom of the),Oats,0117,Yield,5412,2023,kg/ha,3849.4,Official figure,A,Crops and livestock products,QCL,324
+Netherlands (Kingdom of the),Oats,0117,Production,5510,2023,t,6390,Official figure,A,Crops and livestock products,QCL,323
+Netherlands (Kingdom of the),Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,322
+Netherlands (Kingdom of the),Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,323
+Netherlands (Kingdom of the),Rye,0116,Area harvested,5312,2023,ha,2300,Official figure,A,Crops and livestock products,QCL,322
+Netherlands (Kingdom of the),Rye,0116,Yield,5412,2023,kg/ha,3191.3,Official figure,A,Crops and livestock products,QCL,324
+Netherlands (Kingdom of the),Rye,0116,Production,5510,2023,t,7340,Official figure,A,Crops and livestock products,QCL,323
+Netherlands (Kingdom of the),Wheat,0111,Area harvested,5312,2023,ha,129540,Official figure,A,Crops and livestock products,QCL,322
+Netherlands (Kingdom of the),Wheat,0111,Yield,5412,2023,kg/ha,8467,Official figure,A,Crops and livestock products,QCL,324
+Netherlands (Kingdom of the),Wheat,0111,Production,5510,2023,t,1096820,Official figure,A,Crops and livestock products,QCL,323
+New Caledonia,Wheat,0111,Area harvested,5312,2023,ha,23,Imputed value,I,Crops and livestock products,QCL,325
+New Caledonia,Wheat,0111,Yield,5412,2023,kg/ha,537.7,Estimated value,E,Crops and livestock products,QCL,327
+New Caledonia,Wheat,0111,Production,5510,2023,t,12.37,Imputed value,I,Crops and livestock products,QCL,326
+New Zealand,Barley,0115,Area harvested,5312,2023,ha,50054,Official figure,A,Crops and livestock products,QCL,328
+New Zealand,Barley,0115,Yield,5412,2023,kg/ha,7149.9,Official figure,A,Crops and livestock products,QCL,330
+New Zealand,Barley,0115,Production,5510,2023,t,357882,Official figure,A,Crops and livestock products,QCL,329
+New Zealand,Oats,0117,Area harvested,5312,2023,ha,4235,Official figure,A,Crops and livestock products,QCL,328
+New Zealand,Oats,0117,Yield,5412,2023,kg/ha,7145,Official figure,A,Crops and livestock products,QCL,330
+New Zealand,Oats,0117,Production,5510,2023,t,30259,Official figure,A,Crops and livestock products,QCL,329
+New Zealand,Wheat,0111,Area harvested,5312,2023,ha,40506,Official figure,A,Crops and livestock products,QCL,328
+New Zealand,Wheat,0111,Yield,5412,2023,kg/ha,9668.1,Official figure,A,Crops and livestock products,QCL,330
+New Zealand,Wheat,0111,Production,5510,2023,t,391615,Official figure,A,Crops and livestock products,QCL,329
+Nicaragua,Rice,0113,Area harvested,5312,2023,ha,82840,Official figure,A,Crops and livestock products,QCL,331
+Nicaragua,Rice,0113,Yield,5412,2023,kg/ha,6023.3,Official figure,A,Crops and livestock products,QCL,333
+Nicaragua,Rice,0113,Production,5510,2023,t,498969.09,Official figure,A,Crops and livestock products,QCL,332
+Niger,Rice,0113,Area harvested,5312,2023,ha,30000,Figure from international organizations,X,Crops and livestock products,QCL,334
+Niger,Rice,0113,Yield,5412,2023,kg/ha,4753.3,Estimated value,E,Crops and livestock products,QCL,336
+Niger,Rice,0113,Production,5510,2023,t,142600,Official figure,A,Crops and livestock products,QCL,335
+Niger,Wheat,0111,Area harvested,5312,2023,ha,1920,Imputed value,I,Crops and livestock products,QCL,334
+Niger,Wheat,0111,Yield,5412,2023,kg/ha,2861.4,Estimated value,E,Crops and livestock products,QCL,336
+Niger,Wheat,0111,Production,5510,2023,t,5495.3,Imputed value,I,Crops and livestock products,QCL,335
+Nigeria,Rice,0113,Area harvested,5312,2023,ha,4509800,Official figure,A,Crops and livestock products,QCL,337
+Nigeria,Rice,0113,Yield,5412,2023,kg/ha,1974,Official figure,A,Crops and livestock products,QCL,339
+Nigeria,Rice,0113,Production,5510,2023,t,8902200,Official figure,A,Crops and livestock products,QCL,338
+Nigeria,Wheat,0111,Area harvested,5312,2023,ha,33247,Imputed value,I,Crops and livestock products,QCL,337
+Nigeria,Wheat,0111,Yield,5412,2023,kg/ha,1586.8,Estimated value,E,Crops and livestock products,QCL,339
+Nigeria,Wheat,0111,Production,5510,2023,t,52757.03,Imputed value,I,Crops and livestock products,QCL,338
+North Macedonia,Barley,0115,Area harvested,5312,2023,ha,45580,Official figure,A,Crops and livestock products,QCL,340
+North Macedonia,Barley,0115,Yield,5412,2023,kg/ha,3181.6,Official figure,A,Crops and livestock products,QCL,342
+North Macedonia,Barley,0115,Production,5510,2023,t,145019,Official figure,A,Crops and livestock products,QCL,341
+North Macedonia,Oats,0117,Area harvested,5312,2023,ha,2649,Official figure,A,Crops and livestock products,QCL,340
+North Macedonia,Oats,0117,Yield,5412,2023,kg/ha,1610.8,Official figure,A,Crops and livestock products,QCL,342
+North Macedonia,Oats,0117,Production,5510,2023,t,4267,Official figure,A,Crops and livestock products,QCL,341
+North Macedonia,Rice,0113,Area harvested,5312,2023,ha,3162,Official figure,A,Crops and livestock products,QCL,340
+North Macedonia,Rice,0113,Yield,5412,2023,kg/ha,6324.2,Official figure,A,Crops and livestock products,QCL,342
+North Macedonia,Rice,0113,Production,5510,2023,t,19997,Official figure,A,Crops and livestock products,QCL,341
+North Macedonia,Rye,0116,Area harvested,5312,2023,ha,3410,Official figure,A,Crops and livestock products,QCL,340
+North Macedonia,Rye,0116,Yield,5412,2023,kg/ha,1548.1,Official figure,A,Crops and livestock products,QCL,342
+North Macedonia,Rye,0116,Production,5510,2023,t,5279,Official figure,A,Crops and livestock products,QCL,341
+North Macedonia,Wheat,0111,Area harvested,5312,2023,ha,69522,Official figure,A,Crops and livestock products,QCL,340
+North Macedonia,Wheat,0111,Yield,5412,2023,kg/ha,3094.9,Official figure,A,Crops and livestock products,QCL,342
+North Macedonia,Wheat,0111,Production,5510,2023,t,215165,Official figure,A,Crops and livestock products,QCL,341
+Norway,Barley,0115,Area harvested,5312,2023,ha,141922,Official figure,A,Crops and livestock products,QCL,343
+Norway,Barley,0115,Yield,5412,2023,kg/ha,2853.7,Official figure,A,Crops and livestock products,QCL,345
+Norway,Barley,0115,Production,5510,2023,t,405000,Official figure,A,Crops and livestock products,QCL,344
+Norway,Oats,0117,Area harvested,5312,2023,ha,68449,Official figure,A,Crops and livestock products,QCL,343
+Norway,Oats,0117,Yield,5412,2023,kg/ha,2615.1,Official figure,A,Crops and livestock products,QCL,345
+Norway,Oats,0117,Production,5510,2023,t,179000,Official figure,A,Crops and livestock products,QCL,344
+Norway,Rye,0116,Area harvested,5312,2023,ha,8777,Official figure,A,Crops and livestock products,QCL,343
+Norway,Rye,0116,Yield,5412,2023,kg/ha,3304.1,Official figure,A,Crops and livestock products,QCL,345
+Norway,Rye,0116,Production,5510,2023,t,29000,Official figure,A,Crops and livestock products,QCL,344
+Norway,Wheat,0111,Area harvested,5312,2023,ha,64458,Official figure,A,Crops and livestock products,QCL,343
+Norway,Wheat,0111,Yield,5412,2023,kg/ha,2668.4,Official figure,A,Crops and livestock products,QCL,345
+Norway,Wheat,0111,Production,5510,2023,t,172000,Official figure,A,Crops and livestock products,QCL,344
+Oman,Barley,0115,Area harvested,5312,2023,ha,225,Official figure,A,Crops and livestock products,QCL,346
+Oman,Barley,0115,Yield,5412,2023,kg/ha,3078.6,Official figure,A,Crops and livestock products,QCL,348
+Oman,Barley,0115,Production,5510,2023,t,693,Official figure,A,Crops and livestock products,QCL,347
+Oman,Wheat,0111,Area harvested,5312,2023,ha,3003,Official figure,A,Crops and livestock products,QCL,346
+Oman,Wheat,0111,Yield,5412,2023,kg/ha,2628,Official figure,A,Crops and livestock products,QCL,348
+Oman,Wheat,0111,Production,5510,2023,t,7892,Official figure,A,Crops and livestock products,QCL,347
+Pakistan,Barley,0115,Area harvested,5312,2023,ha,40563,Official figure,A,Crops and livestock products,QCL,349
+Pakistan,Barley,0115,Yield,5412,2023,kg/ha,1072,Official figure,A,Crops and livestock products,QCL,351
+Pakistan,Barley,0115,Production,5510,2023,t,43485,Official figure,A,Crops and livestock products,QCL,350
+Pakistan,Rice,0113,Area harvested,5312,2023,ha,3636994,Official figure,A,Crops and livestock products,QCL,349
+Pakistan,Rice,0113,Yield,5412,2023,kg/ha,4070.3,Official figure,A,Crops and livestock products,QCL,351
+Pakistan,Rice,0113,Production,5510,2023,t,14803800,Official figure,A,Crops and livestock products,QCL,350
+Pakistan,Wheat,0111,Area harvested,5312,2023,ha,9032688,Official figure,A,Crops and livestock products,QCL,349
+Pakistan,Wheat,0111,Yield,5412,2023,kg/ha,3117.6,Official figure,A,Crops and livestock products,QCL,351
+Pakistan,Wheat,0111,Production,5510,2023,t,28160500,Official figure,A,Crops and livestock products,QCL,350
+Palestine,Barley,0115,Area harvested,5312,2023,ha,6119,Imputed value,I,Crops and livestock products,QCL,352
+Palestine,Barley,0115,Yield,5412,2023,kg/ha,2359.3,Estimated value,E,Crops and livestock products,QCL,354
+Palestine,Barley,0115,Production,5510,2023,t,14435.9,Imputed value,I,Crops and livestock products,QCL,353
+Palestine,Wheat,0111,Area harvested,5312,2023,ha,14138,Imputed value,I,Crops and livestock products,QCL,352
+Palestine,Wheat,0111,Yield,5412,2023,kg/ha,2525.1,Estimated value,E,Crops and livestock products,QCL,354
+Palestine,Wheat,0111,Production,5510,2023,t,35699.98,Imputed value,I,Crops and livestock products,QCL,353
+Panama,Rice,0113,Area harvested,5312,2023,ha,101370,Official figure,A,Crops and livestock products,QCL,355
+Panama,Rice,0113,Yield,5412,2023,kg/ha,4302.4,Official figure,A,Crops and livestock products,QCL,357
+Panama,Rice,0113,Production,5510,2023,t,436135,Official figure,A,Crops and livestock products,QCL,356
+Papua New Guinea,Rice,0113,Area harvested,5312,2023,ha,411,Imputed value,I,Crops and livestock products,QCL,358
+Papua New Guinea,Rice,0113,Yield,5412,2023,kg/ha,2153.2,Estimated value,E,Crops and livestock products,QCL,360
+Papua New Guinea,Rice,0113,Production,5510,2023,t,885.01,Imputed value,I,Crops and livestock products,QCL,359
+Paraguay,Rice,0113,Area harvested,5312,2023,ha,170100,Official figure,A,Crops and livestock products,QCL,361
+Paraguay,Rice,0113,Yield,5412,2023,kg/ha,5752.2,Official figure,A,Crops and livestock products,QCL,363
+Paraguay,Rice,0113,Production,5510,2023,t,978450,Official figure,A,Crops and livestock products,QCL,362
+Paraguay,Wheat,0111,Area harvested,5312,2023,ha,447800,Official figure,A,Crops and livestock products,QCL,361
+Paraguay,Wheat,0111,Yield,5412,2023,kg/ha,2877,Official figure,A,Crops and livestock products,QCL,363
+Paraguay,Wheat,0111,Production,5510,2023,t,1288310,Official figure,A,Crops and livestock products,QCL,362
+Peru,Barley,0115,Area harvested,5312,2023,ha,109111,Official figure,A,Crops and livestock products,QCL,364
+Peru,Barley,0115,Yield,5412,2023,kg/ha,1935.7,Official figure,A,Crops and livestock products,QCL,366
+Peru,Barley,0115,Production,5510,2023,t,211199.92,Official figure,A,Crops and livestock products,QCL,365
+Peru,Oats,0117,Area harvested,5312,2023,ha,10014,Official figure,A,Crops and livestock products,QCL,364
+Peru,Oats,0117,Yield,5412,2023,kg/ha,1295,Official figure,A,Crops and livestock products,QCL,366
+Peru,Oats,0117,Production,5510,2023,t,12968.14,Official figure,A,Crops and livestock products,QCL,365
+Peru,Rice,0113,Area harvested,5312,2023,ha,417103,Official figure,A,Crops and livestock products,QCL,364
+Peru,Rice,0113,Yield,5412,2023,kg/ha,8073.8,Official figure,A,Crops and livestock products,QCL,366
+Peru,Rice,0113,Production,5510,2023,t,3367614.31,Official figure,A,Crops and livestock products,QCL,365
+Peru,Rye,0116,Area harvested,5312,2023,ha,43,Imputed value,I,Crops and livestock products,QCL,364
+Peru,Rye,0116,Yield,5412,2023,kg/ha,1104.7,Estimated value,E,Crops and livestock products,QCL,366
+Peru,Rye,0116,Production,5510,2023,t,47.38,Imputed value,I,Crops and livestock products,QCL,365
+Peru,Wheat,0111,Area harvested,5312,2023,ha,110958,Official figure,A,Crops and livestock products,QCL,364
+Peru,Wheat,0111,Yield,5412,2023,kg/ha,1744.7,Official figure,A,Crops and livestock products,QCL,366
+Peru,Wheat,0111,Production,5510,2023,t,193589.65,Official figure,A,Crops and livestock products,QCL,365
+Philippines,Rice,0113,Area harvested,5312,2023,ha,4815813,Official figure,A,Crops and livestock products,QCL,367
+Philippines,Rice,0113,Yield,5412,2023,kg/ha,4165.4,Official figure,A,Crops and livestock products,QCL,369
+Philippines,Rice,0113,Production,5510,2023,t,20059561.96,Official figure,A,Crops and livestock products,QCL,368
+Poland,Barley,0115,Area harvested,5312,2023,ha,647510,Official figure,A,Crops and livestock products,QCL,370
+Poland,Barley,0115,Yield,5412,2023,kg/ha,4402.8,Official figure,A,Crops and livestock products,QCL,372
+Poland,Barley,0115,Production,5510,2023,t,2850870,Official figure,A,Crops and livestock products,QCL,371
+Poland,Oats,0117,Area harvested,5312,2023,ha,497690,Official figure,A,Crops and livestock products,QCL,370
+Poland,Oats,0117,Yield,5412,2023,kg/ha,3020.8,Official figure,A,Crops and livestock products,QCL,372
+Poland,Oats,0117,Production,5510,2023,t,1503440,Official figure,A,Crops and livestock products,QCL,371
+Poland,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,370
+Poland,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,371
+Poland,Rye,0116,Area harvested,5312,2023,ha,727990,Official figure,A,Crops and livestock products,QCL,370
+Poland,Rye,0116,Yield,5412,2023,kg/ha,3479.7,Official figure,A,Crops and livestock products,QCL,372
+Poland,Rye,0116,Production,5510,2023,t,2533220,Official figure,A,Crops and livestock products,QCL,371
+Poland,Wheat,0111,Area harvested,5312,2023,ha,2449330,Official figure,A,Crops and livestock products,QCL,370
+Poland,Wheat,0111,Yield,5412,2023,kg/ha,5280,Official figure,A,Crops and livestock products,QCL,372
+Poland,Wheat,0111,Production,5510,2023,t,12932390,Official figure,A,Crops and livestock products,QCL,371
+Portugal,Barley,0115,Area harvested,5312,2023,ha,13780,Official figure,A,Crops and livestock products,QCL,373
+Portugal,Barley,0115,Yield,5412,2023,kg/ha,1910.7,Official figure,A,Crops and livestock products,QCL,375
+Portugal,Barley,0115,Production,5510,2023,t,26330,Official figure,A,Crops and livestock products,QCL,374
+Portugal,Oats,0117,Area harvested,5312,2023,ha,20390,Official figure,A,Crops and livestock products,QCL,373
+Portugal,Oats,0117,Yield,5412,2023,kg/ha,717,Official figure,A,Crops and livestock products,QCL,375
+Portugal,Oats,0117,Production,5510,2023,t,14620,Official figure,A,Crops and livestock products,QCL,374
+Portugal,Rice,0113,Area harvested,5312,2023,ha,27940,Official figure,A,Crops and livestock products,QCL,373
+Portugal,Rice,0113,Yield,5412,2023,kg/ha,6400.5,Official figure,A,Crops and livestock products,QCL,375
+Portugal,Rice,0113,Production,5510,2023,t,178830,Official figure,A,Crops and livestock products,QCL,374
+Portugal,Rye,0116,Area harvested,5312,2023,ha,13290,Official figure,A,Crops and livestock products,QCL,373
+Portugal,Rye,0116,Yield,5412,2023,kg/ha,881.9,Official figure,A,Crops and livestock products,QCL,375
+Portugal,Rye,0116,Production,5510,2023,t,11720,Official figure,A,Crops and livestock products,QCL,374
+Portugal,Wheat,0111,Area harvested,5312,2023,ha,24740,Official figure,A,Crops and livestock products,QCL,373
+Portugal,Wheat,0111,Yield,5412,2023,kg/ha,1401.4,Official figure,A,Crops and livestock products,QCL,375
+Portugal,Wheat,0111,Production,5510,2023,t,34670,Official figure,A,Crops and livestock products,QCL,374
+Puerto Rico,Rice,0113,Area harvested,5312,2023,ha,994,Imputed value,I,Crops and livestock products,QCL,376
+Puerto Rico,Rice,0113,Yield,5412,2023,kg/ha,3651.4,Estimated value,E,Crops and livestock products,QCL,378
+Puerto Rico,Rice,0113,Production,5510,2023,t,3628.38,Imputed value,I,Crops and livestock products,QCL,377
+Qatar,Barley,0115,Area harvested,5312,2023,ha,24,Official figure,A,Crops and livestock products,QCL,379
+Qatar,Barley,0115,Yield,5412,2023,kg/ha,8008.3,Official figure,A,Crops and livestock products,QCL,381
+Qatar,Barley,0115,Production,5510,2023,t,193,Official figure,A,Crops and livestock products,QCL,380
+Qatar,Wheat,0111,Area harvested,5312,2023,ha,1,Official figure,A,Crops and livestock products,QCL,379
+Qatar,Wheat,0111,Yield,5412,2023,kg/ha,3000,Official figure,A,Crops and livestock products,QCL,381
+Qatar,Wheat,0111,Production,5510,2023,t,2.4,Official figure,A,Crops and livestock products,QCL,380
+Republic of Korea,Barley,0115,Area harvested,5312,2023,ha,25250,Official figure,A,Crops and livestock products,QCL,382
+Republic of Korea,Barley,0115,Yield,5412,2023,kg/ha,2617.6,Official figure,A,Crops and livestock products,QCL,384
+Republic of Korea,Barley,0115,Production,5510,2023,t,66094,Official figure,A,Crops and livestock products,QCL,383
+Republic of Korea,Rice,0113,Area harvested,5312,2023,ha,708012,Official figure,A,Crops and livestock products,QCL,382
+Republic of Korea,Rice,0113,Yield,5412,2023,kg/ha,6917.7,Official figure,A,Crops and livestock products,QCL,384
+Republic of Korea,Rice,0113,Production,5510,2023,t,4897839,Official figure,A,Crops and livestock products,QCL,383
+Republic of Korea,Rye,0116,Area harvested,5312,2023,ha,1,Estimated value,E,Crops and livestock products,QCL,382
+Republic of Korea,Rye,0116,Yield,5412,2023,kg/ha,2197.4,Estimated value,E,Crops and livestock products,QCL,384
+Republic of Korea,Rye,0116,Production,5510,2023,t,2.77,Imputed value,I,Crops and livestock products,QCL,383
+Republic of Korea,Wheat,0111,Area harvested,5312,2023,ha,11600,Official figure,A,Crops and livestock products,QCL,382
+Republic of Korea,Wheat,0111,Yield,5412,2023,kg/ha,4466.3,Official figure,A,Crops and livestock products,QCL,384
+Republic of Korea,Wheat,0111,Production,5510,2023,t,51809,Official figure,A,Crops and livestock products,QCL,383
+Republic of Moldova,Barley,0115,Area harvested,5312,2023,ha,60075,Official figure,A,Crops and livestock products,QCL,385
+Republic of Moldova,Barley,0115,Yield,5412,2023,kg/ha,4043.7,Official figure,A,Crops and livestock products,QCL,387
+Republic of Moldova,Barley,0115,Production,5510,2023,t,242927,Official figure,A,Crops and livestock products,QCL,386
+Republic of Moldova,Oats,0117,Area harvested,5312,2023,ha,915,Official figure,A,Crops and livestock products,QCL,385
+Republic of Moldova,Oats,0117,Yield,5412,2023,kg/ha,2363.9,Official figure,A,Crops and livestock products,QCL,387
+Republic of Moldova,Oats,0117,Production,5510,2023,t,2163,Official figure,A,Crops and livestock products,QCL,386
+Republic of Moldova,Rye,0116,Area harvested,5312,2023,ha,734,Official figure,A,Crops and livestock products,QCL,385
+Republic of Moldova,Rye,0116,Yield,5412,2023,kg/ha,2480.9,Official figure,A,Crops and livestock products,QCL,387
+Republic of Moldova,Rye,0116,Production,5510,2023,t,1821,Official figure,A,Crops and livestock products,QCL,386
+Republic of Moldova,Wheat,0111,Area harvested,5312,2023,ha,376247,Official figure,A,Crops and livestock products,QCL,385
+Republic of Moldova,Wheat,0111,Yield,5412,2023,kg/ha,4133,Official figure,A,Crops and livestock products,QCL,387
+Republic of Moldova,Wheat,0111,Production,5510,2023,t,1555023.8,Official figure,A,Crops and livestock products,QCL,386
+Romania,Barley,0115,Area harvested,5312,2023,ha,497770,Official figure,A,Crops and livestock products,QCL,388
+Romania,Barley,0115,Yield,5412,2023,kg/ha,4013.1,Official figure,A,Crops and livestock products,QCL,390
+Romania,Barley,0115,Production,5510,2023,t,1997620,Official figure,A,Crops and livestock products,QCL,389
+Romania,Oats,0117,Area harvested,5312,2023,ha,76590,Official figure,A,Crops and livestock products,QCL,388
+Romania,Oats,0117,Yield,5412,2023,kg/ha,2026.4,Official figure,A,Crops and livestock products,QCL,390
+Romania,Oats,0117,Production,5510,2023,t,155200,Official figure,A,Crops and livestock products,QCL,389
+Romania,Rice,0113,Area harvested,5312,2023,ha,2430,Official figure,A,Crops and livestock products,QCL,388
+Romania,Rice,0113,Yield,5412,2023,kg/ha,4967.1,Official figure,A,Crops and livestock products,QCL,390
+Romania,Rice,0113,Production,5510,2023,t,12070,Official figure,A,Crops and livestock products,QCL,389
+Romania,Rye,0116,Area harvested,5312,2023,ha,10670,Official figure,A,Crops and livestock products,QCL,388
+Romania,Rye,0116,Yield,5412,2023,kg/ha,2773.2,Official figure,A,Crops and livestock products,QCL,390
+Romania,Rye,0116,Production,5510,2023,t,29590,Official figure,A,Crops and livestock products,QCL,389
+Romania,Wheat,0111,Area harvested,5312,2023,ha,2317690,Official figure,A,Crops and livestock products,QCL,388
+Romania,Wheat,0111,Yield,5412,2023,kg/ha,4152.4,Official figure,A,Crops and livestock products,QCL,390
+Romania,Wheat,0111,Production,5510,2023,t,9624070,Official figure,A,Crops and livestock products,QCL,389
+Russian Federation,Barley,0115,Area harvested,5312,2023,ha,7650000,Figure from international organizations,X,Crops and livestock products,QCL,391
+Russian Federation,Barley,0115,Yield,5412,2023,kg/ha,2679.7,Figure from international organizations,X,Crops and livestock products,QCL,393
+Russian Federation,Barley,0115,Production,5510,2023,t,20500000,Figure from international organizations,X,Crops and livestock products,QCL,392
+Russian Federation,Oats,0117,Area harvested,5312,2023,ha,1770000,Figure from international organizations,X,Crops and livestock products,QCL,391
+Russian Federation,Oats,0117,Yield,5412,2023,kg/ha,1864.4,Figure from international organizations,X,Crops and livestock products,QCL,393
+Russian Federation,Oats,0117,Production,5510,2023,t,3300000,Figure from international organizations,X,Crops and livestock products,QCL,392
+Russian Federation,Rice,0113,Area harvested,5312,2023,ha,185400,Official figure,A,Crops and livestock products,QCL,391
+Russian Federation,Rice,0113,Yield,5412,2023,kg/ha,5748.1,Official figure,A,Crops and livestock products,QCL,393
+Russian Federation,Rice,0113,Production,5510,2023,t,1065700,Official figure,A,Crops and livestock products,QCL,392
+Russian Federation,Rye,0116,Area harvested,5312,2023,ha,790000,Figure from international organizations,X,Crops and livestock products,QCL,391
+Russian Federation,Rye,0116,Yield,5412,2023,kg/ha,2151.9,Figure from international organizations,X,Crops and livestock products,QCL,393
+Russian Federation,Rye,0116,Production,5510,2023,t,1700000,Figure from international organizations,X,Crops and livestock products,QCL,392
+Russian Federation,Wheat,0111,Area harvested,5312,2023,ha,28830000,Figure from international organizations,X,Crops and livestock products,QCL,391
+Russian Federation,Wheat,0111,Yield,5412,2023,kg/ha,3173.8,Figure from international organizations,X,Crops and livestock products,QCL,393
+Russian Federation,Wheat,0111,Production,5510,2023,t,91500000,Figure from international organizations,X,Crops and livestock products,QCL,392
+Rwanda,Rice,0113,Area harvested,5312,2023,ha,32673,Official figure,A,Crops and livestock products,QCL,394
+Rwanda,Rice,0113,Yield,5412,2023,kg/ha,4089.8,Official figure,A,Crops and livestock products,QCL,396
+Rwanda,Rice,0113,Production,5510,2023,t,133628.01,Official figure,A,Crops and livestock products,QCL,395
+Rwanda,Wheat,0111,Area harvested,5312,2023,ha,13266,Official figure,A,Crops and livestock products,QCL,394
+Rwanda,Wheat,0111,Yield,5412,2023,kg/ha,1255.5,Official figure,A,Crops and livestock products,QCL,396
+Rwanda,Wheat,0111,Production,5510,2023,t,16655.89,Official figure,A,Crops and livestock products,QCL,395
+Saudi Arabia,Barley,0115,Area harvested,5312,2023,ha,300,Estimated value,E,Crops and livestock products,QCL,399
+Saudi Arabia,Barley,0115,Yield,5412,2023,kg/ha,6666.7,Estimated value,E,Crops and livestock products,QCL,401
+Saudi Arabia,Barley,0115,Production,5510,2023,t,2000,Estimated value,E,Crops and livestock products,QCL,400
+Saudi Arabia,Rice,0113,Area harvested,5312,2023,ha,336,Imputed value,I,Crops and livestock products,QCL,399
+Saudi Arabia,Rice,0113,Yield,5412,2023,kg/ha,2428.6,Estimated value,E,Crops and livestock products,QCL,401
+Saudi Arabia,Rice,0113,Production,5510,2023,t,816.48,Imputed value,I,Crops and livestock products,QCL,400
+Saudi Arabia,Wheat,0111,Area harvested,5312,2023,ha,137745,Imputed value,I,Crops and livestock products,QCL,399
+Saudi Arabia,Wheat,0111,Yield,5412,2023,kg/ha,6699.1,Estimated value,E,Crops and livestock products,QCL,401
+Saudi Arabia,Wheat,0111,Production,5510,2023,t,922773.81,Imputed value,I,Crops and livestock products,QCL,400
+Senegal,Rice,0113,Area harvested,5312,2023,ha,398367,Imputed value,I,Crops and livestock products,QCL,402
+Senegal,Rice,0113,Yield,5412,2023,kg/ha,3814.8,Estimated value,E,Crops and livestock products,QCL,404
+Senegal,Rice,0113,Production,5510,2023,t,1519700,Official figure,A,Crops and livestock products,QCL,403
+Serbia,Barley,0115,Area harvested,5312,2023,ha,108839,Official figure,A,Crops and livestock products,QCL,405
+Serbia,Barley,0115,Yield,5412,2023,kg/ha,4945.1,Official figure,A,Crops and livestock products,QCL,407
+Serbia,Barley,0115,Production,5510,2023,t,538215,Official figure,A,Crops and livestock products,QCL,406
+Serbia,Oats,0117,Area harvested,5312,2023,ha,17027,Official figure,A,Crops and livestock products,QCL,405
+Serbia,Oats,0117,Yield,5412,2023,kg/ha,2918.6,Official figure,A,Crops and livestock products,QCL,407
+Serbia,Oats,0117,Production,5510,2023,t,49695,Official figure,A,Crops and livestock products,QCL,406
+Serbia,Rye,0116,Area harvested,5312,2023,ha,5379,Official figure,A,Crops and livestock products,QCL,405
+Serbia,Rye,0116,Yield,5412,2023,kg/ha,3364.6,Official figure,A,Crops and livestock products,QCL,407
+Serbia,Rye,0116,Production,5510,2023,t,18098,Official figure,A,Crops and livestock products,QCL,406
+Serbia,Wheat,0111,Area harvested,5312,2023,ha,682246,Official figure,A,Crops and livestock products,QCL,405
+Serbia,Wheat,0111,Yield,5412,2023,kg/ha,5054.9,Official figure,A,Crops and livestock products,QCL,407
+Serbia,Wheat,0111,Production,5510,2023,t,3448700,Official figure,A,Crops and livestock products,QCL,406
+Sierra Leone,Rice,0113,Area harvested,5312,2023,ha,918325,Imputed value,I,Crops and livestock products,QCL,408
+Sierra Leone,Rice,0113,Yield,5412,2023,kg/ha,1524,Estimated value,E,Crops and livestock products,QCL,410
+Sierra Leone,Rice,0113,Production,5510,2023,t,1399500,Official figure,A,Crops and livestock products,QCL,409
+Slovakia,Barley,0115,Area harvested,5312,2023,ha,114190,Official figure,A,Crops and livestock products,QCL,411
+Slovakia,Barley,0115,Yield,5412,2023,kg/ha,5280.8,Official figure,A,Crops and livestock products,QCL,413
+Slovakia,Barley,0115,Production,5510,2023,t,603020,Official figure,A,Crops and livestock products,QCL,412
+Slovakia,Oats,0117,Area harvested,5312,2023,ha,9690,Official figure,A,Crops and livestock products,QCL,411
+Slovakia,Oats,0117,Yield,5412,2023,kg/ha,2098,Official figure,A,Crops and livestock products,QCL,413
+Slovakia,Oats,0117,Production,5510,2023,t,20330,Official figure,A,Crops and livestock products,QCL,412
+Slovakia,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,411
+Slovakia,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,412
+Slovakia,Rye,0116,Area harvested,5312,2023,ha,10430,Official figure,A,Crops and livestock products,QCL,411
+Slovakia,Rye,0116,Yield,5412,2023,kg/ha,3377.8,Official figure,A,Crops and livestock products,QCL,413
+Slovakia,Rye,0116,Production,5510,2023,t,35230,Official figure,A,Crops and livestock products,QCL,412
+Slovakia,Wheat,0111,Area harvested,5312,2023,ha,406760,Official figure,A,Crops and livestock products,QCL,411
+Slovakia,Wheat,0111,Yield,5412,2023,kg/ha,6123,Official figure,A,Crops and livestock products,QCL,413
+Slovakia,Wheat,0111,Production,5510,2023,t,2490600,Official figure,A,Crops and livestock products,QCL,412
+Slovenia,Barley,0115,Area harvested,5312,2023,ha,21950,Official figure,A,Crops and livestock products,QCL,414
+Slovenia,Barley,0115,Yield,5412,2023,kg/ha,4603.6,Official figure,A,Crops and livestock products,QCL,416
+Slovenia,Barley,0115,Production,5510,2023,t,101050,Official figure,A,Crops and livestock products,QCL,415
+Slovenia,Oats,0117,Area harvested,5312,2023,ha,870,Official figure,A,Crops and livestock products,QCL,414
+Slovenia,Oats,0117,Yield,5412,2023,kg/ha,2885.1,Official figure,A,Crops and livestock products,QCL,416
+Slovenia,Oats,0117,Production,5510,2023,t,2510,Official figure,A,Crops and livestock products,QCL,415
+Slovenia,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,414
+Slovenia,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,415
+Slovenia,Rye,0116,Area harvested,5312,2023,ha,1020,Official figure,A,Crops and livestock products,QCL,414
+Slovenia,Rye,0116,Yield,5412,2023,kg/ha,3598,Official figure,A,Crops and livestock products,QCL,416
+Slovenia,Rye,0116,Production,5510,2023,t,3670,Official figure,A,Crops and livestock products,QCL,415
+Slovenia,Wheat,0111,Area harvested,5312,2023,ha,28710,Official figure,A,Crops and livestock products,QCL,414
+Slovenia,Wheat,0111,Yield,5412,2023,kg/ha,5065.1,Official figure,A,Crops and livestock products,QCL,416
+Slovenia,Wheat,0111,Production,5510,2023,t,145420,Official figure,A,Crops and livestock products,QCL,415
+Solomon Islands,Rice,0113,Area harvested,5312,2023,ha,1448,Estimated value,E,Crops and livestock products,QCL,417
+Solomon Islands,Rice,0113,Yield,5412,2023,kg/ha,1900.5,Estimated value,E,Crops and livestock products,QCL,419
+Solomon Islands,Rice,0113,Production,5510,2023,t,2752.61,Imputed value,I,Crops and livestock products,QCL,418
+Somalia,Rice,0113,Area harvested,5312,2023,ha,1000,Figure from international organizations,X,Crops and livestock products,QCL,420
+Somalia,Rice,0113,Yield,5412,2023,kg/ha,2000,Figure from international organizations,X,Crops and livestock products,QCL,422
+Somalia,Rice,0113,Production,5510,2023,t,2000,Figure from international organizations,X,Crops and livestock products,QCL,421
+Somalia,Wheat,0111,Area harvested,5312,2023,ha,2642,Imputed value,I,Crops and livestock products,QCL,420
+Somalia,Wheat,0111,Yield,5412,2023,kg/ha,401.3,Estimated value,E,Crops and livestock products,QCL,422
+Somalia,Wheat,0111,Production,5510,2023,t,1060.22,Imputed value,I,Crops and livestock products,QCL,421
+South Africa,Barley,0115,Area harvested,5312,2023,ha,107600,Official figure,A,Crops and livestock products,QCL,423
+South Africa,Barley,0115,Yield,5412,2023,kg/ha,3503.7,Official figure,A,Crops and livestock products,QCL,425
+South Africa,Barley,0115,Production,5510,2023,t,377000,Official figure,A,Crops and livestock products,QCL,424
+South Africa,Oats,0117,Area harvested,5312,2023,ha,27500,Official figure,A,Crops and livestock products,QCL,423
+South Africa,Oats,0117,Yield,5412,2023,kg/ha,1490.9,Official figure,A,Crops and livestock products,QCL,425
+South Africa,Oats,0117,Production,5510,2023,t,41000,Official figure,A,Crops and livestock products,QCL,424
+South Africa,Rice,0113,Area harvested,5312,2023,ha,1065,Imputed value,I,Crops and livestock products,QCL,423
+South Africa,Rice,0113,Yield,5412,2023,kg/ha,2895.2,Estimated value,E,Crops and livestock products,QCL,425
+South Africa,Rice,0113,Production,5510,2023,t,3082.07,Imputed value,I,Crops and livestock products,QCL,424
+South Africa,Rye,0116,Area harvested,5312,2023,ha,1781,Estimated value,E,Crops and livestock products,QCL,423
+South Africa,Rye,0116,Yield,5412,2023,kg/ha,1097.7,Estimated value,E,Crops and livestock products,QCL,425
+South Africa,Rye,0116,Production,5510,2023,t,1954.5,Estimated value,E,Crops and livestock products,QCL,424
+South Africa,Wheat,0111,Area harvested,5312,2023,ha,537950,Official figure,A,Crops and livestock products,QCL,423
+South Africa,Wheat,0111,Yield,5412,2023,kg/ha,3810.8,Official figure,A,Crops and livestock products,QCL,425
+South Africa,Wheat,0111,Production,5510,2023,t,2050000,Official figure,A,Crops and livestock products,QCL,424
+South Sudan,Rice,0113,Area harvested,5312,2023,ha,30269,Imputed value,I,Crops and livestock products,QCL,426
+South Sudan,Rice,0113,Yield,5412,2023,kg/ha,1090.2,Estimated value,E,Crops and livestock products,QCL,428
+South Sudan,Rice,0113,Production,5510,2023,t,33000,Figure from international organizations,X,Crops and livestock products,QCL,427
+Spain,Barley,0115,Area harvested,5312,2023,ha,2342260,Official figure,A,Crops and livestock products,QCL,429
+Spain,Barley,0115,Yield,5412,2023,kg/ha,1604.2,Official figure,A,Crops and livestock products,QCL,431
+Spain,Barley,0115,Production,5510,2023,t,3757570,Official figure,A,Crops and livestock products,QCL,430
+Spain,Oats,0117,Area harvested,5312,2023,ha,466760,Official figure,A,Crops and livestock products,QCL,429
+Spain,Oats,0117,Yield,5412,2023,kg/ha,994.4,Official figure,A,Crops and livestock products,QCL,431
+Spain,Oats,0117,Production,5510,2023,t,464140,Official figure,A,Crops and livestock products,QCL,430
+Spain,Rice,0113,Area harvested,5312,2023,ha,55120,Official figure,A,Crops and livestock products,QCL,429
+Spain,Rice,0113,Yield,5412,2023,kg/ha,6061.3,Official figure,A,Crops and livestock products,QCL,431
+Spain,Rice,0113,Production,5510,2023,t,334100,Official figure,A,Crops and livestock products,QCL,430
+Spain,Rye,0116,Area harvested,5312,2023,ha,84010,Official figure,A,Crops and livestock products,QCL,429
+Spain,Rye,0116,Yield,5412,2023,kg/ha,1451.9,Official figure,A,Crops and livestock products,QCL,431
+Spain,Rye,0116,Production,5510,2023,t,121970,Official figure,A,Crops and livestock products,QCL,430
+Spain,Wheat,0111,Area harvested,5312,2023,ha,1957760,Official figure,A,Crops and livestock products,QCL,429
+Spain,Wheat,0111,Yield,5412,2023,kg/ha,2068.3,Official figure,A,Crops and livestock products,QCL,431
+Spain,Wheat,0111,Production,5510,2023,t,4049230,Official figure,A,Crops and livestock products,QCL,430
+Sri Lanka,Rice,0113,Area harvested,5312,2023,ha,1162805,Official figure,A,Crops and livestock products,QCL,432
+Sri Lanka,Rice,0113,Yield,5412,2023,kg/ha,3881.5,Official figure,A,Crops and livestock products,QCL,434
+Sri Lanka,Rice,0113,Production,5510,2023,t,4513431,Official figure,A,Crops and livestock products,QCL,433
+Sudan,Rice,0113,Area harvested,5312,2023,ha,4982,Imputed value,I,Crops and livestock products,QCL,435
+Sudan,Rice,0113,Yield,5412,2023,kg/ha,4391.6,Estimated value,E,Crops and livestock products,QCL,437
+Sudan,Rice,0113,Production,5510,2023,t,21880,Figure from international organizations,X,Crops and livestock products,QCL,436
+Sudan,Wheat,0111,Area harvested,5312,2023,ha,280000,Figure from international organizations,X,Crops and livestock products,QCL,435
+Sudan,Wheat,0111,Yield,5412,2023,kg/ha,1350,Figure from international organizations,X,Crops and livestock products,QCL,437
+Sudan,Wheat,0111,Production,5510,2023,t,378000,Figure from international organizations,X,Crops and livestock products,QCL,436
+Suriname,Rice,0113,Area harvested,5312,2023,ha,49808,Imputed value,I,Crops and livestock products,QCL,438
+Suriname,Rice,0113,Yield,5412,2023,kg/ha,4078.8,Estimated value,E,Crops and livestock products,QCL,440
+Suriname,Rice,0113,Production,5510,2023,t,203155.93,Imputed value,I,Crops and livestock products,QCL,439
+Sweden,Barley,0115,Area harvested,5312,2023,ha,259700,Official figure,A,Crops and livestock products,QCL,441
+Sweden,Barley,0115,Yield,5412,2023,kg/ha,3294.2,Official figure,A,Crops and livestock products,QCL,443
+Sweden,Barley,0115,Production,5510,2023,t,855500,Official figure,A,Crops and livestock products,QCL,442
+Sweden,Oats,0117,Area harvested,5312,2023,ha,139460,Official figure,A,Crops and livestock products,QCL,441
+Sweden,Oats,0117,Yield,5412,2023,kg/ha,2950.7,Official figure,A,Crops and livestock products,QCL,443
+Sweden,Oats,0117,Production,5510,2023,t,411500,Official figure,A,Crops and livestock products,QCL,442
+Sweden,Rice,0113,Area harvested,5312,2023,ha,0,Official figure,A,Crops and livestock products,QCL,441
+Sweden,Rice,0113,Production,5510,2023,t,0,Official figure,A,Crops and livestock products,QCL,442
+Sweden,Rye,0116,Area harvested,5312,2023,ha,26740,Official figure,A,Crops and livestock products,QCL,441
+Sweden,Rye,0116,Yield,5412,2023,kg/ha,5213.2,Official figure,A,Crops and livestock products,QCL,443
+Sweden,Rye,0116,Production,5510,2023,t,139400,Official figure,A,Crops and livestock products,QCL,442
+Sweden,Wheat,0111,Area harvested,5312,2023,ha,507530,Official figure,A,Crops and livestock products,QCL,441
+Sweden,Wheat,0111,Yield,5412,2023,kg/ha,5454.3,Official figure,A,Crops and livestock products,QCL,443
+Sweden,Wheat,0111,Production,5510,2023,t,2768200,Official figure,A,Crops and livestock products,QCL,442
+Switzerland,Barley,0115,Area harvested,5312,2023,ha,26819,Official figure,A,Crops and livestock products,QCL,444
+Switzerland,Barley,0115,Yield,5412,2023,kg/ha,6137.2,Official figure,A,Crops and livestock products,QCL,446
+Switzerland,Barley,0115,Production,5510,2023,t,164594,Official figure,A,Crops and livestock products,QCL,445
+Switzerland,Oats,0117,Area harvested,5312,2023,ha,2871,Official figure,A,Crops and livestock products,QCL,444
+Switzerland,Oats,0117,Yield,5412,2023,kg/ha,4492.9,Official figure,A,Crops and livestock products,QCL,446
+Switzerland,Oats,0117,Production,5510,2023,t,12899,Official figure,A,Crops and livestock products,QCL,445
+Switzerland,Rye,0116,Area harvested,5312,2023,ha,2110,Official figure,A,Crops and livestock products,QCL,444
+Switzerland,Rye,0116,Yield,5412,2023,kg/ha,4902.5,Official figure,A,Crops and livestock products,QCL,446
+Switzerland,Rye,0116,Production,5510,2023,t,10343,Official figure,A,Crops and livestock products,QCL,445
+Switzerland,Wheat,0111,Area harvested,5312,2023,ha,87057,Official figure,A,Crops and livestock products,QCL,444
+Switzerland,Wheat,0111,Yield,5412,2023,kg/ha,5139.7,Official figure,A,Crops and livestock products,QCL,446
+Switzerland,Wheat,0111,Production,5510,2023,t,447449,Official figure,A,Crops and livestock products,QCL,445
+Syrian Arab Republic,Barley,0115,Area harvested,5312,2023,ha,1266567,Official figure,A,Crops and livestock products,QCL,447
+Syrian Arab Republic,Barley,0115,Yield,5412,2023,kg/ha,968.3,Official figure,A,Crops and livestock products,QCL,449
+Syrian Arab Republic,Barley,0115,Production,5510,2023,t,1226399,Official figure,A,Crops and livestock products,QCL,448
+Syrian Arab Republic,Oats,0117,Area harvested,5312,2023,ha,35,Official figure,A,Crops and livestock products,QCL,447
+Syrian Arab Republic,Oats,0117,Yield,5412,2023,kg/ha,1114.3,Official figure,A,Crops and livestock products,QCL,449
+Syrian Arab Republic,Oats,0117,Production,5510,2023,t,39,Official figure,A,Crops and livestock products,QCL,448
+Syrian Arab Republic,Wheat,0111,Area harvested,5312,2023,ha,1335667,Official figure,A,Crops and livestock products,QCL,447
+Syrian Arab Republic,Wheat,0111,Yield,5412,2023,kg/ha,2306.2,Official figure,A,Crops and livestock products,QCL,449
+Syrian Arab Republic,Wheat,0111,Production,5510,2023,t,3080351,Official figure,A,Crops and livestock products,QCL,448
+Tajikistan,Barley,0115,Area harvested,5312,2023,ha,72300,Figure from international organizations,X,Crops and livestock products,QCL,450
+Tajikistan,Barley,0115,Yield,5412,2023,kg/ha,2349.9,Figure from international organizations,X,Crops and livestock products,QCL,452
+Tajikistan,Barley,0115,Production,5510,2023,t,169900,Figure from international organizations,X,Crops and livestock products,QCL,451
+Tajikistan,Oats,0117,Area harvested,5312,2023,ha,2247,Imputed value,I,Crops and livestock products,QCL,450
+Tajikistan,Oats,0117,Yield,5412,2023,kg/ha,1340.1,Estimated value,E,Crops and livestock products,QCL,452
+Tajikistan,Oats,0117,Production,5510,2023,t,3010.77,Imputed value,I,Crops and livestock products,QCL,451
+Tajikistan,Rice,0113,Area harvested,5312,2023,ha,13620,Imputed value,I,Crops and livestock products,QCL,450
+Tajikistan,Rice,0113,Yield,5412,2023,kg/ha,9874.2,Estimated value,E,Crops and livestock products,QCL,452
+Tajikistan,Rice,0113,Production,5510,2023,t,134484.66,Imputed value,I,Crops and livestock products,QCL,451
+Tajikistan,Rye,0116,Area harvested,5312,2023,ha,114,Imputed value,I,Crops and livestock products,QCL,450
+Tajikistan,Rye,0116,Yield,5412,2023,kg/ha,3105.5,Estimated value,E,Crops and livestock products,QCL,452
+Tajikistan,Rye,0116,Production,5510,2023,t,353.48,Imputed value,I,Crops and livestock products,QCL,451
+Tajikistan,Wheat,0111,Area harvested,5312,2023,ha,275000,Figure from international organizations,X,Crops and livestock products,QCL,450
+Tajikistan,Wheat,0111,Yield,5412,2023,kg/ha,3130.9,Figure from international organizations,X,Crops and livestock products,QCL,452
+Tajikistan,Wheat,0111,Production,5510,2023,t,861000,Figure from international organizations,X,Crops and livestock products,QCL,451
+Thailand,Barley,0115,Area harvested,5312,2023,ha,74648,Imputed value,I,Crops and livestock products,QCL,453
+Thailand,Barley,0115,Yield,5412,2023,kg/ha,2441.7,Estimated value,E,Crops and livestock products,QCL,455
+Thailand,Barley,0115,Production,5510,2023,t,182266.25,Imputed value,I,Crops and livestock products,QCL,454
+Thailand,Rice,0113,Area harvested,5312,2023,ha,11189393,Official figure,A,Crops and livestock products,QCL,453
+Thailand,Rice,0113,Yield,5412,2023,kg/ha,2955.6,Official figure,A,Crops and livestock products,QCL,455
+Thailand,Rice,0113,Production,5510,2023,t,33070957,Official figure,A,Crops and livestock products,QCL,454
+Thailand,Wheat,0111,Area harvested,5312,2023,ha,1274,Imputed value,I,Crops and livestock products,QCL,453
+Thailand,Wheat,0111,Yield,5412,2023,kg/ha,1037.2,Estimated value,E,Crops and livestock products,QCL,455
+Thailand,Wheat,0111,Production,5510,2023,t,1321.48,Estimated value,E,Crops and livestock products,QCL,454
+Timor-Leste,Rice,0113,Area harvested,5312,2023,ha,38418,Estimated value,E,Crops and livestock products,QCL,456
+Timor-Leste,Rice,0113,Yield,5412,2023,kg/ha,2160.4,Estimated value,E,Crops and livestock products,QCL,458
+Timor-Leste,Rice,0113,Production,5510,2023,t,83000,Figure from international organizations,X,Crops and livestock products,QCL,457
+Togo,Rice,0113,Area harvested,5312,2023,ha,113825,Imputed value,I,Crops and livestock products,QCL,459
+Togo,Rice,0113,Yield,5412,2023,kg/ha,1608.6,Estimated value,E,Crops and livestock products,QCL,461
+Togo,Rice,0113,Production,5510,2023,t,183100,Official figure,A,Crops and livestock products,QCL,460
+Trinidad and Tobago,Rice,0113,Area harvested,5312,2023,ha,328,Imputed value,I,Crops and livestock products,QCL,462
+Trinidad and Tobago,Rice,0113,Yield,5412,2023,kg/ha,993.7,Estimated value,E,Crops and livestock products,QCL,464
+Trinidad and Tobago,Rice,0113,Production,5510,2023,t,326,Official figure,A,Crops and livestock products,QCL,463
+Tunisia,Barley,0115,Area harvested,5312,2023,ha,108000,Figure from international organizations,X,Crops and livestock products,QCL,465
+Tunisia,Barley,0115,Yield,5412,2023,kg/ha,824.1,Figure from international organizations,X,Crops and livestock products,QCL,467
+Tunisia,Barley,0115,Production,5510,2023,t,89000,Figure from international organizations,X,Crops and livestock products,QCL,466
+Tunisia,Oats,0117,Area harvested,5312,2023,ha,4523,Estimated value,E,Crops and livestock products,QCL,465
+Tunisia,Oats,0117,Yield,5412,2023,kg/ha,363.7,Estimated value,E,Crops and livestock products,QCL,467
+Tunisia,Oats,0117,Production,5510,2023,t,1644.75,Estimated value,E,Crops and livestock products,QCL,466
+Tunisia,Wheat,0111,Area harvested,5312,2023,ha,329000,Figure from international organizations,X,Crops and livestock products,QCL,465
+Tunisia,Wheat,0111,Yield,5412,2023,kg/ha,1215.8,Figure from international organizations,X,Crops and livestock products,QCL,467
+Tunisia,Wheat,0111,Production,5510,2023,t,400000,Figure from international organizations,X,Crops and livestock products,QCL,466
+Türkiye,Barley,0115,Area harvested,5312,2023,ha,3278176,Official figure,A,Crops and livestock products,QCL,468
+Türkiye,Barley,0115,Yield,5412,2023,kg/ha,2806.4,Official figure,A,Crops and livestock products,QCL,470
+Türkiye,Barley,0115,Production,5510,2023,t,9200000,Official figure,A,Crops and livestock products,QCL,469
+Türkiye,Oats,0117,Area harvested,5312,2023,ha,138212,Official figure,A,Crops and livestock products,QCL,468
+Türkiye,Oats,0117,Yield,5412,2023,kg/ha,2966.5,Official figure,A,Crops and livestock products,QCL,470
+Türkiye,Oats,0117,Production,5510,2023,t,410000,Official figure,A,Crops and livestock products,QCL,469
+Türkiye,Rice,0113,Area harvested,5312,2023,ha,112120,Official figure,A,Crops and livestock products,QCL,468
+Türkiye,Rice,0113,Yield,5412,2023,kg/ha,8027.1,Official figure,A,Crops and livestock products,QCL,470
+Türkiye,Rice,0113,Production,5510,2023,t,900000,Official figure,A,Crops and livestock products,QCL,469
+Türkiye,Rye,0116,Area harvested,5312,2023,ha,98956,Official figure,A,Crops and livestock products,QCL,468
+Türkiye,Rye,0116,Yield,5412,2023,kg/ha,3082.2,Official figure,A,Crops and livestock products,QCL,470
+Türkiye,Rye,0116,Production,5510,2023,t,305000,Official figure,A,Crops and livestock products,QCL,469
+Türkiye,Wheat,0111,Area harvested,5312,2023,ha,6832602,Official figure,A,Crops and livestock products,QCL,468
+Türkiye,Wheat,0111,Yield,5412,2023,kg/ha,3219.9,Official figure,A,Crops and livestock products,QCL,470
+Türkiye,Wheat,0111,Production,5510,2023,t,22000000,Official figure,A,Crops and livestock products,QCL,469
+Turkmenistan,Barley,0115,Area harvested,5312,2023,ha,139647,Official figure,A,Crops and livestock products,QCL,471
+Turkmenistan,Barley,0115,Yield,5412,2023,kg/ha,1988.2,Official figure,A,Crops and livestock products,QCL,473
+Turkmenistan,Barley,0115,Production,5510,2023,t,277644.8,Official figure,A,Crops and livestock products,QCL,472
+Turkmenistan,Rice,0113,Area harvested,5312,2023,ha,19571,Official figure,A,Crops and livestock products,QCL,471
+Turkmenistan,Rice,0113,Yield,5412,2023,kg/ha,4425.9,Official figure,A,Crops and livestock products,QCL,473
+Turkmenistan,Rice,0113,Production,5510,2023,t,86616.7,Official figure,A,Crops and livestock products,QCL,472
+Turkmenistan,Wheat,0111,Area harvested,5312,2023,ha,639456,Imputed value,I,Crops and livestock products,QCL,471
+Turkmenistan,Wheat,0111,Yield,5412,2023,kg/ha,1720.2,Estimated value,E,Crops and livestock products,QCL,473
+Turkmenistan,Wheat,0111,Production,5510,2023,t,1100000,Estimated value,E,Crops and livestock products,QCL,472
+Uganda,Rice,0113,Area harvested,5312,2023,ha,200000,Figure from international organizations,X,Crops and livestock products,QCL,474
+Uganda,Rice,0113,Yield,5412,2023,kg/ha,1300,Figure from international organizations,X,Crops and livestock products,QCL,476
+Uganda,Rice,0113,Production,5510,2023,t,260000,Figure from international organizations,X,Crops and livestock products,QCL,475
+Uganda,Wheat,0111,Area harvested,5312,2023,ha,15000,Figure from international organizations,X,Crops and livestock products,QCL,474
+Uganda,Wheat,0111,Yield,5412,2023,kg/ha,1666.7,Figure from international organizations,X,Crops and livestock products,QCL,476
+Uganda,Wheat,0111,Production,5510,2023,t,25000,Figure from international organizations,X,Crops and livestock products,QCL,475
+Ukraine,Barley,0115,Area harvested,5312,2023,ha,1494300,Official figure,A,Crops and livestock products,QCL,477
+Ukraine,Barley,0115,Yield,5412,2023,kg/ha,3685.5,Official figure,A,Crops and livestock products,QCL,479
+Ukraine,Barley,0115,Production,5510,2023,t,5507190,Official figure,A,Crops and livestock products,QCL,478
+Ukraine,Oats,0117,Area harvested,5312,2023,ha,164800,Official figure,A,Crops and livestock products,QCL,477
+Ukraine,Oats,0117,Yield,5412,2023,kg/ha,2592.7,Official figure,A,Crops and livestock products,QCL,479
+Ukraine,Oats,0117,Production,5510,2023,t,427270,Official figure,A,Crops and livestock products,QCL,478
+Ukraine,Rice,0113,Area harvested,5312,2023,ha,2200,Official figure,A,Crops and livestock products,QCL,477
+Ukraine,Rice,0113,Yield,5412,2023,kg/ha,5036.4,Official figure,A,Crops and livestock products,QCL,479
+Ukraine,Rice,0113,Production,5510,2023,t,11080,Official figure,A,Crops and livestock products,QCL,478
+Ukraine,Rye,0116,Area harvested,5312,2023,ha,78400,Official figure,A,Crops and livestock products,QCL,477
+Ukraine,Rye,0116,Yield,5412,2023,kg/ha,2821.2,Official figure,A,Crops and livestock products,QCL,479
+Ukraine,Rye,0116,Production,5510,2023,t,221180,Official figure,A,Crops and livestock products,QCL,478
+Ukraine,Wheat,0111,Area harvested,5312,2023,ha,4658400,Official figure,A,Crops and livestock products,QCL,477
+Ukraine,Wheat,0111,Yield,5412,2023,kg/ha,4642.2,Official figure,A,Crops and livestock products,QCL,479
+Ukraine,Wheat,0111,Production,5510,2023,t,21625170,Official figure,A,Crops and livestock products,QCL,478
+United Kingdom of Great Britain and Northern Ireland,Barley,0115,Area harvested,5312,2023,ha,1137000,Official figure,A,Crops and livestock products,QCL,482
+United Kingdom of Great Britain and Northern Ireland,Barley,0115,Yield,5412,2023,kg/ha,6124,Official figure,A,Crops and livestock products,QCL,484
+United Kingdom of Great Britain and Northern Ireland,Barley,0115,Production,5510,2023,t,6963000,Official figure,A,Crops and livestock products,QCL,483
+United Kingdom of Great Britain and Northern Ireland,Oats,0117,Area harvested,5312,2023,ha,167000,Official figure,A,Crops and livestock products,QCL,482
+United Kingdom of Great Britain and Northern Ireland,Oats,0117,Yield,5412,2023,kg/ha,4970.1,Official figure,A,Crops and livestock products,QCL,484
+United Kingdom of Great Britain and Northern Ireland,Oats,0117,Production,5510,2023,t,830000,Official figure,A,Crops and livestock products,QCL,483
+United Kingdom of Great Britain and Northern Ireland,Rye,0116,Area harvested,5312,2023,ha,43667,Official figure,A,Crops and livestock products,QCL,482
+United Kingdom of Great Britain and Northern Ireland,Rye,0116,Yield,5412,2023,kg/ha,4203.2,Official figure,A,Crops and livestock products,QCL,484
+United Kingdom of Great Britain and Northern Ireland,Rye,0116,Production,5510,2023,t,183543,Official figure,A,Crops and livestock products,QCL,483
+United Kingdom of Great Britain and Northern Ireland,Wheat,0111,Area harvested,5312,2023,ha,1720000,Official figure,A,Crops and livestock products,QCL,482
+United Kingdom of Great Britain and Northern Ireland,Wheat,0111,Yield,5412,2023,kg/ha,8127.9,Official figure,A,Crops and livestock products,QCL,484
+United Kingdom of Great Britain and Northern Ireland,Wheat,0111,Production,5510,2023,t,13980000,Official figure,A,Crops and livestock products,QCL,483
+United Republic of Tanzania,Barley,0115,Area harvested,5312,2023,ha,1984,Imputed value,I,Crops and livestock products,QCL,485
+United Republic of Tanzania,Barley,0115,Yield,5412,2023,kg/ha,1909.1,Estimated value,E,Crops and livestock products,QCL,487
+United Republic of Tanzania,Barley,0115,Production,5510,2023,t,3787,Official figure,A,Crops and livestock products,QCL,486
+United Republic of Tanzania,Rice,0113,Area harvested,5312,2023,ha,1200000,Estimated value,E,Crops and livestock products,QCL,485
+United Republic of Tanzania,Rice,0113,Yield,5412,2023,kg/ha,2990,Estimated value,E,Crops and livestock products,QCL,487
+United Republic of Tanzania,Rice,0113,Production,5510,2023,t,3588000,Estimated value,E,Crops and livestock products,QCL,486
+United Republic of Tanzania,Wheat,0111,Area harvested,5312,2023,ha,60000,Figure from international organizations,X,Crops and livestock products,QCL,485
+United Republic of Tanzania,Wheat,0111,Yield,5412,2023,kg/ha,1442,Estimated value,E,Crops and livestock products,QCL,487
+United Republic of Tanzania,Wheat,0111,Production,5510,2023,t,86522,Official figure,A,Crops and livestock products,QCL,486
+United States of America,Barley,0115,Area harvested,5312,2023,ha,1033980,Official figure,A,Crops and livestock products,QCL,488
+United States of America,Barley,0115,Yield,5412,2023,kg/ha,3896.3,Official figure,A,Crops and livestock products,QCL,490
+United States of America,Barley,0115,Production,5510,2023,t,4028680,Official figure,A,Crops and livestock products,QCL,489
+United States of America,Oats,0117,Area harvested,5312,2023,ha,336300,Official figure,A,Crops and livestock products,QCL,488
+United States of America,Oats,0117,Yield,5412,2023,kg/ha,2462.1,Official figure,A,Crops and livestock products,QCL,490
+United States of America,Oats,0117,Production,5510,2023,t,828010,Official figure,A,Crops and livestock products,QCL,489
+United States of America,Rice,0113,Area harvested,5312,2023,ha,1154990,Official figure,A,Crops and livestock products,QCL,488
+United States of America,Rice,0113,Yield,5412,2023,kg/ha,8572.8,Official figure,A,Crops and livestock products,QCL,490
+United States of America,Rice,0113,Production,5510,2023,t,9901510,Official figure,A,Crops and livestock products,QCL,489
+United States of America,Rye,0116,Area harvested,5312,2023,ha,130310,Official figure,A,Crops and livestock products,QCL,488
+United States of America,Rye,0116,Yield,5412,2023,kg/ha,2022.4,Official figure,A,Crops and livestock products,QCL,490
+United States of America,Rye,0116,Production,5510,2023,t,263540,Official figure,A,Crops and livestock products,QCL,489
+United States of America,Wheat,0111,Area harvested,5312,2023,ha,15083610,Official figure,A,Crops and livestock products,QCL,488
+United States of America,Wheat,0111,Yield,5412,2023,kg/ha,3269.4,Official figure,A,Crops and livestock products,QCL,490
+United States of America,Wheat,0111,Production,5510,2023,t,49313930,Official figure,A,Crops and livestock products,QCL,489
+Uruguay,Barley,0115,Area harvested,5312,2023,ha,211000,Official figure,A,Crops and livestock products,QCL,491
+Uruguay,Barley,0115,Yield,5412,2023,kg/ha,4252.1,Official figure,A,Crops and livestock products,QCL,493
+Uruguay,Barley,0115,Production,5510,2023,t,897200,Official figure,A,Crops and livestock products,QCL,492
+Uruguay,Oats,0117,Area harvested,5312,2023,ha,13500,Official figure,A,Crops and livestock products,QCL,491
+Uruguay,Oats,0117,Yield,5412,2023,kg/ha,2218.7,Estimated value,E,Crops and livestock products,QCL,493
+Uruguay,Oats,0117,Production,5510,2023,t,29951.78,Imputed value,I,Crops and livestock products,QCL,492
+Uruguay,Rice,0113,Area harvested,5312,2023,ha,147000,Official figure,A,Crops and livestock products,QCL,491
+Uruguay,Rice,0113,Yield,5412,2023,kg/ha,9338.1,Official figure,A,Crops and livestock products,QCL,493
+Uruguay,Rice,0113,Production,5510,2023,t,1372700,Official figure,A,Crops and livestock products,QCL,492
+Uruguay,Wheat,0111,Area harvested,5312,2023,ha,266800,Official figure,A,Crops and livestock products,QCL,491
+Uruguay,Wheat,0111,Yield,5412,2023,kg/ha,5036.7,Official figure,A,Crops and livestock products,QCL,493
+Uruguay,Wheat,0111,Production,5510,2023,t,1343800,Official figure,A,Crops and livestock products,QCL,492
+Uzbekistan,Barley,0115,Area harvested,5312,2023,ha,102792,Official figure,A,Crops and livestock products,QCL,494
+Uzbekistan,Barley,0115,Yield,5412,2023,kg/ha,1592.4,Official figure,A,Crops and livestock products,QCL,496
+Uzbekistan,Barley,0115,Production,5510,2023,t,163689.5,Official figure,A,Crops and livestock products,QCL,495
+Uzbekistan,Oats,0117,Area harvested,5312,2023,ha,150,Estimated value,E,Crops and livestock products,QCL,494
+Uzbekistan,Oats,0117,Yield,5412,2023,kg/ha,1694,Estimated value,E,Crops and livestock products,QCL,496
+Uzbekistan,Oats,0117,Production,5510,2023,t,254.1,Official figure,A,Crops and livestock products,QCL,495
+Uzbekistan,Rice,0113,Area harvested,5312,2023,ha,42250,Official figure,A,Crops and livestock products,QCL,494
+Uzbekistan,Rice,0113,Yield,5412,2023,kg/ha,8418.3,Official figure,A,Crops and livestock products,QCL,496
+Uzbekistan,Rice,0113,Production,5510,2023,t,355674.49,Official figure,A,Crops and livestock products,QCL,495
+Uzbekistan,Rye,0116,Area harvested,5312,2023,ha,499,Imputed value,I,Crops and livestock products,QCL,494
+Uzbekistan,Rye,0116,Yield,5412,2023,kg/ha,10133,Estimated value,E,Crops and livestock products,QCL,496
+Uzbekistan,Rye,0116,Production,5510,2023,t,5058.86,Official figure,A,Crops and livestock products,QCL,495
+Uzbekistan,Wheat,0111,Area harvested,5312,2023,ha,1228865,Official figure,A,Crops and livestock products,QCL,494
+Uzbekistan,Wheat,0111,Yield,5412,2023,kg/ha,5266.2,Official figure,A,Crops and livestock products,QCL,496
+Uzbekistan,Wheat,0111,Production,5510,2023,t,6471502.47,Official figure,A,Crops and livestock products,QCL,495
+Venezuela (Bolivarian Republic of),Rice,0113,Area harvested,5312,2023,ha,192541,Estimated value,E,Crops and livestock products,QCL,497
+Venezuela (Bolivarian Republic of),Rice,0113,Yield,5412,2023,kg/ha,3751.8,Estimated value,E,Crops and livestock products,QCL,499
+Venezuela (Bolivarian Republic of),Rice,0113,Production,5510,2023,t,722370.07,Imputed value,I,Crops and livestock products,QCL,498
+Venezuela (Bolivarian Republic of),Wheat,0111,Area harvested,5312,2023,ha,210,Imputed value,I,Crops and livestock products,QCL,497
+Venezuela (Bolivarian Republic of),Wheat,0111,Yield,5412,2023,kg/ha,2759.2,Estimated value,E,Crops and livestock products,QCL,499
+Venezuela (Bolivarian Republic of),Wheat,0111,Production,5510,2023,t,579.11,Imputed value,I,Crops and livestock products,QCL,498
+Viet Nam,Rice,0113,Area harvested,5312,2023,ha,7115058,Official figure,A,Crops and livestock products,QCL,500
+Viet Nam,Rice,0113,Yield,5412,2023,kg/ha,6113.5,Official figure,A,Crops and livestock products,QCL,502
+Viet Nam,Rice,0113,Production,5510,2023,t,43497624.81,Official figure,A,Crops and livestock products,QCL,501
+Yemen,Barley,0115,Area harvested,5312,2023,ha,28000,Figure from international organizations,X,Crops and livestock products,QCL,503
+Yemen,Barley,0115,Yield,5412,2023,kg/ha,1071.4,Figure from international organizations,X,Crops and livestock products,QCL,505
+Yemen,Barley,0115,Production,5510,2023,t,30000,Figure from international organizations,X,Crops and livestock products,QCL,504
+Yemen,Wheat,0111,Area harvested,5312,2023,ha,60000,Figure from international organizations,X,Crops and livestock products,QCL,503
+Yemen,Wheat,0111,Yield,5412,2023,kg/ha,1666.7,Figure from international organizations,X,Crops and livestock products,QCL,505
+Yemen,Wheat,0111,Production,5510,2023,t,100000,Figure from international organizations,X,Crops and livestock products,QCL,504
+Zambia,Barley,0115,Area harvested,5312,2023,ha,448,Imputed value,I,Crops and livestock products,QCL,506
+Zambia,Barley,0115,Yield,5412,2023,kg/ha,7850.3,Estimated value,E,Crops and livestock products,QCL,508
+Zambia,Barley,0115,Production,5510,2023,t,3519.41,Official figure,A,Crops and livestock products,QCL,507
+Zambia,Rice,0113,Area harvested,5312,2023,ha,49414,Official figure,A,Crops and livestock products,QCL,506
+Zambia,Rice,0113,Yield,5412,2023,kg/ha,1268.5,Official figure,A,Crops and livestock products,QCL,508
+Zambia,Rice,0113,Production,5510,2023,t,62679.81,Official figure,A,Crops and livestock products,QCL,507
+Zambia,Wheat,0111,Area harvested,5312,2023,ha,36551,Official figure,A,Crops and livestock products,QCL,506
+Zambia,Wheat,0111,Yield,5412,2023,kg/ha,7592,Official figure,A,Crops and livestock products,QCL,508
+Zambia,Wheat,0111,Production,5510,2023,t,277491.85,Official figure,A,Crops and livestock products,QCL,507
+Zimbabwe,Barley,0115,Area harvested,5312,2023,ha,10635,Imputed value,I,Crops and livestock products,QCL,509
+Zimbabwe,Barley,0115,Yield,5412,2023,kg/ha,5478.5,Estimated value,E,Crops and livestock products,QCL,511
+Zimbabwe,Barley,0115,Production,5510,2023,t,58261.68,Imputed value,I,Crops and livestock products,QCL,510
+Zimbabwe,Oats,0117,Area harvested,5312,2023,ha,293,Imputed value,I,Crops and livestock products,QCL,509
+Zimbabwe,Oats,0117,Yield,5412,2023,kg/ha,2070.1,Estimated value,E,Crops and livestock products,QCL,511
+Zimbabwe,Oats,0117,Production,5510,2023,t,606.92,Imputed value,I,Crops and livestock products,QCL,510
+Zimbabwe,Rice,0113,Area harvested,5312,2023,ha,224,Official figure,A,Crops and livestock products,QCL,509
+Zimbabwe,Rice,0113,Yield,5412,2023,kg/ha,328.7,Official figure,A,Crops and livestock products,QCL,511
+Zimbabwe,Rice,0113,Production,5510,2023,t,73.5,Official figure,A,Crops and livestock products,QCL,510
+Zimbabwe,Wheat,0111,Area harvested,5312,2023,ha,65878,Imputed value,I,Crops and livestock products,QCL,509
+Zimbabwe,Wheat,0111,Yield,5412,2023,kg/ha,4553.8,Estimated value,E,Crops and livestock products,QCL,511
+Zimbabwe,Wheat,0111,Production,5510,2023,t,300000,Figure from international organizations,X,Crops and livestock products,QCL,510
