@@ -89,7 +89,6 @@ for (col in names(crop_calendar_cleaned)) {
 }
 ```
 
-
 ```{r}
 write_csv(crop_yield_cleaned, "crop_yield_cleaned.csv")
 
@@ -97,4 +96,3 @@ write_csv(crop_calendar_cleaned, "crop_cal_cleaned.csv")
 
 write_csv(crop_yield10, "crop_test.csv")
 ```
-
