@@ -1,0 +1,45 @@
+---
+title: "EDS 213 Section Project: Query and Plot Outputs"
+author: "Tom Gibbens-Matsuyama"
+format: html
+editor: visual
+---
+
+### Section Project
+In this Quarto document, I will be demonstrating the query that was used SQL by reproducing it with Dbplyr code. The data used in this project is crop data consisting of countries crop yields and other related variables.
+
+### Load libraries
+
+```{r}
+library(DBI) 
+library(tidyverse)
+library(duckdb)
+library(dbplyr)
+```
+
+### Load data 
+
+```{r}
+crop_calendar <- read_csv("crop_cal_cleaned.csv")
+
+crop_yield <- read_csv("crop_yield_cleaned.csv")
+
+conn <- DBI::dbConnect(duckdb::duckdb(), dbdir='database.db')
+
+DBI::dbListTables(conn)
+```
+
+### Let's go through the workflow I created in SQL
+
+### My Questions:
+- How important are the variables average temperature and average precipitation for the yields of barley, rice, wheat, rye, and oats? 
+- How does average temperature and average precipitation affect each crop yield? 
+
+In my query, I filtered down my data a little more before joining together. I filtered the crop_yield column to only having yield outputs for the `elements` column
+
+```{r}
+crop_yield %>% 
+  filter(element == "Yield") %>% 
+  show_query()
+```
+
