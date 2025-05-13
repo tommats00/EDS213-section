@@ -6,6 +6,7 @@ editor: visual
 ---
 
 ### Section Project
+
 In this Quarto document, I will be demonstrating the query that was used SQL by reproducing it with Dbplyr code. The data used in this project is crop data consisting of countries crop yields and other related variables.
 
 ### Load libraries
@@ -17,29 +18,58 @@ library(duckdb)
 library(dbplyr)
 ```
 
-### Load data 
+### Load data
 
 ```{r}
-crop_calendar <- read_csv("crop_cal_cleaned.csv")
-
-crop_yield <- read_csv("crop_yield_cleaned.csv")
+# crop_calendar <- read_csv("crop_cal_cleaned.csv")
+# 
+# crop_yield <- read_csv("crop_yield_cleaned.csv")
 
 conn <- DBI::dbConnect(duckdb::duckdb(), dbdir='database.db')
 
 DBI::dbListTables(conn)
+
+crop_yield <- tbl(conn, "crop_yield")
+
+crop_calendar <- tbl(conn, "crop_calendar")
 ```
 
 ### Let's go through the workflow I created in SQL
 
 ### My Questions:
-- How important are the variables average temperature and average precipitation for the yields of barley, rice, wheat, rye, and oats? 
-- How does average temperature and average precipitation affect each crop yield? 
+
+-   How important are the variables average temperature and average precipitation for the yields of barley, rice, wheat, rye, and oats?
+-   How does average temperature and average precipitation affect each crop yield?
 
 In my query, I filtered down my data a little more before joining together. I filtered the crop_yield column to only having yield outputs for the `elements` column
 
 ```{r}
-crop_yield %>% 
-  filter(element == "Yield") %>% 
-  show_query()
+crop_yield <- crop_yield %>% 
+  filter(element == "Yield")
 ```
 
+### Join the two tables
+
+```{r}
+crop_join <- inner_join(crop_calendar, crop_yield, by = c("country", "crop"))
+```
+
+### Display a Table and Plots
+
+Let's showcase the highest crop yield with their corresponding average precipitation and average temperature values. Also, let's plot the data and color by crop to show how temperature and precipitation relate to each specific crop
+
+```{r}
+crop_join %>% 
+  ggplot(aes(x = temp_average, y = value, color = crop)) +
+  geom_point()
+
+crop_join %>% 
+  ggplot(aes(x = precip_average, y = value, color = crop)) +
+  geom_point() +
+  facet_wrap(~crop)
+
+crop_join %>% 
+  ggplot(aes(x = precip_average, y = temp_average, color = value)) +
+  geom_point() +
+  facet_wrap(~crop)
+```
