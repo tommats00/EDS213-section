@@ -30,6 +30,8 @@ crop_calendar <- read_csv(here("data", "crop_yields.csv")) %>%
 
 ### Start the cleaning process
 
+I am interested in the crops: Wheat, Rye, Rice, Oats, and Barley
+
 ```{r}
 
 # Product data cleaning

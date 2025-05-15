@@ -74,6 +74,9 @@ ranked_yields <- unique_yields %>%
 top5_yields <- ranked_yields %>% 
   filter(rank <=5) %>% 
   select(crop, value, country)
+
+top5_yields %>% 
+  gt::gt()
 ```
 
 ### Question 2: 

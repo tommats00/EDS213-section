@@ -13,7 +13,8 @@ SELECT * FROM crop_yield LIMIT 5;
 
 -- My crops: Barley, Rice, Wheat, Rye, Oats
 -- My question: What are the countries for the top 5 yields for each crop? 
--- My question: What is the minimum, maximum, and mean average_temp and average_precip for the top 5 yields of each crop? 
+-- My question: What is the minimum, maximum, and mean average_temp and average_precip for the top 5 yields of each crop?
+-- The crops that I am interested in are Barley, Wheat, Rye, Oats, and Rice 
  
 
 -- My question is only interested in the yields for these crops. I need to filter down my data a little more and select only the yield element
