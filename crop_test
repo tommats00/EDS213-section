@@ -1,7 +1,0 @@
-country,crop,item_code_cpc,element,element_code,year,unit,value,flag_description,flag,domain,domain_code,unique_id
-Afghanistan,Barley,0115,Area harvested,5312,2023,ha,80000,Figure from international organizations,X,Crops and livestock products,QCL,1
-Afghanistan,Barley,0115,Yield,5412,2023,kg/ha,1375,Figure from international organizations,X,Crops and livestock products,QCL,3
-Afghanistan,Barley,0115,Production,5510,2023,t,110000,Figure from international organizations,X,Crops and livestock products,QCL,2
-Afghanistan,Rice,0113,Area harvested,5312,2023,ha,129000,Official figure,A,Crops and livestock products,QCL,1
-Afghanistan,Rice,0113,Yield,5412,2023,kg/ha,4627.9,Official figure,A,Crops and livestock products,QCL,3
-Afghanistan,Rice,0113,Production,5510,2023,t,597000,Official figure,A,Crops and livestock products,QCL,2

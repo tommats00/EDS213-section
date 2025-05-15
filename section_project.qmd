@@ -21,14 +21,12 @@ library(dbplyr)
 ### Load data
 
 ```{r}
-# crop_calendar <- read_csv("crop_cal_cleaned.csv")
-# 
-# crop_yield <- read_csv("crop_yield_cleaned.csv")
 
+# Connect to database
 conn <- DBI::dbConnect(duckdb::duckdb(), dbdir='database.db')
-
 DBI::dbListTables(conn)
 
+# Read in database data
 crop_yield <- tbl(conn, "crop_yield")
 
 crop_calendar <- tbl(conn, "crop_calendar")
@@ -38,12 +36,13 @@ crop_calendar <- tbl(conn, "crop_calendar")
 
 ### My Questions:
 
--   How important are the variables average temperature and average precipitation for the yields of barley, rice, wheat, rye, and oats?
--   How does average temperature and average precipitation affect each crop yield?
+- My question: What are the countries for the top 5 yields for each crop? 
+- My question: What is the minimum, maximum, and mean average_temp and average_precip for the top 5 yields of each crop? 
 
 In my query, I filtered down my data a little more before joining together. I filtered the crop_yield column to only having yield outputs for the `elements` column
 
 ```{r}
+# Filter so we only have a yield observation
 crop_yield <- crop_yield %>% 
   filter(element == "Yield")
 ```
@@ -51,25 +50,88 @@ crop_yield <- crop_yield %>%
 ### Join the two tables
 
 ```{r}
+# Join our two tables together
 crop_join <- inner_join(crop_calendar, crop_yield, by = c("country", "crop"))
 ```
 
-### Display a Table and Plots
-
-Let's showcase the highest crop yield with their corresponding average precipitation and average temperature values. Also, let's plot the data and color by crop to show how temperature and precipitation relate to each specific crop
+### Question 1:
+For my first question I want to find what countries make up the top 5 yields for each crop. This means I should have 25 observations, as I want to calculate the top 5 yields for 5 crops. I will use the same workflow as my SQL query. 
 
 ```{r}
-crop_join %>% 
-  ggplot(aes(x = temp_average, y = value, color = crop)) +
-  geom_point()
+# Get rid of duplicate country observations, if there are any
+unique_yields <- crop_join %>% 
+  group_by(crop, value) %>% 
+  summarise(country = max(country)) %>% 
+  ungroup()
 
-crop_join %>% 
-  ggplot(aes(x = precip_average, y = value, color = crop)) +
-  geom_point() +
-  facet_wrap(~crop)
+# Create a ranking of the countries by yield value
+ranked_yields <- unique_yields %>% 
+  group_by(crop) %>% 
+  mutate(rank = min_rank(desc(value))) %>% 
+  ungroup()
 
-crop_join %>% 
-  ggplot(aes(x = precip_average, y = temp_average, color = value)) +
-  geom_point() +
-  facet_wrap(~crop)
+# Filter to only top 5 ranking per crop 
+top5_yields <- ranked_yields %>% 
+  filter(rank <=5) %>% 
+  select(crop, value, country)
 ```
+
+### Question 2: 
+My question: What is the minimum, maximum, and mean temp_average and precip_average for the top 5 yields of each crop? Again, I will use the same workflow and naming conventions as my SQL query. 
+
+```{r}
+# Creating a new top 5 yields column
+top5_yields_2 <- ranked_yields %>% 
+  filter(rank <=5)
+
+# Join back with crop data to get avg temp and precip data
+top5_climate <- top5_yields_2 %>% 
+  inner_join(crop_join, by = c("crop", "value", "country"))
+
+# I can do an inner join to get the other variables back
+climate_summary_stats <- top5_climate %>% 
+  group_by(crop) %>% 
+  summarise(
+    min_temp = round(min(temp_average, na.rm = TRUE), 2),
+    max_temp = round(max(temp_average, na.rm = TRUE), 2),
+    mean_temp = round(mean(temp_average, na.rm = TRUE), 2),
+    min_precip = round(min(precip_average, na.rm = TRUE), 2),
+    max_precip = round(max(precip_average, na.rm = TRUE), 2),
+    mean_precip = round(mean(precip_average, na.rm = TRUE), 2),
+    .groups = "drop"
+  ) 
+
+# For tempareature data: need to pivot longer for plotting
+climate_pivot_temp <- climate_summary_stats %>% 
+  select(crop, min_temp, max_temp, mean_temp) %>% 
+  pivot_longer(cols = -crop,
+               names_to = "summary_stat",
+               values_to = "value")
+
+
+# Plotting the temperature data
+ggplot(climate_pivot_temp, aes(x = crop, y = value, fill = summary_stat)) +
+  geom_col(position = "dodge") +
+  labs(x = element_blank(),
+       y = "Temperature (Degrees Celsius)",
+       title = "Temperature Summary Stats for the Top 5 Crop Yields") +
+  theme_minimal()
+
+
+# For precipitation data: need to pivot longer for the plot
+climate_pivot_precip <- climate_summary_stats %>% 
+  select(crop, min_precip, max_precip, mean_precip) %>% 
+  pivot_longer(cols = -crop,
+               names_to = "summary_stat",
+               values_to = "value")
+
+
+# Plotting the precipitaiton data
+ggplot(climate_pivot_precip, aes(x = crop, y = value, fill = summary_stat)) +
+  geom_col(position = "dodge") +
+  labs(x = element_blank(),
+       y = "Precipitation (mm per Month)",
+       title = "Precipitation Summary Stats for the Top 5 Crop Yields") +
+  theme_minimal()
+```
+

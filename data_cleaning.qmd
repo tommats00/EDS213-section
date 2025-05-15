@@ -46,15 +46,9 @@ crop_yield_cleaned$unique_id <- as.integer(factor(paste(crop_yield_cleaned$count
                                                crop_yield_cleaned$crop,
                                                crop_yield_cleaned$element,
                                                crop_yield_cleaned$year))) 
-
+# Drop na rows with nas
 crop_yield_cleaned <- crop_yield_cleaned %>% 
   drop_na()
-
-## Example 
-crop_yield10 <- crop_yield_cleaned %>% 
-  head()
-
-
 
 # Calendar data cleaning
 crop_calendar_cleaned <- crop_calendar %>% 
@@ -90,9 +84,7 @@ for (col in names(crop_calendar_cleaned)) {
 ```
 
 ```{r}
+# Write to a CSV for our database 
 write_csv(crop_yield_cleaned, "crop_yield_cleaned.csv")
-
 write_csv(crop_calendar_cleaned, "crop_cal_cleaned.csv")
-
-write_csv(crop_yield10, "crop_test.csv")
 ```
