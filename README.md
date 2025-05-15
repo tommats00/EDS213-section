@@ -21,16 +21,18 @@ Crop Yield: This data is from the Food and Agriculture Organization of the Unite
 eds213-section/
 │
 ├── README.md                     
-├── data_cleaning.qmd   
-├── sections.sql
-├── query_and_viz.qmd
-├── dependencies.txt
+├── data_cleaning.qmd
+├── database.db
+├── dependencies.txt  
+├── my_query.sql
+├── section_project.qmd
+│
 |
 ├── data/
 │   ├── FAOSTAT_data_en_4-1-2025.csv
+│   ├── crop_cal_cleaned.csv
+│   ├── crop_yield_clean.csv
 │   ├── crop_yields.csv
-│   ├── crop_prod_clean.csv
-│   ├── crop_cal_clean.csv
 
 ```
 
