@@ -1,6 +1,6 @@
 # Temperature and Precipitation on Total Crop Yield In Different Countries
 
-<img src="https://nutritionfacts.org/app/uploads/2018/08/1Priority-Presentation.006.jpeg" width="200" />
+<img src="https://nutritionfacts.org/app/uploads/2018/08/1Priority-Presentation.006.jpeg" width="400" />
 
 
 The purpose of this repository is to demonstrate the process of building a relational database in SQL to answer the question: How impactful are average temperature and average precipitation on wheat, barley, oats, rye, and rice. 
